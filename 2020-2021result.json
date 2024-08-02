@@ -1,0 +1,7427 @@
+{
+  "0": {
+    "0": {
+      "name": "/player/3741/niko",
+      "KPR": "0.79",
+      "DPR": "0.69",
+      "KAST": "62.1%",
+      "Impact": "1.57",
+      "ADR": "84.9",
+      "Rating 2.0": "1.19"
+    },
+    "1": {
+      "name": "/player/284/jackz",
+      "KPR": "0.76",
+      "DPR": "0.66",
+      "KAST": "72.4%",
+      "Impact": "1.06",
+      "ADR": "74.8",
+      "Rating 2.0": "1.13"
+    },
+    "2": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.66",
+      "DPR": "0.69",
+      "KAST": "65.5%",
+      "Impact": "0.73",
+      "ADR": "65.6",
+      "Rating 2.0": "0.90"
+    },
+    "3": {
+      "name": "/player/3972/hunter",
+      "KPR": "0.48",
+      "DPR": "0.69",
+      "KAST": "62.1%",
+      "Impact": "0.78",
+      "ADR": "61.2",
+      "Rating 2.0": "0.83"
+    },
+    "4": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.38",
+      "DPR": "0.69",
+      "KAST": "69.0%",
+      "Impact": "0.41",
+      "ADR": "42.9",
+      "Rating 2.0": "0.71"
+    },
+    "5": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.72",
+      "DPR": "0.55",
+      "KAST": "75.9%",
+      "Impact": "0.86",
+      "ADR": "81.6",
+      "Rating 2.0": "1.18"
+    },
+    "6": {
+      "name": "/player/8918/electronic",
+      "KPR": "0.72",
+      "DPR": "0.76",
+      "KAST": "75.9%",
+      "Impact": "1.04",
+      "ADR": "95.0",
+      "Rating 2.0": "1.16"
+    },
+    "7": {
+      "name": "/player/7998/s1mple",
+      "KPR": "0.72",
+      "DPR": "0.55",
+      "KAST": "72.4%",
+      "Impact": "1.06",
+      "ADR": "64.7",
+      "Rating 2.0": "1.12"
+    },
+    "8": {
+      "name": "/player/18987/b1t",
+      "KPR": "0.59",
+      "DPR": "0.48",
+      "KAST": "69.0%",
+      "Impact": "1.00",
+      "ADR": "62.1",
+      "Rating 2.0": "1.08"
+    },
+    "9": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.66",
+      "DPR": "0.72",
+      "KAST": "65.5%",
+      "Impact": "0.78",
+      "ADR": "69.7",
+      "Rating 2.0": "0.92"
+    },
+    "mapStatsid": 123930,
+    "name1": "G2",
+    "name2": "Natus Vincere",
+    "result": {
+      "team1": 13,
+      "team2": 16
+    }
+  },
+  "1": {
+    "0": {
+      "name": "/player/3741/niko",
+      "KPR": "1.03",
+      "DPR": "0.67",
+      "KAST": "73.3%",
+      "Impact": "1.63",
+      "ADR": "106.0",
+      "Rating 2.0": "1.49"
+    },
+    "1": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.67",
+      "DPR": "0.60",
+      "KAST": "70.0%",
+      "Impact": "1.07",
+      "ADR": "64.6",
+      "Rating 2.0": "1.06"
+    },
+    "2": {
+      "name": "/player/3972/hunter",
+      "KPR": "0.60",
+      "DPR": "0.63",
+      "KAST": "63.3%",
+      "Impact": "0.88",
+      "ADR": "62.2",
+      "Rating 2.0": "0.95"
+    },
+    "3": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.53",
+      "DPR": "0.73",
+      "KAST": "66.7%",
+      "Impact": "0.36",
+      "ADR": "55.7",
+      "Rating 2.0": "0.76"
+    },
+    "4": {
+      "name": "/player/284/jackz",
+      "KPR": "0.30",
+      "DPR": "0.63",
+      "KAST": "63.3%",
+      "Impact": "0.39",
+      "ADR": "46.8",
+      "Rating 2.0": "0.65"
+    },
+    "5": {
+      "name": "/player/18987/b1t",
+      "KPR": "0.80",
+      "DPR": "0.63",
+      "KAST": "80.0%",
+      "Impact": "1.45",
+      "ADR": "89.2",
+      "Rating 2.0": "1.37"
+    },
+    "6": {
+      "name": "/player/7998/s1mple",
+      "KPR": "0.80",
+      "DPR": "0.60",
+      "KAST": "80.0%",
+      "Impact": "1.18",
+      "ADR": "76.0",
+      "Rating 2.0": "1.24"
+    },
+    "7": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.60",
+      "DPR": "0.57",
+      "KAST": "63.3%",
+      "Impact": "0.78",
+      "ADR": "62.4",
+      "Rating 2.0": "0.95"
+    },
+    "8": {
+      "name": "/player/8918/electronic",
+      "KPR": "0.57",
+      "DPR": "0.67",
+      "KAST": "73.3%",
+      "Impact": "0.44",
+      "ADR": "70.8",
+      "Rating 2.0": "0.91"
+    },
+    "9": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.50",
+      "DPR": "0.67",
+      "KAST": "63.3%",
+      "Impact": "0.87",
+      "ADR": "64.8",
+      "Rating 2.0": "0.90"
+    },
+    "mapStatsid": 123926,
+    "name1": "Natus Vincere",
+    "name2": "G2",
+    "result": {
+      "team1": 16,
+      "team2": 14
+    }
+  },
+  "2": {
+    "0": {
+      "name": "/player/3972/hunter",
+      "KPR": "0.85",
+      "DPR": "0.74",
+      "KAST": "63.0%",
+      "Impact": "1.27",
+      "ADR": "85.0",
+      "Rating 2.0": "1.12"
+    },
+    "1": {
+      "name": "/player/284/jackz",
+      "KPR": "0.67",
+      "DPR": "0.81",
+      "KAST": "55.6%",
+      "Impact": "1.02",
+      "ADR": "64.9",
+      "Rating 2.0": "0.82"
+    },
+    "2": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.52",
+      "DPR": "0.70",
+      "KAST": "70.4%",
+      "Impact": "0.55",
+      "ADR": "45.9",
+      "Rating 2.0": "0.79"
+    },
+    "3": {
+      "name": "/player/3741/niko",
+      "KPR": "0.41",
+      "DPR": "0.78",
+      "KAST": "66.7%",
+      "Impact": "0.52",
+      "ADR": "65.4",
+      "Rating 2.0": "0.75"
+    },
+    "4": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.33",
+      "DPR": "0.67",
+      "KAST": "44.4%",
+      "Impact": "0.29",
+      "ADR": "45.3",
+      "Rating 2.0": "0.52"
+    },
+    "5": {
+      "name": "/player/7998/s1mple",
+      "KPR": "1.11",
+      "DPR": "0.56",
+      "KAST": "85.2%",
+      "Impact": "2.04",
+      "ADR": "108.3",
+      "Rating 2.0": "1.80"
+    },
+    "6": {
+      "name": "/player/18987/b1t",
+      "KPR": "0.78",
+      "DPR": "0.52",
+      "KAST": "81.5%",
+      "Impact": "1.41",
+      "ADR": "78.9",
+      "Rating 2.0": "1.37"
+    },
+    "7": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.74",
+      "DPR": "0.52",
+      "KAST": "81.5%",
+      "Impact": "1.35",
+      "ADR": "63.9",
+      "Rating 2.0": "1.26"
+    },
+    "8": {
+      "name": "/player/8918/electronic",
+      "KPR": "0.70",
+      "DPR": "0.59",
+      "KAST": "59.3%",
+      "Impact": "1.20",
+      "ADR": "77.1",
+      "Rating 2.0": "1.11"
+    },
+    "9": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.37",
+      "DPR": "0.59",
+      "KAST": "70.4%",
+      "Impact": "0.50",
+      "ADR": "55.0",
+      "Rating 2.0": "0.82"
+    },
+    "mapStatsid": 123920,
+    "name1": "G2",
+    "name2": "Natus Vincere",
+    "result": {
+      "team1": 11,
+      "team2": 16
+    }
+  },
+  "3": {
+    "0": {
+      "name": "/player/8918/electronic",
+      "KPR": "1.04",
+      "DPR": "0.61",
+      "KAST": "91.3%",
+      "Impact": "1.66",
+      "ADR": "112.0",
+      "Rating 2.0": "1.71"
+    },
+    "1": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.87",
+      "DPR": "0.52",
+      "KAST": "82.6%",
+      "Impact": "1.86",
+      "ADR": "91.3",
+      "Rating 2.0": "1.56"
+    },
+    "2": {
+      "name": "/player/7998/s1mple",
+      "KPR": "0.87",
+      "DPR": "0.48",
+      "KAST": "87.0%",
+      "Impact": "1.52",
+      "ADR": "86.7",
+      "Rating 2.0": "1.56"
+    },
+    "3": {
+      "name": "/player/18987/b1t",
+      "KPR": "0.74",
+      "DPR": "0.61",
+      "KAST": "82.6%",
+      "Impact": "1.29",
+      "ADR": "79.0",
+      "Rating 2.0": "1.30"
+    },
+    "4": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.43",
+      "DPR": "0.52",
+      "KAST": "87.0%",
+      "Impact": "0.51",
+      "ADR": "46.8",
+      "Rating 2.0": "0.97"
+    },
+    "5": {
+      "name": "/player/18053/broky",
+      "KPR": "0.61",
+      "DPR": "0.70",
+      "KAST": "56.5%",
+      "Impact": "0.96",
+      "ADR": "75.0",
+      "Rating 2.0": "0.90"
+    },
+    "6": {
+      "name": "/player/8183/rain",
+      "KPR": "0.70",
+      "DPR": "0.78",
+      "KAST": "65.2%",
+      "Impact": "1.03",
+      "ADR": "61.9",
+      "Rating 2.0": "0.89"
+    },
+    "7": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.57",
+      "DPR": "0.83",
+      "KAST": "56.5%",
+      "Impact": "0.53",
+      "ADR": "80.9",
+      "Rating 2.0": "0.76"
+    },
+    "8": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.43",
+      "DPR": "0.83",
+      "KAST": "52.2%",
+      "Impact": "0.83",
+      "ADR": "46.4",
+      "Rating 2.0": "0.62"
+    },
+    "9": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.39",
+      "DPR": "0.83",
+      "KAST": "47.8%",
+      "Impact": "0.58",
+      "ADR": "56.9",
+      "Rating 2.0": "0.57"
+    },
+    "mapStatsid": 123881,
+    "name1": "FaZe",
+    "name2": "Natus Vincere",
+    "result": {
+      "team1": 7,
+      "team2": 16
+    }
+  },
+  "4": {
+    "0": {
+      "name": "/player/7998/s1mple",
+      "KPR": "1.39",
+      "DPR": "0.48",
+      "KAST": "78.3%",
+      "Impact": "2.46",
+      "ADR": "124.7",
+      "Rating 2.0": "2.01"
+    },
+    "1": {
+      "name": "/player/18987/b1t",
+      "KPR": "0.74",
+      "DPR": "0.57",
+      "KAST": "78.3%",
+      "Impact": "1.13",
+      "ADR": "97.3",
+      "Rating 2.0": "1.32"
+    },
+    "2": {
+      "name": "/player/8918/electronic",
+      "KPR": "0.78",
+      "DPR": "0.65",
+      "KAST": "69.6%",
+      "Impact": "1.22",
+      "ADR": "86.3",
+      "Rating 2.0": "1.17"
+    },
+    "3": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.65",
+      "DPR": "0.48",
+      "KAST": "78.3%",
+      "Impact": "1.03",
+      "ADR": "70.5",
+      "Rating 2.0": "1.16"
+    },
+    "4": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.57",
+      "DPR": "0.61",
+      "KAST": "91.3%",
+      "Impact": "0.67",
+      "ADR": "68.0",
+      "Rating 2.0": "1.07"
+    },
+    "5": {
+      "name": "/player/8183/rain",
+      "KPR": "0.87",
+      "DPR": "0.78",
+      "KAST": "78.3%",
+      "Impact": "1.32",
+      "ADR": "94.7",
+      "Rating 2.0": "1.26"
+    },
+    "6": {
+      "name": "/player/18053/broky",
+      "KPR": "0.65",
+      "DPR": "0.91",
+      "KAST": "52.2%",
+      "Impact": "0.95",
+      "ADR": "77.9",
+      "Rating 2.0": "0.80"
+    },
+    "7": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.35",
+      "DPR": "0.74",
+      "KAST": "60.9%",
+      "Impact": "0.61",
+      "ADR": "59.6",
+      "Rating 2.0": "0.70"
+    },
+    "8": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.57",
+      "DPR": "0.87",
+      "KAST": "60.9%",
+      "Impact": "0.62",
+      "ADR": "54.9",
+      "Rating 2.0": "0.63"
+    },
+    "9": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.35",
+      "DPR": "0.83",
+      "KAST": "47.8%",
+      "Impact": "0.62",
+      "ADR": "51.6",
+      "Rating 2.0": "0.56"
+    },
+    "mapStatsid": 123879,
+    "name1": "Natus Vincere",
+    "name2": "FaZe",
+    "result": {
+      "team1": 16,
+      "team2": 7
+    }
+  },
+  "5": {
+    "0": {
+      "name": "/player/3972/hunter",
+      "KPR": "0.77",
+      "DPR": "0.60",
+      "KAST": "63.3%",
+      "Impact": "1.41",
+      "ADR": "71.0",
+      "Rating 2.0": "1.12"
+    },
+    "1": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.70",
+      "DPR": "0.83",
+      "KAST": "63.3%",
+      "Impact": "1.25",
+      "ADR": "72.7",
+      "Rating 2.0": "1.02"
+    },
+    "2": {
+      "name": "/player/284/jackz",
+      "KPR": "0.67",
+      "DPR": "0.67",
+      "KAST": "66.7%",
+      "Impact": "1.06",
+      "ADR": "67.3",
+      "Rating 2.0": "0.98"
+    },
+    "3": {
+      "name": "/player/3741/niko",
+      "KPR": "0.53",
+      "DPR": "0.67",
+      "KAST": "63.3%",
+      "Impact": "0.77",
+      "ADR": "77.7",
+      "Rating 2.0": "0.93"
+    },
+    "4": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.60",
+      "DPR": "0.70",
+      "KAST": "63.3%",
+      "Impact": "0.86",
+      "ADR": "65.5",
+      "Rating 2.0": "0.89"
+    },
+    "5": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.60",
+      "DPR": "0.63",
+      "KAST": "73.3%",
+      "Impact": "1.07",
+      "ADR": "71.6",
+      "Rating 2.0": "1.12"
+    },
+    "6": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.77",
+      "DPR": "0.67",
+      "KAST": "70.0%",
+      "Impact": "1.04",
+      "ADR": "82.0",
+      "Rating 2.0": "1.11"
+    },
+    "7": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "0.77",
+      "DPR": "0.73",
+      "KAST": "66.7%",
+      "Impact": "1.14",
+      "ADR": "83.0",
+      "Rating 2.0": "1.10"
+    },
+    "8": {
+      "name": "/player/9032/magisk",
+      "KPR": "0.63",
+      "DPR": "0.53",
+      "KAST": "73.3%",
+      "Impact": "0.94",
+      "ADR": "70.6",
+      "Rating 2.0": "1.08"
+    },
+    "9": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.63",
+      "DPR": "0.73",
+      "KAST": "66.7%",
+      "Impact": "1.09",
+      "ADR": "73.7",
+      "Rating 2.0": "1.00"
+    },
+    "mapStatsid": 123877,
+    "name1": "G2",
+    "name2": "Astralis",
+    "result": {
+      "team1": 16,
+      "team2": 14
+    }
+  },
+  "6": {
+    "0": {
+      "name": "/player/3741/niko",
+      "KPR": "0.64",
+      "DPR": "0.75",
+      "KAST": "60.7%",
+      "Impact": "1.06",
+      "ADR": "86.1",
+      "Rating 2.0": "1.02"
+    },
+    "1": {
+      "name": "/player/284/jackz",
+      "KPR": "0.57",
+      "DPR": "0.68",
+      "KAST": "75.0%",
+      "Impact": "0.77",
+      "ADR": "61.4",
+      "Rating 2.0": "0.95"
+    },
+    "2": {
+      "name": "/player/3972/hunter",
+      "KPR": "0.64",
+      "DPR": "0.71",
+      "KAST": "57.1%",
+      "Impact": "0.84",
+      "ADR": "66.2",
+      "Rating 2.0": "0.89"
+    },
+    "3": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.54",
+      "DPR": "0.54",
+      "KAST": "60.7%",
+      "Impact": "0.54",
+      "ADR": "54.0",
+      "Rating 2.0": "0.85"
+    },
+    "4": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.54",
+      "DPR": "0.68",
+      "KAST": "60.7%",
+      "Impact": "0.57",
+      "ADR": "65.8",
+      "Rating 2.0": "0.81"
+    },
+    "5": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.71",
+      "DPR": "0.61",
+      "KAST": "67.9%",
+      "Impact": "1.51",
+      "ADR": "74.4",
+      "Rating 2.0": "1.20"
+    },
+    "6": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "0.71",
+      "DPR": "0.68",
+      "KAST": "75.0%",
+      "Impact": "1.15",
+      "ADR": "79.8",
+      "Rating 2.0": "1.12"
+    },
+    "7": {
+      "name": "/player/9032/magisk",
+      "KPR": "0.71",
+      "DPR": "0.54",
+      "KAST": "78.6%",
+      "Impact": "0.74",
+      "ADR": "70.9",
+      "Rating 2.0": "1.10"
+    },
+    "8": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.68",
+      "DPR": "0.54",
+      "KAST": "75.0%",
+      "Impact": "0.74",
+      "ADR": "68.5",
+      "Rating 2.0": "1.07"
+    },
+    "9": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.54",
+      "DPR": "0.57",
+      "KAST": "71.4%",
+      "Impact": "0.78",
+      "ADR": "69.1",
+      "Rating 2.0": "0.97"
+    },
+    "mapStatsid": 123872,
+    "name1": "Astralis",
+    "name2": "G2",
+    "result": {
+      "team1": 16,
+      "team2": 12
+    }
+  },
+  "7": {
+    "0": {
+      "name": "/player/9616/amanek",
+      "KPR": "1.14",
+      "DPR": "0.41",
+      "KAST": "77.3%",
+      "Impact": "2.17",
+      "ADR": "106.3",
+      "Rating 2.0": "1.82"
+    },
+    "1": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.68",
+      "DPR": "0.50",
+      "KAST": "81.8%",
+      "Impact": "0.98",
+      "ADR": "79.1",
+      "Rating 2.0": "1.21"
+    },
+    "2": {
+      "name": "/player/3741/niko",
+      "KPR": "0.77",
+      "DPR": "0.59",
+      "KAST": "68.2%",
+      "Impact": "1.26",
+      "ADR": "83.4",
+      "Rating 2.0": "1.14"
+    },
+    "3": {
+      "name": "/player/3972/hunter",
+      "KPR": "0.73",
+      "DPR": "0.59",
+      "KAST": "68.2%",
+      "Impact": "1.01",
+      "ADR": "75.6",
+      "Rating 2.0": "1.09"
+    },
+    "4": {
+      "name": "/player/284/jackz",
+      "KPR": "0.23",
+      "DPR": "0.50",
+      "KAST": "68.2%",
+      "Impact": "0.45",
+      "ADR": "32.1",
+      "Rating 2.0": "0.73"
+    },
+    "5": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "0.77",
+      "DPR": "0.64",
+      "KAST": "68.2%",
+      "Impact": "1.08",
+      "ADR": "65.7",
+      "Rating 2.0": "1.06"
+    },
+    "6": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.68",
+      "DPR": "0.73",
+      "KAST": "50.0%",
+      "Impact": "1.32",
+      "ADR": "68.0",
+      "Rating 2.0": "0.91"
+    },
+    "7": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.27",
+      "DPR": "0.64",
+      "KAST": "72.7%",
+      "Impact": "0.39",
+      "ADR": "55.8",
+      "Rating 2.0": "0.77"
+    },
+    "8": {
+      "name": "/player/9032/magisk",
+      "KPR": "0.45",
+      "DPR": "0.73",
+      "KAST": "50.0%",
+      "Impact": "0.87",
+      "ADR": "51.9",
+      "Rating 2.0": "0.73"
+    },
+    "9": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.41",
+      "DPR": "0.82",
+      "KAST": "59.1%",
+      "Impact": "0.62",
+      "ADR": "64.5",
+      "Rating 2.0": "0.72"
+    },
+    "mapStatsid": 123869,
+    "name1": "G2",
+    "name2": "Astralis",
+    "result": {
+      "team1": 16,
+      "team2": 6
+    }
+  },
+  "8": {
+    "0": {
+      "name": "/player/16921/nafany",
+      "KPR": "0.76",
+      "DPR": "0.64",
+      "KAST": "80.0%",
+      "Impact": "1.63",
+      "ADR": "81.3",
+      "Rating 2.0": "1.33"
+    },
+    "1": {
+      "name": "/player/16920/sh1ro",
+      "KPR": "0.60",
+      "DPR": "0.56",
+      "KAST": "56.0%",
+      "Impact": "0.77",
+      "ADR": "77.6",
+      "Rating 2.0": "0.94"
+    },
+    "2": {
+      "name": "/player/16555/ax1le",
+      "KPR": "0.56",
+      "DPR": "0.80",
+      "KAST": "56.0%",
+      "Impact": "0.87",
+      "ADR": "81.3",
+      "Rating 2.0": "0.89"
+    },
+    "3": {
+      "name": "/player/15071/interz",
+      "KPR": "0.56",
+      "DPR": "0.60",
+      "KAST": "68.0%",
+      "Impact": "0.76",
+      "ADR": "53.0",
+      "Rating 2.0": "0.89"
+    },
+    "4": {
+      "name": "/player/8528/hobbit",
+      "KPR": "0.36",
+      "DPR": "0.64",
+      "KAST": "68.0%",
+      "Impact": "0.38",
+      "ADR": "52.0",
+      "Rating 2.0": "0.74"
+    },
+    "5": {
+      "name": "/player/18053/broky",
+      "KPR": "0.96",
+      "DPR": "0.32",
+      "KAST": "80.0%",
+      "Impact": "1.66",
+      "ADR": "93.0",
+      "Rating 2.0": "1.65"
+    },
+    "6": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.68",
+      "DPR": "0.68",
+      "KAST": "76.0%",
+      "Impact": "1.27",
+      "ADR": "76.5",
+      "Rating 2.0": "1.15"
+    },
+    "7": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.60",
+      "DPR": "0.64",
+      "KAST": "80.0%",
+      "Impact": "0.84",
+      "ADR": "52.7",
+      "Rating 2.0": "0.99"
+    },
+    "8": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.44",
+      "DPR": "0.56",
+      "KAST": "72.0%",
+      "Impact": "0.46",
+      "ADR": "59.1",
+      "Rating 2.0": "0.88"
+    },
+    "9": {
+      "name": "/player/8183/rain",
+      "KPR": "0.52",
+      "DPR": "0.68",
+      "KAST": "68.0%",
+      "Impact": "0.42",
+      "ADR": "66.9",
+      "Rating 2.0": "0.84"
+    },
+    "mapStatsid": 123848,
+    "name1": "Gambit",
+    "name2": "FaZe",
+    "result": {
+      "team1": 9,
+      "team2": 16
+    }
+  },
+  "9": {
+    "0": {
+      "name": "/player/16920/sh1ro",
+      "KPR": "0.83",
+      "DPR": "0.45",
+      "KAST": "83.3%",
+      "Impact": "1.10",
+      "ADR": "77.8",
+      "Rating 2.0": "1.37"
+    },
+    "1": {
+      "name": "/player/16555/ax1le",
+      "KPR": "0.81",
+      "DPR": "0.74",
+      "KAST": "78.6%",
+      "Impact": "1.40",
+      "ADR": "91.8",
+      "Rating 2.0": "1.29"
+    },
+    "2": {
+      "name": "/player/16921/nafany",
+      "KPR": "0.71",
+      "DPR": "0.69",
+      "KAST": "73.8%",
+      "Impact": "1.11",
+      "ADR": "88.7",
+      "Rating 2.0": "1.17"
+    },
+    "3": {
+      "name": "/player/8528/hobbit",
+      "KPR": "0.64",
+      "DPR": "0.62",
+      "KAST": "69.0%",
+      "Impact": "1.27",
+      "ADR": "73.8",
+      "Rating 2.0": "1.13"
+    },
+    "4": {
+      "name": "/player/15071/interz",
+      "KPR": "0.55",
+      "DPR": "0.57",
+      "KAST": "66.7%",
+      "Impact": "0.74",
+      "ADR": "53.0",
+      "Rating 2.0": "0.90"
+    },
+    "5": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.69",
+      "DPR": "0.67",
+      "KAST": "71.4%",
+      "Impact": "1.08",
+      "ADR": "67.5",
+      "Rating 2.0": "1.03"
+    },
+    "6": {
+      "name": "/player/18053/broky",
+      "KPR": "0.69",
+      "DPR": "0.69",
+      "KAST": "69.0%",
+      "Impact": "1.07",
+      "ADR": "70.0",
+      "Rating 2.0": "1.01"
+    },
+    "7": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.57",
+      "DPR": "0.71",
+      "KAST": "69.0%",
+      "Impact": "0.80",
+      "ADR": "71.5",
+      "Rating 2.0": "0.93"
+    },
+    "8": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.60",
+      "DPR": "0.69",
+      "KAST": "69.0%",
+      "Impact": "0.87",
+      "ADR": "63.2",
+      "Rating 2.0": "0.90"
+    },
+    "9": {
+      "name": "/player/8183/rain",
+      "KPR": "0.50",
+      "DPR": "0.81",
+      "KAST": "59.5%",
+      "Impact": "0.76",
+      "ADR": "72.2",
+      "Rating 2.0": "0.78"
+    },
+    "mapStatsid": 123842,
+    "name1": "FaZe",
+    "name2": "Gambit",
+    "result": {
+      "team1": 20,
+      "team2": 22
+    }
+  },
+  "10": {
+    "0": {
+      "name": "/player/8528/hobbit",
+      "KPR": "0.72",
+      "DPR": "0.76",
+      "KAST": "79.3%",
+      "Impact": "1.23",
+      "ADR": "88.4",
+      "Rating 2.0": "1.22"
+    },
+    "1": {
+      "name": "/player/16921/nafany",
+      "KPR": "0.72",
+      "DPR": "0.69",
+      "KAST": "58.6%",
+      "Impact": "1.35",
+      "ADR": "68.2",
+      "Rating 2.0": "1.04"
+    },
+    "2": {
+      "name": "/player/16555/ax1le",
+      "KPR": "0.52",
+      "DPR": "0.69",
+      "KAST": "65.5%",
+      "Impact": "1.07",
+      "ADR": "80.2",
+      "Rating 2.0": "0.99"
+    },
+    "3": {
+      "name": "/player/16920/sh1ro",
+      "KPR": "0.59",
+      "DPR": "0.69",
+      "KAST": "65.5%",
+      "Impact": "0.51",
+      "ADR": "50.5",
+      "Rating 2.0": "0.79"
+    },
+    "4": {
+      "name": "/player/15071/interz",
+      "KPR": "0.52",
+      "DPR": "0.76",
+      "KAST": "65.5%",
+      "Impact": "0.51",
+      "ADR": "47.4",
+      "Rating 2.0": "0.68"
+    },
+    "5": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.83",
+      "DPR": "0.59",
+      "KAST": "86.2%",
+      "Impact": "0.76",
+      "ADR": "89.5",
+      "Rating 2.0": "1.28"
+    },
+    "6": {
+      "name": "/player/8183/rain",
+      "KPR": "0.79",
+      "DPR": "0.66",
+      "KAST": "65.5%",
+      "Impact": "1.38",
+      "ADR": "92.8",
+      "Rating 2.0": "1.27"
+    },
+    "7": {
+      "name": "/player/18053/broky",
+      "KPR": "0.72",
+      "DPR": "0.45",
+      "KAST": "79.3%",
+      "Impact": "0.97",
+      "ADR": "73.3",
+      "Rating 2.0": "1.24"
+    },
+    "8": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.69",
+      "DPR": "0.72",
+      "KAST": "65.5%",
+      "Impact": "1.05",
+      "ADR": "69.4",
+      "Rating 2.0": "0.96"
+    },
+    "9": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.55",
+      "DPR": "0.66",
+      "KAST": "69.0%",
+      "Impact": "0.80",
+      "ADR": "64.3",
+      "Rating 2.0": "0.94"
+    },
+    "mapStatsid": 123837,
+    "name1": "Gambit",
+    "name2": "FaZe",
+    "result": {
+      "team1": 13,
+      "team2": 16
+    }
+  },
+  "11": {
+    "0": {
+      "name": "/player/13239/qikert",
+      "KPR": "0.83",
+      "DPR": "0.67",
+      "KAST": "75.0%",
+      "Impact": "1.29",
+      "ADR": "87.9",
+      "Rating 2.0": "1.28"
+    },
+    "1": {
+      "name": "/player/13776/jame",
+      "KPR": "0.54",
+      "DPR": "0.71",
+      "KAST": "62.5%",
+      "Impact": "0.77",
+      "ADR": "52.8",
+      "Rating 2.0": "0.80"
+    },
+    "2": {
+      "name": "/player/11942/buster",
+      "KPR": "0.54",
+      "DPR": "0.71",
+      "KAST": "54.2%",
+      "Impact": "0.74",
+      "ADR": "60.2",
+      "Rating 2.0": "0.77"
+    },
+    "3": {
+      "name": "/player/11716/sanji",
+      "KPR": "0.46",
+      "DPR": "0.79",
+      "KAST": "62.5%",
+      "Impact": "0.50",
+      "ADR": "56.4",
+      "Rating 2.0": "0.72"
+    },
+    "4": {
+      "name": "/player/13915/yekindar",
+      "KPR": "0.21",
+      "DPR": "0.79",
+      "KAST": "45.8%",
+      "Impact": "0.68",
+      "ADR": "41.1",
+      "Rating 2.0": "0.50"
+    },
+    "5": {
+      "name": "/player/9032/magisk",
+      "KPR": "1.00",
+      "DPR": "0.42",
+      "KAST": "87.5%",
+      "Impact": "1.59",
+      "ADR": "105.7",
+      "Rating 2.0": "1.68"
+    },
+    "6": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.75",
+      "DPR": "0.50",
+      "KAST": "91.7%",
+      "Impact": "1.44",
+      "ADR": "78.5",
+      "Rating 2.0": "1.43"
+    },
+    "7": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.96",
+      "DPR": "0.54",
+      "KAST": "75.0%",
+      "Impact": "1.56",
+      "ADR": "76.5",
+      "Rating 2.0": "1.37"
+    },
+    "8": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "0.54",
+      "DPR": "0.50",
+      "KAST": "91.7%",
+      "Impact": "1.07",
+      "ADR": "66.1",
+      "Rating 2.0": "1.21"
+    },
+    "9": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.42",
+      "DPR": "0.67",
+      "KAST": "66.7%",
+      "Impact": "0.64",
+      "ADR": "66.9",
+      "Rating 2.0": "0.80"
+    },
+    "mapStatsid": 123834,
+    "name1": "Astralis",
+    "name2": "Virtus.pro",
+    "result": {
+      "team1": 16,
+      "team2": 8
+    }
+  },
+  "12": {
+    "0": {
+      "name": "/player/13915/yekindar",
+      "KPR": "0.95",
+      "DPR": "0.64",
+      "KAST": "61.9%",
+      "Impact": "1.43",
+      "ADR": "97.5",
+      "Rating 2.0": "1.28"
+    },
+    "1": {
+      "name": "/player/13776/jame",
+      "KPR": "0.76",
+      "DPR": "0.52",
+      "KAST": "73.8%",
+      "Impact": "1.05",
+      "ADR": "74.0",
+      "Rating 2.0": "1.18"
+    },
+    "2": {
+      "name": "/player/11942/buster",
+      "KPR": "0.62",
+      "DPR": "0.64",
+      "KAST": "73.8%",
+      "Impact": "1.22",
+      "ADR": "72.1",
+      "Rating 2.0": "1.09"
+    },
+    "3": {
+      "name": "/player/11716/sanji",
+      "KPR": "0.45",
+      "DPR": "0.62",
+      "KAST": "71.4%",
+      "Impact": "0.49",
+      "ADR": "62.2",
+      "Rating 2.0": "0.88"
+    },
+    "4": {
+      "name": "/player/13239/qikert",
+      "KPR": "0.48",
+      "DPR": "0.81",
+      "KAST": "61.9%",
+      "Impact": "0.85",
+      "ADR": "69.1",
+      "Rating 2.0": "0.79"
+    },
+    "5": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.95",
+      "DPR": "0.64",
+      "KAST": "73.8%",
+      "Impact": "1.38",
+      "ADR": "86.0",
+      "Rating 2.0": "1.29"
+    },
+    "6": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.69",
+      "DPR": "0.64",
+      "KAST": "69.0%",
+      "Impact": "1.10",
+      "ADR": "81.2",
+      "Rating 2.0": "1.09"
+    },
+    "7": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.64",
+      "DPR": "0.62",
+      "KAST": "66.7%",
+      "Impact": "1.05",
+      "ADR": "78.6",
+      "Rating 2.0": "1.08"
+    },
+    "8": {
+      "name": "/player/9032/magisk",
+      "KPR": "0.52",
+      "DPR": "0.67",
+      "KAST": "57.1%",
+      "Impact": "0.95",
+      "ADR": "59.5",
+      "Rating 2.0": "0.85"
+    },
+    "9": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "0.40",
+      "DPR": "0.74",
+      "KAST": "59.5%",
+      "Impact": "0.63",
+      "ADR": "49.5",
+      "Rating 2.0": "0.68"
+    },
+    "mapStatsid": 123829,
+    "name1": "Astralis",
+    "name2": "Virtus.pro",
+    "result": {
+      "team1": 20,
+      "team2": 22
+    }
+  },
+  "13": {
+    "0": {
+      "name": "/player/11942/buster",
+      "KPR": "0.83",
+      "DPR": "0.66",
+      "KAST": "74.3%",
+      "Impact": "1.22",
+      "ADR": "94.7",
+      "Rating 2.0": "1.26"
+    },
+    "1": {
+      "name": "/player/13776/jame",
+      "KPR": "0.77",
+      "DPR": "0.66",
+      "KAST": "77.1%",
+      "Impact": "1.07",
+      "ADR": "66.8",
+      "Rating 2.0": "1.11"
+    },
+    "2": {
+      "name": "/player/13915/yekindar",
+      "KPR": "0.71",
+      "DPR": "0.77",
+      "KAST": "57.1%",
+      "Impact": "1.31",
+      "ADR": "86.0",
+      "Rating 2.0": "1.04"
+    },
+    "3": {
+      "name": "/player/11716/sanji",
+      "KPR": "0.57",
+      "DPR": "0.71",
+      "KAST": "65.7%",
+      "Impact": "0.86",
+      "ADR": "64.5",
+      "Rating 2.0": "0.88"
+    },
+    "4": {
+      "name": "/player/13239/qikert",
+      "KPR": "0.54",
+      "DPR": "0.74",
+      "KAST": "54.3%",
+      "Impact": "0.84",
+      "ADR": "72.9",
+      "Rating 2.0": "0.83"
+    },
+    "5": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.86",
+      "DPR": "0.69",
+      "KAST": "74.3%",
+      "Impact": "1.27",
+      "ADR": "90.4",
+      "Rating 2.0": "1.27"
+    },
+    "6": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "0.77",
+      "DPR": "0.71",
+      "KAST": "62.9%",
+      "Impact": "1.24",
+      "ADR": "79.0",
+      "Rating 2.0": "1.07"
+    },
+    "7": {
+      "name": "/player/9032/magisk",
+      "KPR": "0.63",
+      "DPR": "0.77",
+      "KAST": "65.7%",
+      "Impact": "1.47",
+      "ADR": "84.2",
+      "Rating 2.0": "1.07"
+    },
+    "8": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.66",
+      "DPR": "0.60",
+      "KAST": "74.3%",
+      "Impact": "0.69",
+      "ADR": "71.1",
+      "Rating 2.0": "1.02"
+    },
+    "9": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.60",
+      "DPR": "0.71",
+      "KAST": "80.0%",
+      "Impact": "0.54",
+      "ADR": "70.1",
+      "Rating 2.0": "0.93"
+    },
+    "mapStatsid": 123824,
+    "name1": "Astralis",
+    "name2": "Virtus.pro",
+    "result": {
+      "team1": 19,
+      "team2": 16
+    }
+  },
+  "14": {
+    "0": {
+      "name": "/player/7998/s1mple",
+      "KPR": "1.38",
+      "DPR": "0.48",
+      "KAST": "85.7%",
+      "Impact": "2.84",
+      "ADR": "130.9",
+      "Rating 2.0": "2.21"
+    },
+    "1": {
+      "name": "/player/18987/b1t",
+      "KPR": "0.81",
+      "DPR": "0.38",
+      "KAST": "76.2%",
+      "Impact": "1.21",
+      "ADR": "81.9",
+      "Rating 2.0": "1.42"
+    },
+    "2": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.52",
+      "DPR": "0.52",
+      "KAST": "90.5%",
+      "Impact": "0.89",
+      "ADR": "52.8",
+      "Rating 2.0": "1.18"
+    },
+    "3": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.57",
+      "DPR": "0.48",
+      "KAST": "71.4%",
+      "Impact": "0.98",
+      "ADR": "65.5",
+      "Rating 2.0": "1.12"
+    },
+    "4": {
+      "name": "/player/8918/electronic",
+      "KPR": "0.48",
+      "DPR": "0.52",
+      "KAST": "71.4%",
+      "Impact": "0.92",
+      "ADR": "59.9",
+      "Rating 2.0": "1.03"
+    },
+    "5": {
+      "name": "/player/9032/magisk",
+      "KPR": "0.62",
+      "DPR": "0.71",
+      "KAST": "61.9%",
+      "Impact": "0.87",
+      "ADR": "64.7",
+      "Rating 2.0": "0.84"
+    },
+    "6": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.52",
+      "DPR": "0.67",
+      "KAST": "66.7%",
+      "Impact": "0.41",
+      "ADR": "60.8",
+      "Rating 2.0": "0.77"
+    },
+    "7": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "0.48",
+      "DPR": "0.76",
+      "KAST": "57.1%",
+      "Impact": "0.75",
+      "ADR": "45.7",
+      "Rating 2.0": "0.65"
+    },
+    "8": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.43",
+      "DPR": "0.76",
+      "KAST": "57.1%",
+      "Impact": "0.37",
+      "ADR": "57.5",
+      "Rating 2.0": "0.60"
+    },
+    "9": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.33",
+      "DPR": "0.86",
+      "KAST": "52.4%",
+      "Impact": "0.58",
+      "ADR": "61.9",
+      "Rating 2.0": "0.56"
+    },
+    "mapStatsid": 123624,
+    "name1": "Astralis",
+    "name2": "Natus Vincere",
+    "result": {
+      "team1": 5,
+      "team2": 16
+    }
+  },
+  "15": {
+    "0": {
+      "name": "/player/7998/s1mple",
+      "KPR": "1.00",
+      "DPR": "0.63",
+      "KAST": "75.6%",
+      "Impact": "1.82",
+      "ADR": "101.0",
+      "Rating 2.0": "1.52"
+    },
+    "1": {
+      "name": "/player/8918/electronic",
+      "KPR": "0.68",
+      "DPR": "0.78",
+      "KAST": "75.6%",
+      "Impact": "1.03",
+      "ADR": "81.2",
+      "Rating 2.0": "1.07"
+    },
+    "2": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.66",
+      "DPR": "0.71",
+      "KAST": "73.2%",
+      "Impact": "1.03",
+      "ADR": "76.6",
+      "Rating 2.0": "1.06"
+    },
+    "3": {
+      "name": "/player/18987/b1t",
+      "KPR": "0.63",
+      "DPR": "0.51",
+      "KAST": "68.3%",
+      "Impact": "1.00",
+      "ADR": "59.6",
+      "Rating 2.0": "1.04"
+    },
+    "4": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.37",
+      "DPR": "0.76",
+      "KAST": "63.4%",
+      "Impact": "0.63",
+      "ADR": "58.3",
+      "Rating 2.0": "0.70"
+    },
+    "5": {
+      "name": "/player/9032/magisk",
+      "KPR": "0.83",
+      "DPR": "0.68",
+      "KAST": "78.0%",
+      "Impact": "1.09",
+      "ADR": "79.8",
+      "Rating 2.0": "1.15"
+    },
+    "6": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.63",
+      "DPR": "0.71",
+      "KAST": "70.7%",
+      "Impact": "1.24",
+      "ADR": "75.4",
+      "Rating 2.0": "1.05"
+    },
+    "7": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "0.71",
+      "DPR": "0.66",
+      "KAST": "68.3%",
+      "Impact": "0.93",
+      "ADR": "77.1",
+      "Rating 2.0": "1.03"
+    },
+    "8": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.54",
+      "DPR": "0.56",
+      "KAST": "63.4%",
+      "Impact": "1.02",
+      "ADR": "56.8",
+      "Rating 2.0": "0.94"
+    },
+    "9": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.63",
+      "DPR": "0.78",
+      "KAST": "68.3%",
+      "Impact": "0.83",
+      "ADR": "79.8",
+      "Rating 2.0": "0.92"
+    },
+    "mapStatsid": 123620,
+    "name1": "Astralis",
+    "name2": "Natus Vincere",
+    "result": {
+      "team1": 22,
+      "team2": 19
+    }
+  },
+  "16": {
+    "0": {
+      "name": "/player/8918/electronic",
+      "KPR": "1.04",
+      "DPR": "0.57",
+      "KAST": "82.6%",
+      "Impact": "1.57",
+      "ADR": "103.4",
+      "Rating 2.0": "1.55"
+    },
+    "1": {
+      "name": "/player/18987/b1t",
+      "KPR": "1.09",
+      "DPR": "0.57",
+      "KAST": "82.6%",
+      "Impact": "1.50",
+      "ADR": "98.5",
+      "Rating 2.0": "1.53"
+    },
+    "2": {
+      "name": "/player/7998/s1mple",
+      "KPR": "0.83",
+      "DPR": "0.52",
+      "KAST": "82.6%",
+      "Impact": "1.54",
+      "ADR": "86.6",
+      "Rating 2.0": "1.41"
+    },
+    "3": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.61",
+      "DPR": "0.65",
+      "KAST": "69.6%",
+      "Impact": "0.94",
+      "ADR": "85.4",
+      "Rating 2.0": "1.03"
+    },
+    "4": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.52",
+      "DPR": "0.61",
+      "KAST": "73.9%",
+      "Impact": "0.76",
+      "ADR": "58.7",
+      "Rating 2.0": "0.92"
+    },
+    "5": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "0.74",
+      "DPR": "0.70",
+      "KAST": "60.9%",
+      "Impact": "1.10",
+      "ADR": "75.5",
+      "Rating 2.0": "1.04"
+    },
+    "6": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.57",
+      "DPR": "0.78",
+      "KAST": "73.9%",
+      "Impact": "0.74",
+      "ADR": "67.8",
+      "Rating 2.0": "0.89"
+    },
+    "7": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.70",
+      "DPR": "0.87",
+      "KAST": "69.6%",
+      "Impact": "0.61",
+      "ADR": "75.6",
+      "Rating 2.0": "0.86"
+    },
+    "8": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.39",
+      "DPR": "0.87",
+      "KAST": "65.2%",
+      "Impact": "0.31",
+      "ADR": "61.1",
+      "Rating 2.0": "0.68"
+    },
+    "9": {
+      "name": "/player/9032/magisk",
+      "KPR": "0.52",
+      "DPR": "0.87",
+      "KAST": "43.5%",
+      "Impact": "0.87",
+      "ADR": "63.5",
+      "Rating 2.0": "0.67"
+    },
+    "mapStatsid": 123612,
+    "name1": "Natus Vincere",
+    "name2": "Astralis",
+    "result": {
+      "team1": 16,
+      "team2": 7
+    }
+  },
+  "17": {
+    "0": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.85",
+      "DPR": "0.65",
+      "KAST": "76.9%",
+      "Impact": "1.93",
+      "ADR": "90.3",
+      "Rating 2.0": "1.45"
+    },
+    "1": {
+      "name": "/player/8183/rain",
+      "KPR": "0.81",
+      "DPR": "0.62",
+      "KAST": "73.1%",
+      "Impact": "1.35",
+      "ADR": "91.3",
+      "Rating 2.0": "1.31"
+    },
+    "2": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.73",
+      "DPR": "0.65",
+      "KAST": "80.8%",
+      "Impact": "1.12",
+      "ADR": "73.9",
+      "Rating 2.0": "1.17"
+    },
+    "3": {
+      "name": "/player/18053/broky",
+      "KPR": "0.77",
+      "DPR": "0.58",
+      "KAST": "76.9%",
+      "Impact": "0.79",
+      "ADR": "79.5",
+      "Rating 2.0": "1.16"
+    },
+    "4": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.54",
+      "DPR": "0.50",
+      "KAST": "57.7%",
+      "Impact": "0.74",
+      "ADR": "49.1",
+      "Rating 2.0": "0.88"
+    },
+    "5": {
+      "name": "/player/14148/sjuush",
+      "KPR": "0.81",
+      "DPR": "0.73",
+      "KAST": "80.8%",
+      "Impact": "1.03",
+      "ADR": "86.5",
+      "Rating 2.0": "1.19"
+    },
+    "6": {
+      "name": "/player/12018/teses",
+      "KPR": "0.77",
+      "DPR": "0.69",
+      "KAST": "65.4%",
+      "Impact": "1.07",
+      "ADR": "78.3",
+      "Rating 2.0": "1.07"
+    },
+    "7": {
+      "name": "/player/10994/stavn",
+      "KPR": "0.50",
+      "DPR": "0.81",
+      "KAST": "61.5%",
+      "Impact": "0.69",
+      "ADR": "73.2",
+      "Rating 2.0": "0.82"
+    },
+    "8": {
+      "name": "/player/7964/cadian",
+      "KPR": "0.46",
+      "DPR": "0.77",
+      "KAST": "57.7%",
+      "Impact": "0.72",
+      "ADR": "57.4",
+      "Rating 2.0": "0.77"
+    },
+    "9": {
+      "name": "/player/10610/refrezh",
+      "KPR": "0.46",
+      "DPR": "0.77",
+      "KAST": "65.4%",
+      "Impact": "0.45",
+      "ADR": "51.0",
+      "Rating 2.0": "0.68"
+    },
+    "mapStatsid": 123619,
+    "name1": "FaZe",
+    "name2": "Heroic",
+    "result": {
+      "team1": 16,
+      "team2": 10
+    }
+  },
+  "18": {
+    "0": {
+      "name": "/player/18053/broky",
+      "KPR": "0.81",
+      "DPR": "0.52",
+      "KAST": "77.8%",
+      "Impact": "0.97",
+      "ADR": "76.1",
+      "Rating 2.0": "1.22"
+    },
+    "1": {
+      "name": "/player/8183/rain",
+      "KPR": "0.52",
+      "DPR": "0.63",
+      "KAST": "74.1%",
+      "Impact": "0.77",
+      "ADR": "74.2",
+      "Rating 2.0": "0.99"
+    },
+    "2": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.56",
+      "DPR": "0.70",
+      "KAST": "59.3%",
+      "Impact": "0.83",
+      "ADR": "68.9",
+      "Rating 2.0": "0.86"
+    },
+    "3": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.56",
+      "DPR": "0.56",
+      "KAST": "63.0%",
+      "Impact": "0.38",
+      "ADR": "50.3",
+      "Rating 2.0": "0.83"
+    },
+    "4": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.52",
+      "DPR": "0.78",
+      "KAST": "59.3%",
+      "Impact": "1.03",
+      "ADR": "65.4",
+      "Rating 2.0": "0.82"
+    },
+    "5": {
+      "name": "/player/12018/teses",
+      "KPR": "1.04",
+      "DPR": "0.48",
+      "KAST": "88.9%",
+      "Impact": "1.57",
+      "ADR": "108.2",
+      "Rating 2.0": "1.69"
+    },
+    "6": {
+      "name": "/player/10994/stavn",
+      "KPR": "0.67",
+      "DPR": "0.63",
+      "KAST": "63.0%",
+      "Impact": "1.66",
+      "ADR": "90.8",
+      "Rating 2.0": "1.25"
+    },
+    "7": {
+      "name": "/player/7964/cadian",
+      "KPR": "0.56",
+      "DPR": "0.67",
+      "KAST": "70.4%",
+      "Impact": "0.85",
+      "ADR": "64.4",
+      "Rating 2.0": "0.93"
+    },
+    "8": {
+      "name": "/player/10610/refrezh",
+      "KPR": "0.52",
+      "DPR": "0.63",
+      "KAST": "63.0%",
+      "Impact": "0.68",
+      "ADR": "45.6",
+      "Rating 2.0": "0.81"
+    },
+    "9": {
+      "name": "/player/14148/sjuush",
+      "KPR": "0.41",
+      "DPR": "0.59",
+      "KAST": "63.0%",
+      "Impact": "0.29",
+      "ADR": "47.3",
+      "Rating 2.0": "0.73"
+    },
+    "mapStatsid": 123613,
+    "name1": "FaZe",
+    "name2": "Heroic",
+    "result": {
+      "team1": 11,
+      "team2": 16
+    }
+  },
+  "19": {
+    "0": {
+      "name": "/player/18053/broky",
+      "KPR": "1.00",
+      "DPR": "0.38",
+      "KAST": "80.8%",
+      "Impact": "1.53",
+      "ADR": "92.7",
+      "Rating 2.0": "1.61"
+    },
+    "1": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.77",
+      "DPR": "0.42",
+      "KAST": "84.6%",
+      "Impact": "1.00",
+      "ADR": "81.2",
+      "Rating 2.0": "1.39"
+    },
+    "2": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.73",
+      "DPR": "0.58",
+      "KAST": "76.9%",
+      "Impact": "1.29",
+      "ADR": "83.3",
+      "Rating 2.0": "1.33"
+    },
+    "3": {
+      "name": "/player/8183/rain",
+      "KPR": "0.50",
+      "DPR": "0.69",
+      "KAST": "73.1%",
+      "Impact": "0.45",
+      "ADR": "56.7",
+      "Rating 2.0": "0.80"
+    },
+    "4": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.42",
+      "DPR": "0.65",
+      "KAST": "57.7%",
+      "Impact": "0.77",
+      "ADR": "53.2",
+      "Rating 2.0": "0.80"
+    },
+    "5": {
+      "name": "/player/14148/sjuush",
+      "KPR": "0.62",
+      "DPR": "0.73",
+      "KAST": "57.7%",
+      "Impact": "1.36",
+      "ADR": "72.2",
+      "Rating 2.0": "1.03"
+    },
+    "6": {
+      "name": "/player/10994/stavn",
+      "KPR": "0.73",
+      "DPR": "0.69",
+      "KAST": "73.1%",
+      "Impact": "0.63",
+      "ADR": "74.6",
+      "Rating 2.0": "0.97"
+    },
+    "7": {
+      "name": "/player/7964/cadian",
+      "KPR": "0.50",
+      "DPR": "0.58",
+      "KAST": "61.5%",
+      "Impact": "0.31",
+      "ADR": "58.3",
+      "Rating 2.0": "0.79"
+    },
+    "8": {
+      "name": "/player/12018/teses",
+      "KPR": "0.38",
+      "DPR": "0.65",
+      "KAST": "69.2%",
+      "Impact": "0.44",
+      "ADR": "59.8",
+      "Rating 2.0": "0.77"
+    },
+    "9": {
+      "name": "/player/10610/refrezh",
+      "KPR": "0.50",
+      "DPR": "0.77",
+      "KAST": "57.7%",
+      "Impact": "0.83",
+      "ADR": "58.7",
+      "Rating 2.0": "0.75"
+    },
+    "mapStatsid": 123608,
+    "name1": "Heroic",
+    "name2": "FaZe",
+    "result": {
+      "team1": 10,
+      "team2": 16
+    }
+  },
+  "20": {
+    "0": {
+      "name": "/player/16555/ax1le",
+      "KPR": "0.73",
+      "DPR": "0.77",
+      "KAST": "80.0%",
+      "Impact": "1.32",
+      "ADR": "82.6",
+      "Rating 2.0": "1.18"
+    },
+    "1": {
+      "name": "/player/8528/hobbit",
+      "KPR": "0.73",
+      "DPR": "0.60",
+      "KAST": "80.0%",
+      "Impact": "0.99",
+      "ADR": "67.9",
+      "Rating 2.0": "1.17"
+    },
+    "2": {
+      "name": "/player/16920/sh1ro",
+      "KPR": "0.70",
+      "DPR": "0.60",
+      "KAST": "86.7%",
+      "Impact": "0.64",
+      "ADR": "78.8",
+      "Rating 2.0": "1.13"
+    },
+    "3": {
+      "name": "/player/15071/interz",
+      "KPR": "0.43",
+      "DPR": "0.63",
+      "KAST": "63.3%",
+      "Impact": "0.61",
+      "ADR": "56.0",
+      "Rating 2.0": "0.77"
+    },
+    "4": {
+      "name": "/player/16921/nafany",
+      "KPR": "0.37",
+      "DPR": "0.80",
+      "KAST": "56.7%",
+      "Impact": "0.65",
+      "ADR": "44.3",
+      "Rating 2.0": "0.61"
+    },
+    "5": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.83",
+      "DPR": "0.50",
+      "KAST": "86.7%",
+      "Impact": "1.60",
+      "ADR": "84.9",
+      "Rating 2.0": "1.51"
+    },
+    "6": {
+      "name": "/player/3741/niko",
+      "KPR": "0.73",
+      "DPR": "0.60",
+      "KAST": "73.3%",
+      "Impact": "1.01",
+      "ADR": "81.8",
+      "Rating 2.0": "1.16"
+    },
+    "7": {
+      "name": "/player/284/jackz",
+      "KPR": "0.67",
+      "DPR": "0.53",
+      "KAST": "73.3%",
+      "Impact": "0.62",
+      "ADR": "65.0",
+      "Rating 2.0": "1.06"
+    },
+    "8": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.57",
+      "DPR": "0.60",
+      "KAST": "76.7%",
+      "Impact": "0.61",
+      "ADR": "66.3",
+      "Rating 2.0": "0.98"
+    },
+    "9": {
+      "name": "/player/3972/hunter",
+      "KPR": "0.57",
+      "DPR": "0.77",
+      "KAST": "73.3%",
+      "Impact": "0.81",
+      "ADR": "70.4",
+      "Rating 2.0": "0.92"
+    },
+    "mapStatsid": 123607,
+    "name1": "Gambit",
+    "name2": "G2",
+    "result": {
+      "team1": 14,
+      "team2": 16
+    }
+  },
+  "21": {
+    "0": {
+      "name": "/player/16555/ax1le",
+      "KPR": "0.92",
+      "DPR": "0.73",
+      "KAST": "80.8%",
+      "Impact": "1.61",
+      "ADR": "102.6",
+      "Rating 2.0": "1.40"
+    },
+    "1": {
+      "name": "/player/8528/hobbit",
+      "KPR": "0.85",
+      "DPR": "0.54",
+      "KAST": "69.2%",
+      "Impact": "1.54",
+      "ADR": "88.0",
+      "Rating 2.0": "1.37"
+    },
+    "2": {
+      "name": "/player/16920/sh1ro",
+      "KPR": "0.81",
+      "DPR": "0.42",
+      "KAST": "84.6%",
+      "Impact": "1.01",
+      "ADR": "76.9",
+      "Rating 2.0": "1.33"
+    },
+    "3": {
+      "name": "/player/16921/nafany",
+      "KPR": "0.62",
+      "DPR": "0.65",
+      "KAST": "84.6%",
+      "Impact": "1.20",
+      "ADR": "75.1",
+      "Rating 2.0": "1.18"
+    },
+    "4": {
+      "name": "/player/15071/interz",
+      "KPR": "0.50",
+      "DPR": "0.58",
+      "KAST": "69.2%",
+      "Impact": "0.57",
+      "ADR": "52.9",
+      "Rating 2.0": "0.87"
+    },
+    "5": {
+      "name": "/player/3972/hunter",
+      "KPR": "0.65",
+      "DPR": "0.62",
+      "KAST": "76.9%",
+      "Impact": "1.09",
+      "ADR": "66.7",
+      "Rating 2.0": "1.08"
+    },
+    "6": {
+      "name": "/player/284/jackz",
+      "KPR": "0.69",
+      "DPR": "0.85",
+      "KAST": "73.1%",
+      "Impact": "0.86",
+      "ADR": "78.0",
+      "Rating 2.0": "0.94"
+    },
+    "7": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.54",
+      "DPR": "0.73",
+      "KAST": "65.4%",
+      "Impact": "0.69",
+      "ADR": "67.2",
+      "Rating 2.0": "0.84"
+    },
+    "8": {
+      "name": "/player/3741/niko",
+      "KPR": "0.58",
+      "DPR": "0.77",
+      "KAST": "61.5%",
+      "Impact": "0.65",
+      "ADR": "63.6",
+      "Rating 2.0": "0.81"
+    },
+    "9": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.46",
+      "DPR": "0.73",
+      "KAST": "65.4%",
+      "Impact": "0.71",
+      "ADR": "49.7",
+      "Rating 2.0": "0.76"
+    },
+    "mapStatsid": 123600,
+    "name1": "Gambit",
+    "name2": "G2",
+    "result": {
+      "team1": 16,
+      "team2": 10
+    }
+  },
+  "22": {
+    "0": {
+      "name": "/player/16920/sh1ro",
+      "KPR": "0.72",
+      "DPR": "0.62",
+      "KAST": "69.0%",
+      "Impact": "1.23",
+      "ADR": "78.0",
+      "Rating 2.0": "1.18"
+    },
+    "1": {
+      "name": "/player/8528/hobbit",
+      "KPR": "0.66",
+      "DPR": "0.66",
+      "KAST": "72.4%",
+      "Impact": "1.22",
+      "ADR": "80.8",
+      "Rating 2.0": "1.12"
+    },
+    "2": {
+      "name": "/player/16921/nafany",
+      "KPR": "0.62",
+      "DPR": "0.66",
+      "KAST": "72.4%",
+      "Impact": "1.11",
+      "ADR": "66.5",
+      "Rating 2.0": "1.04"
+    },
+    "3": {
+      "name": "/player/16555/ax1le",
+      "KPR": "0.69",
+      "DPR": "0.59",
+      "KAST": "65.5%",
+      "Impact": "0.77",
+      "ADR": "76.1",
+      "Rating 2.0": "1.03"
+    },
+    "4": {
+      "name": "/player/15071/interz",
+      "KPR": "0.41",
+      "DPR": "0.62",
+      "KAST": "72.4%",
+      "Impact": "0.20",
+      "ADR": "45.3",
+      "Rating 2.0": "0.70"
+    },
+    "5": {
+      "name": "/player/3972/hunter",
+      "KPR": "0.76",
+      "DPR": "0.59",
+      "KAST": "69.0%",
+      "Impact": "1.27",
+      "ADR": "85.7",
+      "Rating 2.0": "1.20"
+    },
+    "6": {
+      "name": "/player/3741/niko",
+      "KPR": "0.72",
+      "DPR": "0.69",
+      "KAST": "62.1%",
+      "Impact": "1.08",
+      "ADR": "72.1",
+      "Rating 2.0": "0.97"
+    },
+    "7": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.62",
+      "DPR": "0.59",
+      "KAST": "69.0%",
+      "Impact": "0.78",
+      "ADR": "61.4",
+      "Rating 2.0": "0.96"
+    },
+    "8": {
+      "name": "/player/284/jackz",
+      "KPR": "0.48",
+      "DPR": "0.62",
+      "KAST": "72.4%",
+      "Impact": "0.84",
+      "ADR": "58.3",
+      "Rating 2.0": "0.94"
+    },
+    "9": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.55",
+      "DPR": "0.66",
+      "KAST": "69.0%",
+      "Impact": "0.53",
+      "ADR": "55.1",
+      "Rating 2.0": "0.85"
+    },
+    "mapStatsid": 123592,
+    "name1": "G2",
+    "name2": "Gambit",
+    "result": {
+      "team1": 16,
+      "team2": 13
+    }
+  },
+  "23": {
+    "0": {
+      "name": "/player/5794/tabsen",
+      "KPR": "0.74",
+      "DPR": "0.69",
+      "KAST": "54.3%",
+      "Impact": "1.27",
+      "ADR": "87.9",
+      "Rating 2.0": "1.09"
+    },
+    "1": {
+      "name": "/player/5796/tizian",
+      "KPR": "0.66",
+      "DPR": "0.71",
+      "KAST": "65.7%",
+      "Impact": "0.95",
+      "ADR": "81.5",
+      "Rating 2.0": "0.99"
+    },
+    "2": {
+      "name": "/player/12781/k1to",
+      "KPR": "0.60",
+      "DPR": "0.69",
+      "KAST": "74.3%",
+      "Impact": "0.81",
+      "ADR": "61.5",
+      "Rating 2.0": "0.93"
+    },
+    "3": {
+      "name": "/player/7938/xantares",
+      "KPR": "0.63",
+      "DPR": "0.74",
+      "KAST": "68.6%",
+      "Impact": "0.78",
+      "ADR": "74.3",
+      "Rating 2.0": "0.90"
+    },
+    "4": {
+      "name": "/player/7266/syrson",
+      "KPR": "0.49",
+      "DPR": "0.66",
+      "KAST": "57.1%",
+      "Impact": "0.83",
+      "ADR": "56.9",
+      "Rating 2.0": "0.80"
+    },
+    "5": {
+      "name": "/player/13915/yekindar",
+      "KPR": "0.89",
+      "DPR": "0.66",
+      "KAST": "65.7%",
+      "Impact": "1.88",
+      "ADR": "99.4",
+      "Rating 2.0": "1.38"
+    },
+    "6": {
+      "name": "/player/13239/qikert",
+      "KPR": "0.71",
+      "DPR": "0.63",
+      "KAST": "71.4%",
+      "Impact": "1.29",
+      "ADR": "84.7",
+      "Rating 2.0": "1.22"
+    },
+    "7": {
+      "name": "/player/11716/sanji",
+      "KPR": "0.89",
+      "DPR": "0.74",
+      "KAST": "62.9%",
+      "Impact": "1.07",
+      "ADR": "86.9",
+      "Rating 2.0": "1.10"
+    },
+    "8": {
+      "name": "/player/13776/jame",
+      "KPR": "0.49",
+      "DPR": "0.43",
+      "KAST": "80.0%",
+      "Impact": "0.48",
+      "ADR": "51.6",
+      "Rating 2.0": "1.00"
+    },
+    "9": {
+      "name": "/player/11942/buster",
+      "KPR": "0.46",
+      "DPR": "0.66",
+      "KAST": "60.0%",
+      "Impact": "0.71",
+      "ADR": "52.4",
+      "Rating 2.0": "0.78"
+    },
+    "mapStatsid": 123601,
+    "name1": "BIG",
+    "name2": "Virtus.pro",
+    "result": {
+      "team1": 16,
+      "team2": 19
+    }
+  },
+  "24": {
+    "0": {
+      "name": "/player/12781/k1to",
+      "KPR": "0.65",
+      "DPR": "0.65",
+      "KAST": "76.5%",
+      "Impact": "1.14",
+      "ADR": "71.0",
+      "Rating 2.0": "1.12"
+    },
+    "1": {
+      "name": "/player/7266/syrson",
+      "KPR": "0.74",
+      "DPR": "0.62",
+      "KAST": "82.4%",
+      "Impact": "0.95",
+      "ADR": "66.1",
+      "Rating 2.0": "1.11"
+    },
+    "2": {
+      "name": "/player/7938/xantares",
+      "KPR": "0.59",
+      "DPR": "0.68",
+      "KAST": "70.6%",
+      "Impact": "0.95",
+      "ADR": "71.1",
+      "Rating 2.0": "0.98"
+    },
+    "3": {
+      "name": "/player/5796/tizian",
+      "KPR": "0.53",
+      "DPR": "0.76",
+      "KAST": "67.6%",
+      "Impact": "0.41",
+      "ADR": "67.7",
+      "Rating 2.0": "0.75"
+    },
+    "4": {
+      "name": "/player/5794/tabsen",
+      "KPR": "0.38",
+      "DPR": "0.74",
+      "KAST": "61.8%",
+      "Impact": "0.49",
+      "ADR": "66.4",
+      "Rating 2.0": "0.72"
+    },
+    "5": {
+      "name": "/player/13776/jame",
+      "KPR": "0.74",
+      "DPR": "0.50",
+      "KAST": "82.4%",
+      "Impact": "1.22",
+      "ADR": "76.0",
+      "Rating 2.0": "1.32"
+    },
+    "6": {
+      "name": "/player/13239/qikert",
+      "KPR": "0.71",
+      "DPR": "0.65",
+      "KAST": "79.4%",
+      "Impact": "1.12",
+      "ADR": "80.6",
+      "Rating 2.0": "1.19"
+    },
+    "7": {
+      "name": "/player/13915/yekindar",
+      "KPR": "0.74",
+      "DPR": "0.65",
+      "KAST": "70.6%",
+      "Impact": "1.01",
+      "ADR": "83.4",
+      "Rating 2.0": "1.12"
+    },
+    "8": {
+      "name": "/player/11942/buster",
+      "KPR": "0.65",
+      "DPR": "0.56",
+      "KAST": "67.6%",
+      "Impact": "0.97",
+      "ADR": "60.0",
+      "Rating 2.0": "1.01"
+    },
+    "9": {
+      "name": "/player/11716/sanji",
+      "KPR": "0.59",
+      "DPR": "0.56",
+      "KAST": "76.5%",
+      "Impact": "0.42",
+      "ADR": "61.3",
+      "Rating 2.0": "0.94"
+    },
+    "mapStatsid": 123595,
+    "name1": "BIG",
+    "name2": "Virtus.pro",
+    "result": {
+      "team1": 15,
+      "team2": 19
+    }
+  },
+  "25": {
+    "0": {
+      "name": "/player/15631/kscerato",
+      "KPR": "0.81",
+      "DPR": "0.85",
+      "KAST": "53.8%",
+      "Impact": "1.75",
+      "ADR": "78.2",
+      "Rating 2.0": "1.01"
+    },
+    "1": {
+      "name": "/player/12521/art",
+      "KPR": "0.69",
+      "DPR": "0.77",
+      "KAST": "61.5%",
+      "Impact": "0.86",
+      "ADR": "82.3",
+      "Rating 2.0": "0.95"
+    },
+    "2": {
+      "name": "/player/20378/honda",
+      "KPR": "0.58",
+      "DPR": "0.73",
+      "KAST": "76.9%",
+      "Impact": "0.41",
+      "ADR": "56.8",
+      "Rating 2.0": "0.84"
+    },
+    "3": {
+      "name": "/player/12822/vini",
+      "KPR": "0.46",
+      "DPR": "0.73",
+      "KAST": "76.9%",
+      "Impact": "0.35",
+      "ADR": "62.8",
+      "Rating 2.0": "0.82"
+    },
+    "4": {
+      "name": "/player/12553/yuurih",
+      "KPR": "0.46",
+      "DPR": "0.77",
+      "KAST": "65.4%",
+      "Impact": "0.48",
+      "ADR": "59.5",
+      "Rating 2.0": "0.73"
+    },
+    "5": {
+      "name": "/player/14148/sjuush",
+      "KPR": "0.92",
+      "DPR": "0.65",
+      "KAST": "80.8%",
+      "Impact": "1.45",
+      "ADR": "102.3",
+      "Rating 2.0": "1.46"
+    },
+    "6": {
+      "name": "/player/7964/cadian",
+      "KPR": "0.69",
+      "DPR": "0.42",
+      "KAST": "84.6%",
+      "Impact": "1.34",
+      "ADR": "72.8",
+      "Rating 2.0": "1.34"
+    },
+    "7": {
+      "name": "/player/12018/teses",
+      "KPR": "0.88",
+      "DPR": "0.62",
+      "KAST": "84.6%",
+      "Impact": "0.99",
+      "ADR": "77.1",
+      "Rating 2.0": "1.29"
+    },
+    "8": {
+      "name": "/player/10610/refrezh",
+      "KPR": "0.73",
+      "DPR": "0.62",
+      "KAST": "84.6%",
+      "Impact": "1.19",
+      "ADR": "76.8",
+      "Rating 2.0": "1.26"
+    },
+    "9": {
+      "name": "/player/10994/stavn",
+      "KPR": "0.58",
+      "DPR": "0.69",
+      "KAST": "57.7%",
+      "Impact": "1.00",
+      "ADR": "69.3",
+      "Rating 2.0": "0.89"
+    },
+    "mapStatsid": 123588,
+    "name1": "FURIA",
+    "name2": "Heroic",
+    "result": {
+      "team1": 10,
+      "team2": 16
+    }
+  },
+  "26": {
+    "0": {
+      "name": "/player/15631/kscerato",
+      "KPR": "0.81",
+      "DPR": "0.61",
+      "KAST": "77.8%",
+      "Impact": "1.36",
+      "ADR": "101.5",
+      "Rating 2.0": "1.37"
+    },
+    "1": {
+      "name": "/player/12553/yuurih",
+      "KPR": "0.67",
+      "DPR": "0.67",
+      "KAST": "69.4%",
+      "Impact": "1.44",
+      "ADR": "72.8",
+      "Rating 2.0": "1.12"
+    },
+    "2": {
+      "name": "/player/20378/honda",
+      "KPR": "0.64",
+      "DPR": "0.61",
+      "KAST": "63.9%",
+      "Impact": "1.03",
+      "ADR": "75.2",
+      "Rating 2.0": "1.06"
+    },
+    "3": {
+      "name": "/player/12822/vini",
+      "KPR": "0.47",
+      "DPR": "0.61",
+      "KAST": "61.1%",
+      "Impact": "0.61",
+      "ADR": "54.7",
+      "Rating 2.0": "0.81"
+    },
+    "4": {
+      "name": "/player/12521/art",
+      "KPR": "0.50",
+      "DPR": "0.81",
+      "KAST": "47.2%",
+      "Impact": "1.04",
+      "ADR": "55.2",
+      "Rating 2.0": "0.70"
+    },
+    "5": {
+      "name": "/player/7964/cadian",
+      "KPR": "0.86",
+      "DPR": "0.50",
+      "KAST": "75.0%",
+      "Impact": "1.39",
+      "ADR": "85.4",
+      "Rating 2.0": "1.38"
+    },
+    "6": {
+      "name": "/player/14148/sjuush",
+      "KPR": "0.64",
+      "DPR": "0.67",
+      "KAST": "61.1%",
+      "Impact": "1.18",
+      "ADR": "88.7",
+      "Rating 2.0": "1.06"
+    },
+    "7": {
+      "name": "/player/10610/refrezh",
+      "KPR": "0.61",
+      "DPR": "0.64",
+      "KAST": "69.4%",
+      "Impact": "0.84",
+      "ADR": "57.6",
+      "Rating 2.0": "0.92"
+    },
+    "8": {
+      "name": "/player/10994/stavn",
+      "KPR": "0.58",
+      "DPR": "0.69",
+      "KAST": "63.9%",
+      "Impact": "0.56",
+      "ADR": "66.3",
+      "Rating 2.0": "0.83"
+    },
+    "9": {
+      "name": "/player/12018/teses",
+      "KPR": "0.56",
+      "DPR": "0.64",
+      "KAST": "58.3%",
+      "Impact": "0.78",
+      "ADR": "58.6",
+      "Rating 2.0": "0.82"
+    },
+    "mapStatsid": 123583,
+    "name1": "Heroic",
+    "name2": "FURIA",
+    "result": {
+      "team1": 19,
+      "team2": 17
+    }
+  },
+  "27": {
+    "0": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.80",
+      "DPR": "0.57",
+      "KAST": "83.3%",
+      "Impact": "1.38",
+      "ADR": "69.4",
+      "Rating 2.0": "1.31"
+    },
+    "1": {
+      "name": "/player/8183/rain",
+      "KPR": "0.73",
+      "DPR": "0.60",
+      "KAST": "73.3%",
+      "Impact": "1.46",
+      "ADR": "88.5",
+      "Rating 2.0": "1.29"
+    },
+    "2": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.77",
+      "DPR": "0.73",
+      "KAST": "66.7%",
+      "Impact": "1.21",
+      "ADR": "79.8",
+      "Rating 2.0": "1.12"
+    },
+    "3": {
+      "name": "/player/18053/broky",
+      "KPR": "0.60",
+      "DPR": "0.67",
+      "KAST": "66.7%",
+      "Impact": "0.88",
+      "ADR": "66.4",
+      "Rating 2.0": "0.95"
+    },
+    "4": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.50",
+      "DPR": "0.73",
+      "KAST": "70.0%",
+      "Impact": "0.62",
+      "ADR": "52.7",
+      "Rating 2.0": "0.79"
+    },
+    "5": {
+      "name": "/player/11893/zywoo",
+      "KPR": "0.73",
+      "DPR": "0.57",
+      "KAST": "70.0%",
+      "Impact": "1.37",
+      "ADR": "72.4",
+      "Rating 2.0": "1.20"
+    },
+    "6": {
+      "name": "/player/1225/shox",
+      "KPR": "0.67",
+      "DPR": "0.67",
+      "KAST": "70.0%",
+      "Impact": "0.76",
+      "ADR": "73.1",
+      "Rating 2.0": "0.99"
+    },
+    "7": {
+      "name": "/player/14176/misutaaa",
+      "KPR": "0.70",
+      "DPR": "0.80",
+      "KAST": "80.0%",
+      "Impact": "0.86",
+      "ADR": "69.2",
+      "Rating 2.0": "0.98"
+    },
+    "8": {
+      "name": "/player/7322/apex",
+      "KPR": "0.60",
+      "DPR": "0.67",
+      "KAST": "66.7%",
+      "Impact": "0.86",
+      "ADR": "69.6",
+      "Rating 2.0": "0.94"
+    },
+    "9": {
+      "name": "/player/19672/kyojin",
+      "KPR": "0.60",
+      "DPR": "0.70",
+      "KAST": "70.0%",
+      "Impact": "0.84",
+      "ADR": "67.3",
+      "Rating 2.0": "0.93"
+    },
+    "mapStatsid": 123587,
+    "name1": "FaZe",
+    "name2": "Vitality",
+    "result": {
+      "team1": 16,
+      "team2": 14
+    }
+  },
+  "28": {
+    "0": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.93",
+      "DPR": "0.52",
+      "KAST": "92.6%",
+      "Impact": "1.21",
+      "ADR": "96.4",
+      "Rating 2.0": "1.55"
+    },
+    "1": {
+      "name": "/player/18053/broky",
+      "KPR": "0.89",
+      "DPR": "0.59",
+      "KAST": "77.8%",
+      "Impact": "1.35",
+      "ADR": "97.0",
+      "Rating 2.0": "1.42"
+    },
+    "2": {
+      "name": "/player/8183/rain",
+      "KPR": "0.78",
+      "DPR": "0.70",
+      "KAST": "70.4%",
+      "Impact": "1.22",
+      "ADR": "82.9",
+      "Rating 2.0": "1.14"
+    },
+    "3": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.67",
+      "DPR": "0.59",
+      "KAST": "85.2%",
+      "Impact": "0.85",
+      "ADR": "69.8",
+      "Rating 2.0": "1.12"
+    },
+    "4": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.56",
+      "DPR": "0.56",
+      "KAST": "70.4%",
+      "Impact": "0.76",
+      "ADR": "69.0",
+      "Rating 2.0": "1.02"
+    },
+    "5": {
+      "name": "/player/14176/misutaaa",
+      "KPR": "0.67",
+      "DPR": "0.78",
+      "KAST": "70.4%",
+      "Impact": "1.24",
+      "ADR": "64.6",
+      "Rating 2.0": "0.97"
+    },
+    "6": {
+      "name": "/player/11893/zywoo",
+      "KPR": "0.63",
+      "DPR": "0.70",
+      "KAST": "66.7%",
+      "Impact": "0.79",
+      "ADR": "68.8",
+      "Rating 2.0": "0.91"
+    },
+    "7": {
+      "name": "/player/19672/kyojin",
+      "KPR": "0.63",
+      "DPR": "0.74",
+      "KAST": "51.9%",
+      "Impact": "0.86",
+      "ADR": "83.5",
+      "Rating 2.0": "0.88"
+    },
+    "8": {
+      "name": "/player/7322/apex",
+      "KPR": "0.52",
+      "DPR": "0.81",
+      "KAST": "63.0%",
+      "Impact": "0.68",
+      "ADR": "75.0",
+      "Rating 2.0": "0.80"
+    },
+    "9": {
+      "name": "/player/1225/shox",
+      "KPR": "0.52",
+      "DPR": "0.78",
+      "KAST": "63.0%",
+      "Impact": "0.72",
+      "ADR": "48.4",
+      "Rating 2.0": "0.75"
+    },
+    "mapStatsid": 123581,
+    "name1": "Vitality",
+    "name2": "FaZe",
+    "result": {
+      "team1": 11,
+      "team2": 16
+    }
+  },
+  "29": {
+    "0": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "1.14",
+      "DPR": "0.57",
+      "KAST": "75.0%",
+      "Impact": "1.85",
+      "ADR": "107.9",
+      "Rating 2.0": "1.64"
+    },
+    "1": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.82",
+      "DPR": "0.64",
+      "KAST": "75.0%",
+      "Impact": "1.24",
+      "ADR": "88.3",
+      "Rating 2.0": "1.27"
+    },
+    "2": {
+      "name": "/player/9032/magisk",
+      "KPR": "0.64",
+      "DPR": "0.68",
+      "KAST": "71.4%",
+      "Impact": "0.88",
+      "ADR": "75.0",
+      "Rating 2.0": "0.98"
+    },
+    "3": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.46",
+      "DPR": "0.61",
+      "KAST": "78.6%",
+      "Impact": "0.81",
+      "ADR": "51.1",
+      "Rating 2.0": "0.96"
+    },
+    "4": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.57",
+      "DPR": "0.79",
+      "KAST": "75.0%",
+      "Impact": "0.77",
+      "ADR": "68.8",
+      "Rating 2.0": "0.90"
+    },
+    "5": {
+      "name": "/player/10994/stavn",
+      "KPR": "0.75",
+      "DPR": "0.71",
+      "KAST": "71.4%",
+      "Impact": "1.46",
+      "ADR": "75.7",
+      "Rating 2.0": "1.18"
+    },
+    "6": {
+      "name": "/player/7964/cadian",
+      "KPR": "0.82",
+      "DPR": "0.71",
+      "KAST": "67.9%",
+      "Impact": "1.20",
+      "ADR": "79.9",
+      "Rating 2.0": "1.13"
+    },
+    "7": {
+      "name": "/player/14148/sjuush",
+      "KPR": "0.64",
+      "DPR": "0.64",
+      "KAST": "64.3%",
+      "Impact": "0.83",
+      "ADR": "73.1",
+      "Rating 2.0": "0.95"
+    },
+    "8": {
+      "name": "/player/10610/refrezh",
+      "KPR": "0.43",
+      "DPR": "0.71",
+      "KAST": "71.4%",
+      "Impact": "0.32",
+      "ADR": "64.0",
+      "Rating 2.0": "0.76"
+    },
+    "9": {
+      "name": "/player/12018/teses",
+      "KPR": "0.54",
+      "DPR": "0.86",
+      "KAST": "60.7%",
+      "Impact": "0.78",
+      "ADR": "62.5",
+      "Rating 2.0": "0.75"
+    },
+    "mapStatsid": 123567,
+    "name1": "Astralis",
+    "name2": "Heroic",
+    "result": {
+      "team1": 16,
+      "team2": 12
+    }
+  },
+  "30": {
+    "0": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.81",
+      "DPR": "0.56",
+      "KAST": "77.8%",
+      "Impact": "1.32",
+      "ADR": "78.6",
+      "Rating 2.0": "1.33"
+    },
+    "1": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "0.78",
+      "DPR": "0.63",
+      "KAST": "81.5%",
+      "Impact": "1.00",
+      "ADR": "74.7",
+      "Rating 2.0": "1.18"
+    },
+    "2": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.59",
+      "DPR": "0.59",
+      "KAST": "77.8%",
+      "Impact": "0.78",
+      "ADR": "75.4",
+      "Rating 2.0": "1.05"
+    },
+    "3": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.48",
+      "DPR": "0.56",
+      "KAST": "77.8%",
+      "Impact": "0.54",
+      "ADR": "64.5",
+      "Rating 2.0": "0.98"
+    },
+    "4": {
+      "name": "/player/9032/magisk",
+      "KPR": "0.52",
+      "DPR": "0.56",
+      "KAST": "66.7%",
+      "Impact": "0.89",
+      "ADR": "62.3",
+      "Rating 2.0": "0.94"
+    },
+    "5": {
+      "name": "/player/10994/stavn",
+      "KPR": "0.78",
+      "DPR": "0.74",
+      "KAST": "74.1%",
+      "Impact": "1.41",
+      "ADR": "94.2",
+      "Rating 2.0": "1.20"
+    },
+    "6": {
+      "name": "/player/14148/sjuush",
+      "KPR": "0.59",
+      "DPR": "0.56",
+      "KAST": "81.5%",
+      "Impact": "0.89",
+      "ADR": "67.2",
+      "Rating 2.0": "1.08"
+    },
+    "7": {
+      "name": "/player/7964/cadian",
+      "KPR": "0.63",
+      "DPR": "0.56",
+      "KAST": "70.4%",
+      "Impact": "0.72",
+      "ADR": "55.7",
+      "Rating 2.0": "0.95"
+    },
+    "8": {
+      "name": "/player/12018/teses",
+      "KPR": "0.63",
+      "DPR": "0.70",
+      "KAST": "66.7%",
+      "Impact": "0.92",
+      "ADR": "69.0",
+      "Rating 2.0": "0.91"
+    },
+    "9": {
+      "name": "/player/10610/refrezh",
+      "KPR": "0.26",
+      "DPR": "0.67",
+      "KAST": "63.0%",
+      "Impact": "0.53",
+      "ADR": "35.6",
+      "Rating 2.0": "0.63"
+    },
+    "mapStatsid": 123562,
+    "name1": "Heroic",
+    "name2": "Astralis",
+    "result": {
+      "team1": 11,
+      "team2": 16
+    }
+  },
+  "31": {
+    "0": {
+      "name": "/player/9766/hampus",
+      "KPR": "0.85",
+      "DPR": "0.63",
+      "KAST": "81.5%",
+      "Impact": "1.20",
+      "ADR": "89.2",
+      "Rating 2.0": "1.27"
+    },
+    "1": {
+      "name": "/player/7592/device",
+      "KPR": "0.59",
+      "DPR": "0.63",
+      "KAST": "74.1%",
+      "Impact": "1.11",
+      "ADR": "70.7",
+      "Rating 2.0": "1.09"
+    },
+    "2": {
+      "name": "/player/9278/rez",
+      "KPR": "0.70",
+      "DPR": "0.74",
+      "KAST": "77.8%",
+      "Impact": "0.90",
+      "ADR": "63.4",
+      "Rating 2.0": "0.99"
+    },
+    "3": {
+      "name": "/player/19310/lnz",
+      "KPR": "0.52",
+      "DPR": "0.63",
+      "KAST": "70.4%",
+      "Impact": "0.86",
+      "ADR": "66.9",
+      "Rating 2.0": "0.98"
+    },
+    "4": {
+      "name": "/player/14218/plopski",
+      "KPR": "0.41",
+      "DPR": "0.78",
+      "KAST": "63.0%",
+      "Impact": "0.34",
+      "ADR": "60.8",
+      "Rating 2.0": "0.66"
+    },
+    "5": {
+      "name": "/player/11942/buster",
+      "KPR": "0.78",
+      "DPR": "0.59",
+      "KAST": "77.8%",
+      "Impact": "1.37",
+      "ADR": "76.8",
+      "Rating 2.0": "1.28"
+    },
+    "6": {
+      "name": "/player/13239/qikert",
+      "KPR": "0.67",
+      "DPR": "0.70",
+      "KAST": "74.1%",
+      "Impact": "1.41",
+      "ADR": "88.2",
+      "Rating 2.0": "1.26"
+    },
+    "7": {
+      "name": "/player/13776/jame",
+      "KPR": "0.70",
+      "DPR": "0.52",
+      "KAST": "81.5%",
+      "Impact": "1.14",
+      "ADR": "66.1",
+      "Rating 2.0": "1.24"
+    },
+    "8": {
+      "name": "/player/13915/yekindar",
+      "KPR": "0.70",
+      "DPR": "0.67",
+      "KAST": "74.1%",
+      "Impact": "1.17",
+      "ADR": "82.1",
+      "Rating 2.0": "1.13"
+    },
+    "9": {
+      "name": "/player/11716/sanji",
+      "KPR": "0.44",
+      "DPR": "0.67",
+      "KAST": "63.0%",
+      "Impact": "0.49",
+      "ADR": "53.9",
+      "Rating 2.0": "0.73"
+    },
+    "mapStatsid": 123561,
+    "name1": "Ninjas in Pyjamas",
+    "name2": "Virtus.pro",
+    "result": {
+      "team1": 11,
+      "team2": 16
+    }
+  },
+  "32": {
+    "0": {
+      "name": "/player/9278/rez",
+      "KPR": "0.92",
+      "DPR": "0.68",
+      "KAST": "72.0%",
+      "Impact": "1.05",
+      "ADR": "84.2",
+      "Rating 2.0": "1.18"
+    },
+    "1": {
+      "name": "/player/9766/hampus",
+      "KPR": "0.72",
+      "DPR": "0.72",
+      "KAST": "60.0%",
+      "Impact": "1.47",
+      "ADR": "81.2",
+      "Rating 2.0": "1.14"
+    },
+    "2": {
+      "name": "/player/14218/plopski",
+      "KPR": "0.60",
+      "DPR": "0.72",
+      "KAST": "80.0%",
+      "Impact": "0.92",
+      "ADR": "74.4",
+      "Rating 2.0": "1.03"
+    },
+    "3": {
+      "name": "/player/7592/device",
+      "KPR": "0.48",
+      "DPR": "0.72",
+      "KAST": "72.0%",
+      "Impact": "0.23",
+      "ADR": "56.3",
+      "Rating 2.0": "0.76"
+    },
+    "4": {
+      "name": "/player/19310/lnz",
+      "KPR": "0.28",
+      "DPR": "0.80",
+      "KAST": "60.0%",
+      "Impact": "0.37",
+      "ADR": "36.6",
+      "Rating 2.0": "0.55"
+    },
+    "5": {
+      "name": "/player/11942/buster",
+      "KPR": "0.96",
+      "DPR": "0.64",
+      "KAST": "84.0%",
+      "Impact": "1.35",
+      "ADR": "105.5",
+      "Rating 2.0": "1.45"
+    },
+    "6": {
+      "name": "/player/11716/sanji",
+      "KPR": "0.76",
+      "DPR": "0.52",
+      "KAST": "76.0%",
+      "Impact": "1.09",
+      "ADR": "66.7",
+      "Rating 2.0": "1.17"
+    },
+    "7": {
+      "name": "/player/13776/jame",
+      "KPR": "0.80",
+      "DPR": "0.64",
+      "KAST": "68.0%",
+      "Impact": "1.16",
+      "ADR": "80.4",
+      "Rating 2.0": "1.16"
+    },
+    "8": {
+      "name": "/player/13915/yekindar",
+      "KPR": "0.60",
+      "DPR": "0.64",
+      "KAST": "76.0%",
+      "Impact": "1.25",
+      "ADR": "72.6",
+      "Rating 2.0": "1.13"
+    },
+    "9": {
+      "name": "/player/13239/qikert",
+      "KPR": "0.52",
+      "DPR": "0.56",
+      "KAST": "76.0%",
+      "Impact": "0.57",
+      "ADR": "63.3",
+      "Rating 2.0": "0.96"
+    },
+    "mapStatsid": 123556,
+    "name1": "Virtus.pro",
+    "name2": "Ninjas in Pyjamas",
+    "result": {
+      "team1": 16,
+      "team2": 9
+    }
+  },
+  "33": {
+    "0": {
+      "name": "/player/11893/zywoo",
+      "KPR": "0.92",
+      "DPR": "0.69",
+      "KAST": "69.2%",
+      "Impact": "1.41",
+      "ADR": "92.2",
+      "Rating 2.0": "1.27"
+    },
+    "1": {
+      "name": "/player/19672/kyojin",
+      "KPR": "0.54",
+      "DPR": "0.73",
+      "KAST": "69.2%",
+      "Impact": "0.94",
+      "ADR": "67.3",
+      "Rating 2.0": "0.95"
+    },
+    "2": {
+      "name": "/player/7322/apex",
+      "KPR": "0.58",
+      "DPR": "0.73",
+      "KAST": "53.8%",
+      "Impact": "0.99",
+      "ADR": "80.2",
+      "Rating 2.0": "0.87"
+    },
+    "3": {
+      "name": "/player/14176/misutaaa",
+      "KPR": "0.62",
+      "DPR": "0.77",
+      "KAST": "65.4%",
+      "Impact": "0.69",
+      "ADR": "65.7",
+      "Rating 2.0": "0.85"
+    },
+    "4": {
+      "name": "/player/1225/shox",
+      "KPR": "0.35",
+      "DPR": "0.77",
+      "KAST": "57.7%",
+      "Impact": "0.54",
+      "ADR": "45.0",
+      "Rating 2.0": "0.60"
+    },
+    "5": {
+      "name": "/player/7998/s1mple",
+      "KPR": "0.96",
+      "DPR": "0.62",
+      "KAST": "73.1%",
+      "Impact": "2.06",
+      "ADR": "102.1",
+      "Rating 2.0": "1.60"
+    },
+    "6": {
+      "name": "/player/8918/electronic",
+      "KPR": "0.85",
+      "DPR": "0.62",
+      "KAST": "73.1%",
+      "Impact": "1.25",
+      "ADR": "96.3",
+      "Rating 2.0": "1.32"
+    },
+    "7": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.81",
+      "DPR": "0.54",
+      "KAST": "80.8%",
+      "Impact": "1.33",
+      "ADR": "75.0",
+      "Rating 2.0": "1.30"
+    },
+    "8": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.65",
+      "DPR": "0.50",
+      "KAST": "80.8%",
+      "Impact": "0.98",
+      "ADR": "70.6",
+      "Rating 2.0": "1.17"
+    },
+    "9": {
+      "name": "/player/18987/b1t",
+      "KPR": "0.38",
+      "DPR": "0.73",
+      "KAST": "69.2%",
+      "Impact": "0.73",
+      "ADR": "50.0",
+      "Rating 2.0": "0.83"
+    },
+    "mapStatsid": 123555,
+    "name1": "Vitality",
+    "name2": "Natus Vincere",
+    "result": {
+      "team1": 10,
+      "team2": 16
+    }
+  },
+  "34": {
+    "0": {
+      "name": "/player/11893/zywoo",
+      "KPR": "0.62",
+      "DPR": "0.71",
+      "KAST": "71.4%",
+      "Impact": "0.76",
+      "ADR": "65.0",
+      "Rating 2.0": "0.91"
+    },
+    "1": {
+      "name": "/player/1225/shox",
+      "KPR": "0.81",
+      "DPR": "0.86",
+      "KAST": "57.1%",
+      "Impact": "1.14",
+      "ADR": "78.4",
+      "Rating 2.0": "0.91"
+    },
+    "2": {
+      "name": "/player/14176/misutaaa",
+      "KPR": "0.67",
+      "DPR": "0.86",
+      "KAST": "66.7%",
+      "Impact": "0.70",
+      "ADR": "77.5",
+      "Rating 2.0": "0.85"
+    },
+    "3": {
+      "name": "/player/7322/apex",
+      "KPR": "0.57",
+      "DPR": "0.90",
+      "KAST": "66.7%",
+      "Impact": "0.46",
+      "ADR": "73.9",
+      "Rating 2.0": "0.70"
+    },
+    "4": {
+      "name": "/player/19672/kyojin",
+      "KPR": "0.29",
+      "DPR": "0.86",
+      "KAST": "57.1%",
+      "Impact": "0.00",
+      "ADR": "43.4",
+      "Rating 2.0": "0.38"
+    },
+    "5": {
+      "name": "/player/16947/perfecto",
+      "KPR": "1.14",
+      "DPR": "0.57",
+      "KAST": "81.0%",
+      "Impact": "1.73",
+      "ADR": "114.0",
+      "Rating 2.0": "1.72"
+    },
+    "6": {
+      "name": "/player/8918/electronic",
+      "KPR": "0.81",
+      "DPR": "0.52",
+      "KAST": "100.0%",
+      "Impact": "1.51",
+      "ADR": "101.1",
+      "Rating 2.0": "1.64"
+    },
+    "7": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.86",
+      "DPR": "0.62",
+      "KAST": "85.7%",
+      "Impact": "1.98",
+      "ADR": "84.4",
+      "Rating 2.0": "1.55"
+    },
+    "8": {
+      "name": "/player/7998/s1mple",
+      "KPR": "0.86",
+      "DPR": "0.57",
+      "KAST": "90.5%",
+      "Impact": "0.88",
+      "ADR": "94.0",
+      "Rating 2.0": "1.42"
+    },
+    "9": {
+      "name": "/player/18987/b1t",
+      "KPR": "0.48",
+      "DPR": "0.67",
+      "KAST": "71.4%",
+      "Impact": "0.55",
+      "ADR": "50.4",
+      "Rating 2.0": "0.83"
+    },
+    "mapStatsid": 123551,
+    "name1": "Vitality",
+    "name2": "Natus Vincere",
+    "result": {
+      "team1": 5,
+      "team2": 16
+    }
+  },
+  "35": {
+    "0": {
+      "name": "/player/1225/shox",
+      "KPR": "0.93",
+      "DPR": "0.57",
+      "KAST": "76.7%",
+      "Impact": "1.69",
+      "ADR": "106.6",
+      "Rating 2.0": "1.54"
+    },
+    "1": {
+      "name": "/player/11893/zywoo",
+      "KPR": "0.73",
+      "DPR": "0.57",
+      "KAST": "73.3%",
+      "Impact": "1.13",
+      "ADR": "75.9",
+      "Rating 2.0": "1.20"
+    },
+    "2": {
+      "name": "/player/19672/kyojin",
+      "KPR": "0.63",
+      "DPR": "0.70",
+      "KAST": "66.7%",
+      "Impact": "0.95",
+      "ADR": "79.6",
+      "Rating 2.0": "1.00"
+    },
+    "3": {
+      "name": "/player/14176/misutaaa",
+      "KPR": "0.47",
+      "DPR": "0.60",
+      "KAST": "63.3%",
+      "Impact": "0.56",
+      "ADR": "48.5",
+      "Rating 2.0": "0.80"
+    },
+    "4": {
+      "name": "/player/7322/apex",
+      "KPR": "0.30",
+      "DPR": "0.60",
+      "KAST": "60.0%",
+      "Impact": "0.43",
+      "ADR": "53.9",
+      "Rating 2.0": "0.72"
+    },
+    "5": {
+      "name": "/player/18987/b1t",
+      "KPR": "1.17",
+      "DPR": "0.57",
+      "KAST": "86.7%",
+      "Impact": "2.00",
+      "ADR": "120.9",
+      "Rating 2.0": "1.84"
+    },
+    "6": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.57",
+      "DPR": "0.67",
+      "KAST": "76.7%",
+      "Impact": "0.71",
+      "ADR": "77.0",
+      "Rating 2.0": "1.01"
+    },
+    "7": {
+      "name": "/player/7998/s1mple",
+      "KPR": "0.43",
+      "DPR": "0.50",
+      "KAST": "66.7%",
+      "Impact": "0.43",
+      "ADR": "49.0",
+      "Rating 2.0": "0.82"
+    },
+    "8": {
+      "name": "/player/8918/electronic",
+      "KPR": "0.50",
+      "DPR": "0.63",
+      "KAST": "60.0%",
+      "Impact": "0.91",
+      "ADR": "48.3",
+      "Rating 2.0": "0.81"
+    },
+    "9": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.37",
+      "DPR": "0.70",
+      "KAST": "56.7%",
+      "Impact": "0.34",
+      "ADR": "44.4",
+      "Rating 2.0": "0.59"
+    },
+    "mapStatsid": 123544,
+    "name1": "Natus Vincere",
+    "name2": "Vitality",
+    "result": {
+      "team1": 14,
+      "team2": 16
+    }
+  },
+  "36": {
+    "0": {
+      "name": "/player/8520/naf",
+      "KPR": "0.62",
+      "DPR": "0.69",
+      "KAST": "79.3%",
+      "Impact": "1.37",
+      "ADR": "95.3",
+      "Rating 2.0": "1.28"
+    },
+    "1": {
+      "name": "/player/8738/elige",
+      "KPR": "0.83",
+      "DPR": "0.76",
+      "KAST": "62.1%",
+      "Impact": "1.52",
+      "ADR": "82.2",
+      "Rating 2.0": "1.12"
+    },
+    "2": {
+      "name": "/player/8797/stewie2k",
+      "KPR": "0.59",
+      "DPR": "0.66",
+      "KAST": "65.5%",
+      "Impact": "1.05",
+      "ADR": "58.3",
+      "Rating 2.0": "0.95"
+    },
+    "3": {
+      "name": "/player/13578/grim",
+      "KPR": "0.55",
+      "DPR": "0.76",
+      "KAST": "69.0%",
+      "Impact": "0.46",
+      "ADR": "60.5",
+      "Rating 2.0": "0.79"
+    },
+    "4": {
+      "name": "/player/2023/fallen",
+      "KPR": "0.52",
+      "DPR": "0.66",
+      "KAST": "62.1%",
+      "Impact": "0.56",
+      "ADR": "48.0",
+      "Rating 2.0": "0.77"
+    },
+    "5": {
+      "name": "/player/5796/tizian",
+      "KPR": "0.79",
+      "DPR": "0.45",
+      "KAST": "82.8%",
+      "Impact": "1.17",
+      "ADR": "80.3",
+      "Rating 2.0": "1.35"
+    },
+    "6": {
+      "name": "/player/7266/syrson",
+      "KPR": "0.86",
+      "DPR": "0.52",
+      "KAST": "82.8%",
+      "Impact": "1.38",
+      "ADR": "73.1",
+      "Rating 2.0": "1.33"
+    },
+    "7": {
+      "name": "/player/7938/xantares",
+      "KPR": "0.79",
+      "DPR": "0.66",
+      "KAST": "82.8%",
+      "Impact": "1.22",
+      "ADR": "82.9",
+      "Rating 2.0": "1.29"
+    },
+    "8": {
+      "name": "/player/12781/k1to",
+      "KPR": "0.66",
+      "DPR": "0.72",
+      "KAST": "58.6%",
+      "Impact": "0.92",
+      "ADR": "72.3",
+      "Rating 2.0": "0.91"
+    },
+    "9": {
+      "name": "/player/5794/tabsen",
+      "KPR": "0.38",
+      "DPR": "0.76",
+      "KAST": "75.9%",
+      "Impact": "0.57",
+      "ADR": "63.6",
+      "Rating 2.0": "0.79"
+    },
+    "mapStatsid": 123546,
+    "name1": "BIG",
+    "name2": "Liquid",
+    "result": {
+      "team1": 16,
+      "team2": 13
+    }
+  },
+  "37": {
+    "0": {
+      "name": "/player/13578/grim",
+      "KPR": "0.85",
+      "DPR": "0.78",
+      "KAST": "59.3%",
+      "Impact": "1.47",
+      "ADR": "82.9",
+      "Rating 2.0": "1.08"
+    },
+    "1": {
+      "name": "/player/8738/elige",
+      "KPR": "0.67",
+      "DPR": "0.89",
+      "KAST": "70.4%",
+      "Impact": "1.03",
+      "ADR": "83.8",
+      "Rating 2.0": "0.96"
+    },
+    "2": {
+      "name": "/player/8520/naf",
+      "KPR": "0.52",
+      "DPR": "0.74",
+      "KAST": "74.1%",
+      "Impact": "0.78",
+      "ADR": "66.9",
+      "Rating 2.0": "0.91"
+    },
+    "3": {
+      "name": "/player/2023/fallen",
+      "KPR": "0.67",
+      "DPR": "0.78",
+      "KAST": "59.3%",
+      "Impact": "0.92",
+      "ADR": "70.4",
+      "Rating 2.0": "0.89"
+    },
+    "4": {
+      "name": "/player/8797/stewie2k",
+      "KPR": "0.37",
+      "DPR": "0.67",
+      "KAST": "55.6%",
+      "Impact": "0.63",
+      "ADR": "49.8",
+      "Rating 2.0": "0.71"
+    },
+    "5": {
+      "name": "/player/5794/tabsen",
+      "KPR": "0.96",
+      "DPR": "0.63",
+      "KAST": "81.5%",
+      "Impact": "1.74",
+      "ADR": "96.0",
+      "Rating 2.0": "1.49"
+    },
+    "6": {
+      "name": "/player/7266/syrson",
+      "KPR": "0.81",
+      "DPR": "0.52",
+      "KAST": "81.5%",
+      "Impact": "1.32",
+      "ADR": "77.0",
+      "Rating 2.0": "1.35"
+    },
+    "7": {
+      "name": "/player/12781/k1to",
+      "KPR": "0.89",
+      "DPR": "0.74",
+      "KAST": "77.8%",
+      "Impact": "1.43",
+      "ADR": "100.3",
+      "Rating 2.0": "1.33"
+    },
+    "8": {
+      "name": "/player/7938/xantares",
+      "KPR": "0.81",
+      "DPR": "0.59",
+      "KAST": "77.8%",
+      "Impact": "1.15",
+      "ADR": "92.7",
+      "Rating 2.0": "1.28"
+    },
+    "9": {
+      "name": "/player/5796/tizian",
+      "KPR": "0.37",
+      "DPR": "0.59",
+      "KAST": "70.4%",
+      "Impact": "0.24",
+      "ADR": "48.7",
+      "Rating 2.0": "0.74"
+    },
+    "mapStatsid": 123542,
+    "name1": "BIG",
+    "name2": "Liquid",
+    "result": {
+      "team1": 16,
+      "team2": 11
+    }
+  },
+  "38": {
+    "0": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.96",
+      "DPR": "0.54",
+      "KAST": "84.6%",
+      "Impact": "1.54",
+      "ADR": "108.7",
+      "Rating 2.0": "1.59"
+    },
+    "1": {
+      "name": "/player/18053/broky",
+      "KPR": "0.92",
+      "DPR": "0.58",
+      "KAST": "73.1%",
+      "Impact": "1.16",
+      "ADR": "83.5",
+      "Rating 2.0": "1.23"
+    },
+    "2": {
+      "name": "/player/8183/rain",
+      "KPR": "0.62",
+      "DPR": "0.69",
+      "KAST": "76.9%",
+      "Impact": "0.90",
+      "ADR": "82.7",
+      "Rating 2.0": "1.04"
+    },
+    "3": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.54",
+      "DPR": "0.54",
+      "KAST": "69.2%",
+      "Impact": "0.29",
+      "ADR": "61.5",
+      "Rating 2.0": "0.85"
+    },
+    "4": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.46",
+      "DPR": "0.69",
+      "KAST": "61.5%",
+      "Impact": "0.63",
+      "ADR": "65.2",
+      "Rating 2.0": "0.76"
+    },
+    "5": {
+      "name": "/player/17306/degster",
+      "KPR": "0.85",
+      "DPR": "0.58",
+      "KAST": "80.8%",
+      "Impact": "1.17",
+      "ADR": "85.4",
+      "Rating 2.0": "1.30"
+    },
+    "6": {
+      "name": "/player/12731/sdy",
+      "KPR": "0.69",
+      "DPR": "0.77",
+      "KAST": "65.4%",
+      "Impact": "0.88",
+      "ADR": "67.2",
+      "Rating 2.0": "0.93"
+    },
+    "7": {
+      "name": "/player/18317/magixx",
+      "KPR": "0.58",
+      "DPR": "0.73",
+      "KAST": "46.2%",
+      "Impact": "1.28",
+      "ADR": "72.7",
+      "Rating 2.0": "0.92"
+    },
+    "8": {
+      "name": "/player/7716/chopper",
+      "KPR": "0.42",
+      "DPR": "0.69",
+      "KAST": "61.5%",
+      "Impact": "0.95",
+      "ADR": "62.6",
+      "Rating 2.0": "0.88"
+    },
+    "9": {
+      "name": "/player/8789/mir",
+      "KPR": "0.50",
+      "DPR": "0.77",
+      "KAST": "53.8%",
+      "Impact": "1.14",
+      "ADR": "59.7",
+      "Rating 2.0": "0.83"
+    },
+    "mapStatsid": 123536,
+    "name1": "FaZe",
+    "name2": "Spirit",
+    "result": {
+      "team1": 16,
+      "team2": 10
+    }
+  },
+  "39": {
+    "0": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.86",
+      "DPR": "0.69",
+      "KAST": "69.0%",
+      "Impact": "1.41",
+      "ADR": "105.0",
+      "Rating 2.0": "1.37"
+    },
+    "1": {
+      "name": "/player/8183/rain",
+      "KPR": "0.76",
+      "DPR": "0.59",
+      "KAST": "72.4%",
+      "Impact": "1.12",
+      "ADR": "76.0",
+      "Rating 2.0": "1.22"
+    },
+    "2": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.62",
+      "DPR": "0.59",
+      "KAST": "58.6%",
+      "Impact": "0.97",
+      "ADR": "71.9",
+      "Rating 2.0": "1.01"
+    },
+    "3": {
+      "name": "/player/18053/broky",
+      "KPR": "0.59",
+      "DPR": "0.66",
+      "KAST": "75.9%",
+      "Impact": "0.66",
+      "ADR": "62.7",
+      "Rating 2.0": "0.97"
+    },
+    "4": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.59",
+      "DPR": "0.79",
+      "KAST": "58.6%",
+      "Impact": "1.21",
+      "ADR": "62.0",
+      "Rating 2.0": "0.86"
+    },
+    "5": {
+      "name": "/player/8789/mir",
+      "KPR": "0.83",
+      "DPR": "0.66",
+      "KAST": "69.0%",
+      "Impact": "1.14",
+      "ADR": "87.7",
+      "Rating 2.0": "1.24"
+    },
+    "6": {
+      "name": "/player/17306/degster",
+      "KPR": "0.69",
+      "DPR": "0.59",
+      "KAST": "72.4%",
+      "Impact": "0.92",
+      "ADR": "72.8",
+      "Rating 2.0": "1.08"
+    },
+    "7": {
+      "name": "/player/12731/sdy",
+      "KPR": "0.59",
+      "DPR": "0.66",
+      "KAST": "65.5%",
+      "Impact": "1.20",
+      "ADR": "70.2",
+      "Rating 2.0": "1.02"
+    },
+    "8": {
+      "name": "/player/7716/chopper",
+      "KPR": "0.62",
+      "DPR": "0.72",
+      "KAST": "72.4%",
+      "Impact": "0.71",
+      "ADR": "79.6",
+      "Rating 2.0": "0.98"
+    },
+    "9": {
+      "name": "/player/18317/magixx",
+      "KPR": "0.59",
+      "DPR": "0.79",
+      "KAST": "58.6%",
+      "Impact": "1.05",
+      "ADR": "60.4",
+      "Rating 2.0": "0.83"
+    },
+    "mapStatsid": 123534,
+    "name1": "Spirit",
+    "name2": "FaZe",
+    "result": {
+      "team1": 13,
+      "team2": 16
+    }
+  },
+  "40": {
+    "0": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.81",
+      "DPR": "0.67",
+      "KAST": "59.3%",
+      "Impact": "1.23",
+      "ADR": "85.4",
+      "Rating 2.0": "1.10"
+    },
+    "1": {
+      "name": "/player/18053/broky",
+      "KPR": "0.70",
+      "DPR": "0.56",
+      "KAST": "66.7%",
+      "Impact": "0.75",
+      "ADR": "69.6",
+      "Rating 2.0": "1.03"
+    },
+    "2": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.48",
+      "DPR": "0.67",
+      "KAST": "70.4%",
+      "Impact": "0.54",
+      "ADR": "68.7",
+      "Rating 2.0": "0.85"
+    },
+    "3": {
+      "name": "/player/8183/rain",
+      "KPR": "0.52",
+      "DPR": "0.70",
+      "KAST": "59.3%",
+      "Impact": "0.76",
+      "ADR": "65.3",
+      "Rating 2.0": "0.82"
+    },
+    "4": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.30",
+      "DPR": "0.81",
+      "KAST": "48.1%",
+      "Impact": "0.43",
+      "ADR": "43.1",
+      "Rating 2.0": "0.44"
+    },
+    "5": {
+      "name": "/player/17306/degster",
+      "KPR": "1.04",
+      "DPR": "0.41",
+      "KAST": "74.1%",
+      "Impact": "2.07",
+      "ADR": "89.7",
+      "Rating 2.0": "1.66"
+    },
+    "6": {
+      "name": "/player/8789/mir",
+      "KPR": "0.74",
+      "DPR": "0.59",
+      "KAST": "74.1%",
+      "Impact": "1.47",
+      "ADR": "89.0",
+      "Rating 2.0": "1.33"
+    },
+    "7": {
+      "name": "/player/18317/magixx",
+      "KPR": "0.59",
+      "DPR": "0.59",
+      "KAST": "85.2%",
+      "Impact": "0.80",
+      "ADR": "58.5",
+      "Rating 2.0": "1.08"
+    },
+    "8": {
+      "name": "/player/12731/sdy",
+      "KPR": "0.59",
+      "DPR": "0.70",
+      "KAST": "70.4%",
+      "Impact": "1.10",
+      "ADR": "70.9",
+      "Rating 2.0": "1.01"
+    },
+    "9": {
+      "name": "/player/7716/chopper",
+      "KPR": "0.44",
+      "DPR": "0.63",
+      "KAST": "66.7%",
+      "Impact": "0.86",
+      "ADR": "48.2",
+      "Rating 2.0": "0.86"
+    },
+    "mapStatsid": 123530,
+    "name1": "FaZe",
+    "name2": "Spirit",
+    "result": {
+      "team1": 11,
+      "team2": 16
+    }
+  },
+  "41": {
+    "0": {
+      "name": "/player/15631/kscerato",
+      "KPR": "1.11",
+      "DPR": "0.70",
+      "KAST": "77.8%",
+      "Impact": "1.98",
+      "ADR": "115.8",
+      "Rating 2.0": "1.66"
+    },
+    "1": {
+      "name": "/player/12553/yuurih",
+      "KPR": "0.81",
+      "DPR": "0.44",
+      "KAST": "96.3%",
+      "Impact": "1.45",
+      "ADR": "81.0",
+      "Rating 2.0": "1.49"
+    },
+    "2": {
+      "name": "/player/12822/vini",
+      "KPR": "0.70",
+      "DPR": "0.70",
+      "KAST": "70.4%",
+      "Impact": "1.25",
+      "ADR": "76.2",
+      "Rating 2.0": "1.11"
+    },
+    "3": {
+      "name": "/player/12521/art",
+      "KPR": "0.67",
+      "DPR": "0.59",
+      "KAST": "70.4%",
+      "Impact": "1.23",
+      "ADR": "65.0",
+      "Rating 2.0": "1.07"
+    },
+    "4": {
+      "name": "/player/20378/honda",
+      "KPR": "0.56",
+      "DPR": "0.59",
+      "KAST": "77.8%",
+      "Impact": "0.65",
+      "ADR": "68.9",
+      "Rating 2.0": "1.01"
+    },
+    "5": {
+      "name": "/player/11140/ins",
+      "KPR": "0.67",
+      "DPR": "0.78",
+      "KAST": "63.0%",
+      "Impact": "1.19",
+      "ADR": "80.9",
+      "Rating 2.0": "0.96"
+    },
+    "6": {
+      "name": "/player/11162/hatz",
+      "KPR": "0.56",
+      "DPR": "0.78",
+      "KAST": "74.1%",
+      "Impact": "0.98",
+      "ADR": "65.2",
+      "Rating 2.0": "0.91"
+    },
+    "7": {
+      "name": "/player/11139/alistair",
+      "KPR": "0.56",
+      "DPR": "0.78",
+      "KAST": "63.0%",
+      "Impact": "0.90",
+      "ADR": "65.6",
+      "Rating 2.0": "0.87"
+    },
+    "8": {
+      "name": "/player/9102/sico",
+      "KPR": "0.67",
+      "DPR": "0.74",
+      "KAST": "59.3%",
+      "Impact": "0.93",
+      "ADR": "70.3",
+      "Rating 2.0": "0.87"
+    },
+    "9": {
+      "name": "/player/11485/malta",
+      "KPR": "0.56",
+      "DPR": "0.81",
+      "KAST": "70.4%",
+      "Impact": "0.58",
+      "ADR": "65.4",
+      "Rating 2.0": "0.76"
+    },
+    "mapStatsid": 123532,
+    "name1": "Renegades",
+    "name2": "FURIA",
+    "result": {
+      "team1": 11,
+      "team2": 16
+    }
+  },
+  "42": {
+    "0": {
+      "name": "/player/15631/kscerato",
+      "KPR": "0.84",
+      "DPR": "0.52",
+      "KAST": "80.0%",
+      "Impact": "1.17",
+      "ADR": "95.6",
+      "Rating 2.0": "1.38"
+    },
+    "1": {
+      "name": "/player/12553/yuurih",
+      "KPR": "0.72",
+      "DPR": "0.52",
+      "KAST": "92.0%",
+      "Impact": "1.08",
+      "ADR": "80.5",
+      "Rating 2.0": "1.35"
+    },
+    "2": {
+      "name": "/player/12521/art",
+      "KPR": "0.64",
+      "DPR": "0.64",
+      "KAST": "64.0%",
+      "Impact": "1.44",
+      "ADR": "73.6",
+      "Rating 2.0": "1.09"
+    },
+    "3": {
+      "name": "/player/12822/vini",
+      "KPR": "0.64",
+      "DPR": "0.56",
+      "KAST": "76.0%",
+      "Impact": "0.84",
+      "ADR": "70.6",
+      "Rating 2.0": "1.06"
+    },
+    "4": {
+      "name": "/player/20378/honda",
+      "KPR": "0.52",
+      "DPR": "0.60",
+      "KAST": "72.0%",
+      "Impact": "0.55",
+      "ADR": "56.5",
+      "Rating 2.0": "0.85"
+    },
+    "5": {
+      "name": "/player/9102/sico",
+      "KPR": "1.00",
+      "DPR": "0.60",
+      "KAST": "76.0%",
+      "Impact": "1.51",
+      "ADR": "98.0",
+      "Rating 2.0": "1.45"
+    },
+    "6": {
+      "name": "/player/11139/alistair",
+      "KPR": "0.56",
+      "DPR": "0.68",
+      "KAST": "64.0%",
+      "Impact": "0.99",
+      "ADR": "58.1",
+      "Rating 2.0": "0.91"
+    },
+    "7": {
+      "name": "/player/11140/ins",
+      "KPR": "0.56",
+      "DPR": "0.64",
+      "KAST": "64.0%",
+      "Impact": "0.88",
+      "ADR": "59.7",
+      "Rating 2.0": "0.89"
+    },
+    "8": {
+      "name": "/player/11485/malta",
+      "KPR": "0.44",
+      "DPR": "0.76",
+      "KAST": "80.0%",
+      "Impact": "0.21",
+      "ADR": "58.2",
+      "Rating 2.0": "0.80"
+    },
+    "9": {
+      "name": "/player/11162/hatz",
+      "KPR": "0.28",
+      "DPR": "0.68",
+      "KAST": "64.0%",
+      "Impact": "0.29",
+      "ADR": "52.8",
+      "Rating 2.0": "0.64"
+    },
+    "mapStatsid": 123529,
+    "name1": "FURIA",
+    "name2": "Renegades",
+    "result": {
+      "team1": 16,
+      "team2": 9
+    }
+  },
+  "43": {
+    "0": {
+      "name": "/player/15165/blamef",
+      "KPR": "0.72",
+      "DPR": "0.59",
+      "KAST": "75.9%",
+      "Impact": "1.27",
+      "ADR": "85.8",
+      "Rating 2.0": "1.28"
+    },
+    "1": {
+      "name": "/player/9078/k0nfig",
+      "KPR": "0.72",
+      "DPR": "0.69",
+      "KAST": "69.0%",
+      "Impact": "1.19",
+      "ADR": "91.3",
+      "Rating 2.0": "1.20"
+    },
+    "2": {
+      "name": "/player/7805/rush",
+      "KPR": "0.69",
+      "DPR": "0.59",
+      "KAST": "79.3%",
+      "Impact": "0.98",
+      "ADR": "60.0",
+      "Rating 2.0": "1.10"
+    },
+    "3": {
+      "name": "/player/4679/jks",
+      "KPR": "0.41",
+      "DPR": "0.52",
+      "KAST": "65.5%",
+      "Impact": "0.35",
+      "ADR": "50.7",
+      "Rating 2.0": "0.81"
+    },
+    "4": {
+      "name": "/player/12126/poizon",
+      "KPR": "0.45",
+      "DPR": "0.59",
+      "KAST": "62.1%",
+      "Impact": "0.61",
+      "ADR": "58.8",
+      "Rating 2.0": "0.80"
+    },
+    "5": {
+      "name": "/player/13239/qikert",
+      "KPR": "0.90",
+      "DPR": "0.59",
+      "KAST": "69.0%",
+      "Impact": "0.98",
+      "ADR": "89.8",
+      "Rating 2.0": "1.25"
+    },
+    "6": {
+      "name": "/player/13776/jame",
+      "KPR": "0.69",
+      "DPR": "0.59",
+      "KAST": "62.1%",
+      "Impact": "1.04",
+      "ADR": "78.4",
+      "Rating 2.0": "1.08"
+    },
+    "7": {
+      "name": "/player/13915/yekindar",
+      "KPR": "0.59",
+      "DPR": "0.76",
+      "KAST": "69.0%",
+      "Impact": "1.19",
+      "ADR": "71.8",
+      "Rating 2.0": "0.99"
+    },
+    "8": {
+      "name": "/player/11942/buster",
+      "KPR": "0.41",
+      "DPR": "0.48",
+      "KAST": "69.0%",
+      "Impact": "0.77",
+      "ADR": "45.8",
+      "Rating 2.0": "0.89"
+    },
+    "9": {
+      "name": "/player/11716/sanji",
+      "KPR": "0.34",
+      "DPR": "0.62",
+      "KAST": "55.2%",
+      "Impact": "0.49",
+      "ADR": "46.6",
+      "Rating 2.0": "0.66"
+    },
+    "mapStatsid": 123511,
+    "name1": "Complexity",
+    "name2": "Virtus.pro",
+    "result": {
+      "team1": 13,
+      "team2": 16
+    }
+  },
+  "44": {
+    "0": {
+      "name": "/player/4679/jks",
+      "KPR": "0.68",
+      "DPR": "0.68",
+      "KAST": "61.8%",
+      "Impact": "1.10",
+      "ADR": "80.4",
+      "Rating 2.0": "1.05"
+    },
+    "1": {
+      "name": "/player/15165/blamef",
+      "KPR": "0.71",
+      "DPR": "0.62",
+      "KAST": "58.8%",
+      "Impact": "1.17",
+      "ADR": "68.1",
+      "Rating 2.0": "1.03"
+    },
+    "2": {
+      "name": "/player/12126/poizon",
+      "KPR": "0.59",
+      "DPR": "0.65",
+      "KAST": "67.6%",
+      "Impact": "0.70",
+      "ADR": "73.0",
+      "Rating 2.0": "0.95"
+    },
+    "3": {
+      "name": "/player/7805/rush",
+      "KPR": "0.47",
+      "DPR": "0.65",
+      "KAST": "70.6%",
+      "Impact": "0.51",
+      "ADR": "60.4",
+      "Rating 2.0": "0.85"
+    },
+    "4": {
+      "name": "/player/9078/k0nfig",
+      "KPR": "0.50",
+      "DPR": "0.71",
+      "KAST": "58.8%",
+      "Impact": "0.89",
+      "ADR": "56.9",
+      "Rating 2.0": "0.82"
+    },
+    "5": {
+      "name": "/player/13239/qikert",
+      "KPR": "0.76",
+      "DPR": "0.68",
+      "KAST": "82.4%",
+      "Impact": "1.22",
+      "ADR": "98.3",
+      "Rating 2.0": "1.33"
+    },
+    "6": {
+      "name": "/player/13915/yekindar",
+      "KPR": "0.82",
+      "DPR": "0.53",
+      "KAST": "64.7%",
+      "Impact": "1.56",
+      "ADR": "87.9",
+      "Rating 2.0": "1.32"
+    },
+    "7": {
+      "name": "/player/13776/jame",
+      "KPR": "0.74",
+      "DPR": "0.50",
+      "KAST": "82.4%",
+      "Impact": "1.20",
+      "ADR": "69.0",
+      "Rating 2.0": "1.26"
+    },
+    "8": {
+      "name": "/player/11942/buster",
+      "KPR": "0.65",
+      "DPR": "0.50",
+      "KAST": "67.6%",
+      "Impact": "1.12",
+      "ADR": "65.1",
+      "Rating 2.0": "1.08"
+    },
+    "9": {
+      "name": "/player/11716/sanji",
+      "KPR": "0.32",
+      "DPR": "0.74",
+      "KAST": "61.8%",
+      "Impact": "0.26",
+      "ADR": "39.2",
+      "Rating 2.0": "0.56"
+    },
+    "mapStatsid": 123508,
+    "name1": "Complexity",
+    "name2": "Virtus.pro",
+    "result": {
+      "team1": 15,
+      "team2": 19
+    }
+  },
+  "45": {
+    "0": {
+      "name": "/player/15165/blamef",
+      "KPR": "1.09",
+      "DPR": "0.41",
+      "KAST": "86.4%",
+      "Impact": "1.93",
+      "ADR": "116.5",
+      "Rating 2.0": "1.83"
+    },
+    "1": {
+      "name": "/player/4679/jks",
+      "KPR": "0.82",
+      "DPR": "0.45",
+      "KAST": "90.9%",
+      "Impact": "1.38",
+      "ADR": "89.1",
+      "Rating 2.0": "1.48"
+    },
+    "2": {
+      "name": "/player/9078/k0nfig",
+      "KPR": "0.68",
+      "DPR": "0.45",
+      "KAST": "81.8%",
+      "Impact": "0.93",
+      "ADR": "71.5",
+      "Rating 2.0": "1.21"
+    },
+    "3": {
+      "name": "/player/12126/poizon",
+      "KPR": "0.64",
+      "DPR": "0.50",
+      "KAST": "90.9%",
+      "Impact": "0.70",
+      "ADR": "71.3",
+      "Rating 2.0": "1.16"
+    },
+    "4": {
+      "name": "/player/7805/rush",
+      "KPR": "0.41",
+      "DPR": "0.41",
+      "KAST": "81.8%",
+      "Impact": "0.59",
+      "ADR": "42.1",
+      "Rating 2.0": "0.95"
+    },
+    "5": {
+      "name": "/player/13776/jame",
+      "KPR": "0.45",
+      "DPR": "0.55",
+      "KAST": "77.3%",
+      "Impact": "0.83",
+      "ADR": "72.9",
+      "Rating 2.0": "1.06"
+    },
+    "6": {
+      "name": "/player/13915/yekindar",
+      "KPR": "0.59",
+      "DPR": "0.77",
+      "KAST": "59.1%",
+      "Impact": "1.52",
+      "ADR": "68.0",
+      "Rating 2.0": "1.00"
+    },
+    "7": {
+      "name": "/player/13239/qikert",
+      "KPR": "0.45",
+      "DPR": "0.77",
+      "KAST": "54.5%",
+      "Impact": "0.73",
+      "ADR": "56.8",
+      "Rating 2.0": "0.71"
+    },
+    "8": {
+      "name": "/player/11716/sanji",
+      "KPR": "0.41",
+      "DPR": "0.86",
+      "KAST": "59.1%",
+      "Impact": "0.31",
+      "ADR": "57.4",
+      "Rating 2.0": "0.60"
+    },
+    "9": {
+      "name": "/player/11942/buster",
+      "KPR": "0.27",
+      "DPR": "0.68",
+      "KAST": "45.5%",
+      "Impact": "0.21",
+      "ADR": "35.9",
+      "Rating 2.0": "0.50"
+    },
+    "mapStatsid": 123502,
+    "name1": "Complexity",
+    "name2": "Virtus.pro",
+    "result": {
+      "team1": 16,
+      "team2": 6
+    }
+  },
+  "46": {
+    "0": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.95",
+      "DPR": "0.30",
+      "KAST": "90.0%",
+      "Impact": "1.46",
+      "ADR": "101.7",
+      "Rating 2.0": "1.75"
+    },
+    "1": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.90",
+      "DPR": "0.40",
+      "KAST": "80.0%",
+      "Impact": "1.50",
+      "ADR": "79.0",
+      "Rating 2.0": "1.43"
+    },
+    "2": {
+      "name": "/player/284/jackz",
+      "KPR": "0.75",
+      "DPR": "0.40",
+      "KAST": "90.0%",
+      "Impact": "1.14",
+      "ADR": "83.2",
+      "Rating 2.0": "1.38"
+    },
+    "3": {
+      "name": "/player/3741/niko",
+      "KPR": "0.65",
+      "DPR": "0.40",
+      "KAST": "85.0%",
+      "Impact": "1.29",
+      "ADR": "77.6",
+      "Rating 2.0": "1.37"
+    },
+    "4": {
+      "name": "/player/3972/hunter",
+      "KPR": "0.80",
+      "DPR": "0.70",
+      "KAST": "85.0%",
+      "Impact": "1.30",
+      "ADR": "94.7",
+      "Rating 2.0": "1.32"
+    },
+    "5": {
+      "name": "/player/12781/k1to",
+      "KPR": "0.60",
+      "DPR": "0.85",
+      "KAST": "60.0%",
+      "Impact": "0.85",
+      "ADR": "88.7",
+      "Rating 2.0": "0.92"
+    },
+    "6": {
+      "name": "/player/7938/xantares",
+      "KPR": "0.45",
+      "DPR": "0.80",
+      "KAST": "65.0%",
+      "Impact": "0.45",
+      "ADR": "61.9",
+      "Rating 2.0": "0.72"
+    },
+    "7": {
+      "name": "/player/7266/syrson",
+      "KPR": "0.35",
+      "DPR": "0.80",
+      "KAST": "50.0%",
+      "Impact": "0.42",
+      "ADR": "40.5",
+      "Rating 2.0": "0.53"
+    },
+    "8": {
+      "name": "/player/5796/tizian",
+      "KPR": "0.40",
+      "DPR": "0.85",
+      "KAST": "55.0%",
+      "Impact": "0.24",
+      "ADR": "48.5",
+      "Rating 2.0": "0.50"
+    },
+    "9": {
+      "name": "/player/5794/tabsen",
+      "KPR": "0.25",
+      "DPR": "0.85",
+      "KAST": "55.0%",
+      "Impact": "0.36",
+      "ADR": "44.4",
+      "Rating 2.0": "0.48"
+    },
+    "mapStatsid": 123501,
+    "name1": "G2",
+    "name2": "BIG",
+    "result": {
+      "team1": 16,
+      "team2": 4
+    }
+  },
+  "47": {
+    "0": {
+      "name": "/player/3741/niko",
+      "KPR": "1.06",
+      "DPR": "0.24",
+      "KAST": "88.2%",
+      "Impact": "1.68",
+      "ADR": "102.8",
+      "Rating 2.0": "1.91"
+    },
+    "1": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.82",
+      "DPR": "0.41",
+      "KAST": "94.1%",
+      "Impact": "1.98",
+      "ADR": "84.8",
+      "Rating 2.0": "1.78"
+    },
+    "2": {
+      "name": "/player/3972/hunter",
+      "KPR": "0.88",
+      "DPR": "0.47",
+      "KAST": "88.2%",
+      "Impact": "1.23",
+      "ADR": "92.0",
+      "Rating 2.0": "1.56"
+    },
+    "3": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.71",
+      "DPR": "0.47",
+      "KAST": "70.6%",
+      "Impact": "1.74",
+      "ADR": "76.5",
+      "Rating 2.0": "1.41"
+    },
+    "4": {
+      "name": "/player/284/jackz",
+      "KPR": "0.76",
+      "DPR": "0.65",
+      "KAST": "76.5%",
+      "Impact": "1.19",
+      "ADR": "77.1",
+      "Rating 2.0": "1.27"
+    },
+    "5": {
+      "name": "/player/7266/syrson",
+      "KPR": "0.47",
+      "DPR": "0.76",
+      "KAST": "52.9%",
+      "Impact": "0.58",
+      "ADR": "48.4",
+      "Rating 2.0": "0.60"
+    },
+    "6": {
+      "name": "/player/5794/tabsen",
+      "KPR": "0.41",
+      "DPR": "0.76",
+      "KAST": "58.8%",
+      "Impact": "0.11",
+      "ADR": "51.4",
+      "Rating 2.0": "0.52"
+    },
+    "7": {
+      "name": "/player/12781/k1to",
+      "KPR": "0.53",
+      "DPR": "1.00",
+      "KAST": "52.9%",
+      "Impact": "0.27",
+      "ADR": "61.2",
+      "Rating 2.0": "0.50"
+    },
+    "8": {
+      "name": "/player/7938/xantares",
+      "KPR": "0.41",
+      "DPR": "0.88",
+      "KAST": "52.9%",
+      "Impact": "0.13",
+      "ADR": "61.6",
+      "Rating 2.0": "0.45"
+    },
+    "9": {
+      "name": "/player/5796/tizian",
+      "KPR": "0.29",
+      "DPR": "0.82",
+      "KAST": "58.8%",
+      "Impact": "0.13",
+      "ADR": "44.1",
+      "Rating 2.0": "0.42"
+    },
+    "mapStatsid": 123494,
+    "name1": "BIG",
+    "name2": "G2",
+    "result": {
+      "team1": 1,
+      "team2": 16
+    }
+  },
+  "48": {
+    "0": {
+      "name": "/player/284/jackz",
+      "KPR": "0.50",
+      "DPR": "0.79",
+      "KAST": "66.7%",
+      "Impact": "1.11",
+      "ADR": "55.8",
+      "Rating 2.0": "0.91"
+    },
+    "1": {
+      "name": "/player/3972/hunter",
+      "KPR": "0.71",
+      "DPR": "0.75",
+      "KAST": "50.0%",
+      "Impact": "0.79",
+      "ADR": "74.4",
+      "Rating 2.0": "0.87"
+    },
+    "2": {
+      "name": "/player/3741/niko",
+      "KPR": "0.62",
+      "DPR": "0.71",
+      "KAST": "54.2%",
+      "Impact": "0.76",
+      "ADR": "75.1",
+      "Rating 2.0": "0.85"
+    },
+    "3": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.38",
+      "DPR": "0.71",
+      "KAST": "62.5%",
+      "Impact": "0.46",
+      "ADR": "65.7",
+      "Rating 2.0": "0.71"
+    },
+    "4": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.12",
+      "DPR": "0.75",
+      "KAST": "33.3%",
+      "Impact": "0.19",
+      "ADR": "16.0",
+      "Rating 2.0": "0.28"
+    },
+    "5": {
+      "name": "/player/7266/syrson",
+      "KPR": "0.88",
+      "DPR": "0.50",
+      "KAST": "75.0%",
+      "Impact": "1.87",
+      "ADR": "85.4",
+      "Rating 2.0": "1.50"
+    },
+    "6": {
+      "name": "/player/5796/tizian",
+      "KPR": "0.83",
+      "DPR": "0.33",
+      "KAST": "75.0%",
+      "Impact": "1.28",
+      "ADR": "89.2",
+      "Rating 2.0": "1.46"
+    },
+    "7": {
+      "name": "/player/12781/k1to",
+      "KPR": "0.79",
+      "DPR": "0.46",
+      "KAST": "83.3%",
+      "Impact": "0.93",
+      "ADR": "78.2",
+      "Rating 2.0": "1.27"
+    },
+    "8": {
+      "name": "/player/7938/xantares",
+      "KPR": "0.67",
+      "DPR": "0.50",
+      "KAST": "79.2%",
+      "Impact": "1.06",
+      "ADR": "80.1",
+      "Rating 2.0": "1.20"
+    },
+    "9": {
+      "name": "/player/5794/tabsen",
+      "KPR": "0.46",
+      "DPR": "0.54",
+      "KAST": "66.7%",
+      "Impact": "0.79",
+      "ADR": "73.4",
+      "Rating 2.0": "0.97"
+    },
+    "mapStatsid": 123491,
+    "name1": "BIG",
+    "name2": "G2",
+    "result": {
+      "team1": 16,
+      "team2": 8
+    }
+  },
+  "49": {
+    "0": {
+      "name": "/player/8520/naf",
+      "KPR": "0.81",
+      "DPR": "0.57",
+      "KAST": "77.4%",
+      "Impact": "1.26",
+      "ADR": "97.4",
+      "Rating 2.0": "1.36"
+    },
+    "1": {
+      "name": "/player/8797/stewie2k",
+      "KPR": "0.68",
+      "DPR": "0.72",
+      "KAST": "67.9%",
+      "Impact": "1.37",
+      "ADR": "82.1",
+      "Rating 2.0": "1.14"
+    },
+    "2": {
+      "name": "/player/8738/elige",
+      "KPR": "0.68",
+      "DPR": "0.66",
+      "KAST": "69.8%",
+      "Impact": "1.04",
+      "ADR": "74.1",
+      "Rating 2.0": "1.04"
+    },
+    "3": {
+      "name": "/player/13578/grim",
+      "KPR": "0.64",
+      "DPR": "0.60",
+      "KAST": "77.4%",
+      "Impact": "0.70",
+      "ADR": "62.3",
+      "Rating 2.0": "1.01"
+    },
+    "4": {
+      "name": "/player/2023/fallen",
+      "KPR": "0.60",
+      "DPR": "0.66",
+      "KAST": "69.8%",
+      "Impact": "1.00",
+      "ADR": "63.9",
+      "Rating 2.0": "0.99"
+    },
+    "5": {
+      "name": "/player/11816/ropz",
+      "KPR": "0.91",
+      "DPR": "0.64",
+      "KAST": "73.6%",
+      "Impact": "1.38",
+      "ADR": "88.2",
+      "Rating 2.0": "1.31"
+    },
+    "6": {
+      "name": "/player/10330/acor",
+      "KPR": "0.66",
+      "DPR": "0.62",
+      "KAST": "73.6%",
+      "Impact": "1.04",
+      "ADR": "72.0",
+      "Rating 2.0": "1.10"
+    },
+    "7": {
+      "name": "/player/19015/bymas",
+      "KPR": "0.58",
+      "DPR": "0.68",
+      "KAST": "64.2%",
+      "Impact": "1.06",
+      "ADR": "65.9",
+      "Rating 2.0": "0.94"
+    },
+    "8": {
+      "name": "/player/9960/frozen",
+      "KPR": "0.55",
+      "DPR": "0.77",
+      "KAST": "58.5%",
+      "Impact": "0.88",
+      "ADR": "75.3",
+      "Rating 2.0": "0.85"
+    },
+    "9": {
+      "name": "/player/9115/dexter",
+      "KPR": "0.51",
+      "DPR": "0.70",
+      "KAST": "64.2%",
+      "Impact": "0.59",
+      "ADR": "58.0",
+      "Rating 2.0": "0.77"
+    },
+    "mapStatsid": 123495,
+    "name1": "Liquid",
+    "name2": "MOUZ",
+    "result": {
+      "team1": 28,
+      "team2": 25
+    }
+  },
+  "50": {
+    "0": {
+      "name": "/player/8738/elige",
+      "KPR": "0.75",
+      "DPR": "0.82",
+      "KAST": "64.3%",
+      "Impact": "1.26",
+      "ADR": "79.1",
+      "Rating 2.0": "1.04"
+    },
+    "1": {
+      "name": "/player/8520/naf",
+      "KPR": "0.54",
+      "DPR": "0.71",
+      "KAST": "60.7%",
+      "Impact": "1.01",
+      "ADR": "74.1",
+      "Rating 2.0": "0.96"
+    },
+    "2": {
+      "name": "/player/2023/fallen",
+      "KPR": "0.54",
+      "DPR": "0.64",
+      "KAST": "64.3%",
+      "Impact": "0.81",
+      "ADR": "57.8",
+      "Rating 2.0": "0.87"
+    },
+    "3": {
+      "name": "/player/8797/stewie2k",
+      "KPR": "0.57",
+      "DPR": "0.71",
+      "KAST": "64.3%",
+      "Impact": "0.75",
+      "ADR": "66.8",
+      "Rating 2.0": "0.87"
+    },
+    "4": {
+      "name": "/player/13578/grim",
+      "KPR": "0.43",
+      "DPR": "0.71",
+      "KAST": "64.3%",
+      "Impact": "0.42",
+      "ADR": "40.5",
+      "Rating 2.0": "0.64"
+    },
+    "5": {
+      "name": "/player/11816/ropz",
+      "KPR": "0.96",
+      "DPR": "0.43",
+      "KAST": "75.0%",
+      "Impact": "1.82",
+      "ADR": "92.4",
+      "Rating 2.0": "1.55"
+    },
+    "6": {
+      "name": "/player/10330/acor",
+      "KPR": "0.75",
+      "DPR": "0.54",
+      "KAST": "85.7%",
+      "Impact": "0.91",
+      "ADR": "68.3",
+      "Rating 2.0": "1.15"
+    },
+    "7": {
+      "name": "/player/9115/dexter",
+      "KPR": "0.64",
+      "DPR": "0.61",
+      "KAST": "71.4%",
+      "Impact": "1.12",
+      "ADR": "77.5",
+      "Rating 2.0": "1.12"
+    },
+    "8": {
+      "name": "/player/9960/frozen",
+      "KPR": "0.68",
+      "DPR": "0.68",
+      "KAST": "75.0%",
+      "Impact": "0.88",
+      "ADR": "85.7",
+      "Rating 2.0": "1.09"
+    },
+    "9": {
+      "name": "/player/19015/bymas",
+      "KPR": "0.54",
+      "DPR": "0.57",
+      "KAST": "78.6%",
+      "Impact": "0.94",
+      "ADR": "67.0",
+      "Rating 2.0": "1.03"
+    },
+    "mapStatsid": 123486,
+    "name1": "MOUZ",
+    "name2": "Liquid",
+    "result": {
+      "team1": 16,
+      "team2": 12
+    }
+  },
+  "51": {
+    "0": {
+      "name": "/player/2023/fallen",
+      "KPR": "0.92",
+      "DPR": "0.68",
+      "KAST": "84.0%",
+      "Impact": "1.51",
+      "ADR": "94.0",
+      "Rating 2.0": "1.46"
+    },
+    "1": {
+      "name": "/player/8797/stewie2k",
+      "KPR": "0.84",
+      "DPR": "0.60",
+      "KAST": "76.0%",
+      "Impact": "1.34",
+      "ADR": "81.2",
+      "Rating 2.0": "1.28"
+    },
+    "2": {
+      "name": "/player/13578/grim",
+      "KPR": "0.80",
+      "DPR": "0.52",
+      "KAST": "88.0%",
+      "Impact": "0.98",
+      "ADR": "62.0",
+      "Rating 2.0": "1.20"
+    },
+    "3": {
+      "name": "/player/8738/elige",
+      "KPR": "0.60",
+      "DPR": "0.68",
+      "KAST": "80.0%",
+      "Impact": "0.90",
+      "ADR": "88.9",
+      "Rating 2.0": "1.12"
+    },
+    "4": {
+      "name": "/player/8520/naf",
+      "KPR": "0.60",
+      "DPR": "0.48",
+      "KAST": "72.0%",
+      "Impact": "0.82",
+      "ADR": "68.0",
+      "Rating 2.0": "1.07"
+    },
+    "5": {
+      "name": "/player/9960/frozen",
+      "KPR": "0.72",
+      "DPR": "0.76",
+      "KAST": "64.0%",
+      "Impact": "0.99",
+      "ADR": "77.5",
+      "Rating 2.0": "1.01"
+    },
+    "6": {
+      "name": "/player/11816/ropz",
+      "KPR": "0.60",
+      "DPR": "0.64",
+      "KAST": "56.0%",
+      "Impact": "1.00",
+      "ADR": "72.0",
+      "Rating 2.0": "0.95"
+    },
+    "7": {
+      "name": "/player/19015/bymas",
+      "KPR": "0.60",
+      "DPR": "0.72",
+      "KAST": "72.0%",
+      "Impact": "0.43",
+      "ADR": "73.4",
+      "Rating 2.0": "0.91"
+    },
+    "8": {
+      "name": "/player/10330/acor",
+      "KPR": "0.56",
+      "DPR": "0.72",
+      "KAST": "72.0%",
+      "Impact": "0.41",
+      "ADR": "65.6",
+      "Rating 2.0": "0.87"
+    },
+    "9": {
+      "name": "/player/9115/dexter",
+      "KPR": "0.48",
+      "DPR": "0.92",
+      "KAST": "52.0%",
+      "Impact": "0.71",
+      "ADR": "61.7",
+      "Rating 2.0": "0.66"
+    },
+    "mapStatsid": 123480,
+    "name1": "Liquid",
+    "name2": "MOUZ",
+    "result": {
+      "team1": 16,
+      "team2": 9
+    }
+  },
+  "52": {
+    "0": {
+      "name": "/player/9278/rez",
+      "KPR": "0.58",
+      "DPR": "0.71",
+      "KAST": "70.8%",
+      "Impact": "0.83",
+      "ADR": "72.9",
+      "Rating 2.0": "0.94"
+    },
+    "1": {
+      "name": "/player/9766/hampus",
+      "KPR": "0.42",
+      "DPR": "0.75",
+      "KAST": "45.8%",
+      "Impact": "0.60",
+      "ADR": "77.3",
+      "Rating 2.0": "0.71"
+    },
+    "2": {
+      "name": "/player/7592/device",
+      "KPR": "0.42",
+      "DPR": "0.75",
+      "KAST": "50.0%",
+      "Impact": "0.88",
+      "ADR": "50.4",
+      "Rating 2.0": "0.68"
+    },
+    "3": {
+      "name": "/player/19310/lnz",
+      "KPR": "0.50",
+      "DPR": "0.71",
+      "KAST": "58.3%",
+      "Impact": "0.37",
+      "ADR": "50.3",
+      "Rating 2.0": "0.67"
+    },
+    "4": {
+      "name": "/player/14218/plopski",
+      "KPR": "0.38",
+      "DPR": "0.79",
+      "KAST": "45.8%",
+      "Impact": "0.21",
+      "ADR": "48.7",
+      "Rating 2.0": "0.46"
+    },
+    "5": {
+      "name": "/player/16920/sh1ro",
+      "KPR": "0.79",
+      "DPR": "0.25",
+      "KAST": "75.0%",
+      "Impact": "1.62",
+      "ADR": "88.5",
+      "Rating 2.0": "1.59"
+    },
+    "6": {
+      "name": "/player/16921/nafany",
+      "KPR": "0.83",
+      "DPR": "0.54",
+      "KAST": "83.3%",
+      "Impact": "1.55",
+      "ADR": "89.5",
+      "Rating 2.0": "1.50"
+    },
+    "7": {
+      "name": "/player/8528/hobbit",
+      "KPR": "0.79",
+      "DPR": "0.54",
+      "KAST": "70.8%",
+      "Impact": "1.24",
+      "ADR": "84.4",
+      "Rating 2.0": "1.26"
+    },
+    "8": {
+      "name": "/player/16555/ax1le",
+      "KPR": "0.79",
+      "DPR": "0.54",
+      "KAST": "83.3%",
+      "Impact": "0.77",
+      "ADR": "78.6",
+      "Rating 2.0": "1.24"
+    },
+    "9": {
+      "name": "/player/15071/interz",
+      "KPR": "0.50",
+      "DPR": "0.46",
+      "KAST": "75.0%",
+      "Impact": "0.59",
+      "ADR": "61.1",
+      "Rating 2.0": "1.01"
+    },
+    "mapStatsid": 123487,
+    "name1": "Ninjas in Pyjamas",
+    "name2": "Gambit",
+    "result": {
+      "team1": 8,
+      "team2": 16
+    }
+  },
+  "53": {
+    "0": {
+      "name": "/player/9278/rez",
+      "KPR": "0.76",
+      "DPR": "0.76",
+      "KAST": "61.9%",
+      "Impact": "1.25",
+      "ADR": "98.1",
+      "Rating 2.0": "1.11"
+    },
+    "1": {
+      "name": "/player/14218/plopski",
+      "KPR": "0.52",
+      "DPR": "0.71",
+      "KAST": "71.4%",
+      "Impact": "0.29",
+      "ADR": "47.8",
+      "Rating 2.0": "0.70"
+    },
+    "2": {
+      "name": "/player/19310/lnz",
+      "KPR": "0.24",
+      "DPR": "0.67",
+      "KAST": "57.1%",
+      "Impact": "0.11",
+      "ADR": "39.7",
+      "Rating 2.0": "0.50"
+    },
+    "3": {
+      "name": "/player/7592/device",
+      "KPR": "0.33",
+      "DPR": "0.90",
+      "KAST": "52.4%",
+      "Impact": "0.45",
+      "ADR": "41.0",
+      "Rating 2.0": "0.45"
+    },
+    "4": {
+      "name": "/player/9766/hampus",
+      "KPR": "0.33",
+      "DPR": "0.86",
+      "KAST": "47.6%",
+      "Impact": "0.49",
+      "ADR": "40.8",
+      "Rating 2.0": "0.43"
+    },
+    "5": {
+      "name": "/player/16921/nafany",
+      "KPR": "0.95",
+      "DPR": "0.57",
+      "KAST": "90.5%",
+      "Impact": "1.94",
+      "ADR": "96.0",
+      "Rating 2.0": "1.72"
+    },
+    "6": {
+      "name": "/player/8528/hobbit",
+      "KPR": "1.00",
+      "DPR": "0.43",
+      "KAST": "90.5%",
+      "Impact": "1.47",
+      "ADR": "103.4",
+      "Rating 2.0": "1.70"
+    },
+    "7": {
+      "name": "/player/16555/ax1le",
+      "KPR": "0.86",
+      "DPR": "0.38",
+      "KAST": "81.0%",
+      "Impact": "1.64",
+      "ADR": "80.7",
+      "Rating 2.0": "1.56"
+    },
+    "8": {
+      "name": "/player/16920/sh1ro",
+      "KPR": "0.62",
+      "DPR": "0.43",
+      "KAST": "85.7%",
+      "Impact": "1.07",
+      "ADR": "81.0",
+      "Rating 2.0": "1.37"
+    },
+    "9": {
+      "name": "/player/15071/interz",
+      "KPR": "0.48",
+      "DPR": "0.38",
+      "KAST": "90.5%",
+      "Impact": "0.27",
+      "ADR": "41.2",
+      "Rating 2.0": "1.04"
+    },
+    "mapStatsid": 123483,
+    "name1": "Ninjas in Pyjamas",
+    "name2": "Gambit",
+    "result": {
+      "team1": 5,
+      "team2": 16
+    }
+  },
+  "54": {
+    "0": {
+      "name": "/player/9766/hampus",
+      "KPR": "0.85",
+      "DPR": "0.73",
+      "KAST": "65.4%",
+      "Impact": "1.72",
+      "ADR": "92.9",
+      "Rating 2.0": "1.29"
+    },
+    "1": {
+      "name": "/player/19310/lnz",
+      "KPR": "0.62",
+      "DPR": "0.35",
+      "KAST": "76.9%",
+      "Impact": "1.00",
+      "ADR": "60.4",
+      "Rating 2.0": "1.19"
+    },
+    "2": {
+      "name": "/player/14218/plopski",
+      "KPR": "0.85",
+      "DPR": "0.58",
+      "KAST": "65.4%",
+      "Impact": "1.06",
+      "ADR": "87.0",
+      "Rating 2.0": "1.19"
+    },
+    "3": {
+      "name": "/player/7592/device",
+      "KPR": "0.58",
+      "DPR": "0.54",
+      "KAST": "69.2%",
+      "Impact": "0.48",
+      "ADR": "68.2",
+      "Rating 2.0": "0.98"
+    },
+    "4": {
+      "name": "/player/9278/rez",
+      "KPR": "0.50",
+      "DPR": "0.62",
+      "KAST": "65.4%",
+      "Impact": "1.06",
+      "ADR": "62.3",
+      "Rating 2.0": "0.96"
+    },
+    "5": {
+      "name": "/player/16920/sh1ro",
+      "KPR": "0.73",
+      "DPR": "0.46",
+      "KAST": "84.6%",
+      "Impact": "1.17",
+      "ADR": "69.6",
+      "Rating 2.0": "1.27"
+    },
+    "6": {
+      "name": "/player/16921/nafany",
+      "KPR": "0.62",
+      "DPR": "0.77",
+      "KAST": "65.4%",
+      "Impact": "0.97",
+      "ADR": "72.0",
+      "Rating 2.0": "0.96"
+    },
+    "7": {
+      "name": "/player/8528/hobbit",
+      "KPR": "0.58",
+      "DPR": "0.65",
+      "KAST": "65.4%",
+      "Impact": "0.77",
+      "ADR": "78.8",
+      "Rating 2.0": "0.94"
+    },
+    "8": {
+      "name": "/player/16555/ax1le",
+      "KPR": "0.46",
+      "DPR": "0.73",
+      "KAST": "57.7%",
+      "Impact": "0.50",
+      "ADR": "64.2",
+      "Rating 2.0": "0.68"
+    },
+    "9": {
+      "name": "/player/15071/interz",
+      "KPR": "0.42",
+      "DPR": "0.77",
+      "KAST": "53.8%",
+      "Impact": "0.57",
+      "ADR": "47.3",
+      "Rating 2.0": "0.62"
+    },
+    "mapStatsid": 123477,
+    "name1": "Gambit",
+    "name2": "Ninjas in Pyjamas",
+    "result": {
+      "team1": 10,
+      "team2": 16
+    }
+  },
+  "55": {
+    "0": {
+      "name": "/player/7964/cadian",
+      "KPR": "0.93",
+      "DPR": "0.56",
+      "KAST": "70.7%",
+      "Impact": "1.60",
+      "ADR": "91.5",
+      "Rating 2.0": "1.42"
+    },
+    "1": {
+      "name": "/player/12018/teses",
+      "KPR": "0.80",
+      "DPR": "0.76",
+      "KAST": "70.7%",
+      "Impact": "1.44",
+      "ADR": "90.6",
+      "Rating 2.0": "1.22"
+    },
+    "2": {
+      "name": "/player/14148/sjuush",
+      "KPR": "0.68",
+      "DPR": "0.59",
+      "KAST": "70.7%",
+      "Impact": "0.94",
+      "ADR": "80.7",
+      "Rating 2.0": "1.10"
+    },
+    "3": {
+      "name": "/player/10994/stavn",
+      "KPR": "0.66",
+      "DPR": "0.83",
+      "KAST": "68.3%",
+      "Impact": "0.94",
+      "ADR": "74.6",
+      "Rating 2.0": "0.92"
+    },
+    "4": {
+      "name": "/player/10610/refrezh",
+      "KPR": "0.54",
+      "DPR": "0.66",
+      "KAST": "68.3%",
+      "Impact": "0.67",
+      "ADR": "50.4",
+      "Rating 2.0": "0.80"
+    },
+    "5": {
+      "name": "/player/17306/degster",
+      "KPR": "0.93",
+      "DPR": "0.56",
+      "KAST": "75.6%",
+      "Impact": "1.41",
+      "ADR": "94.1",
+      "Rating 2.0": "1.44"
+    },
+    "6": {
+      "name": "/player/8789/mir",
+      "KPR": "0.95",
+      "DPR": "0.68",
+      "KAST": "68.3%",
+      "Impact": "1.57",
+      "ADR": "104.4",
+      "Rating 2.0": "1.39"
+    },
+    "7": {
+      "name": "/player/7716/chopper",
+      "KPR": "0.59",
+      "DPR": "0.71",
+      "KAST": "58.5%",
+      "Impact": "0.99",
+      "ADR": "64.2",
+      "Rating 2.0": "0.88"
+    },
+    "8": {
+      "name": "/player/12731/sdy",
+      "KPR": "0.49",
+      "DPR": "0.78",
+      "KAST": "63.4%",
+      "Impact": "0.65",
+      "ADR": "60.8",
+      "Rating 2.0": "0.76"
+    },
+    "9": {
+      "name": "/player/18317/magixx",
+      "KPR": "0.44",
+      "DPR": "0.88",
+      "KAST": "61.0%",
+      "Impact": "0.77",
+      "ADR": "53.2",
+      "Rating 2.0": "0.67"
+    },
+    "mapStatsid": 123474,
+    "name1": "Heroic",
+    "name2": "Spirit",
+    "result": {
+      "team1": 22,
+      "team2": 19
+    }
+  },
+  "56": {
+    "0": {
+      "name": "/player/10994/stavn",
+      "KPR": "0.75",
+      "DPR": "0.68",
+      "KAST": "85.7%",
+      "Impact": "1.02",
+      "ADR": "97.0",
+      "Rating 2.0": "1.30"
+    },
+    "1": {
+      "name": "/player/12018/teses",
+      "KPR": "0.71",
+      "DPR": "0.64",
+      "KAST": "75.0%",
+      "Impact": "1.22",
+      "ADR": "74.4",
+      "Rating 2.0": "1.18"
+    },
+    "2": {
+      "name": "/player/14148/sjuush",
+      "KPR": "0.75",
+      "DPR": "0.68",
+      "KAST": "67.9%",
+      "Impact": "1.18",
+      "ADR": "78.5",
+      "Rating 2.0": "1.10"
+    },
+    "3": {
+      "name": "/player/7964/cadian",
+      "KPR": "0.61",
+      "DPR": "0.64",
+      "KAST": "50.0%",
+      "Impact": "1.09",
+      "ADR": "66.2",
+      "Rating 2.0": "0.93"
+    },
+    "4": {
+      "name": "/player/10610/refrezh",
+      "KPR": "0.36",
+      "DPR": "0.64",
+      "KAST": "64.3%",
+      "Impact": "0.24",
+      "ADR": "40.6",
+      "Rating 2.0": "0.65"
+    },
+    "5": {
+      "name": "/player/17306/degster",
+      "KPR": "0.96",
+      "DPR": "0.46",
+      "KAST": "82.1%",
+      "Impact": "1.51",
+      "ADR": "84.1",
+      "Rating 2.0": "1.51"
+    },
+    "6": {
+      "name": "/player/7716/chopper",
+      "KPR": "0.79",
+      "DPR": "0.71",
+      "KAST": "67.9%",
+      "Impact": "1.37",
+      "ADR": "76.7",
+      "Rating 2.0": "1.13"
+    },
+    "7": {
+      "name": "/player/12731/sdy",
+      "KPR": "0.64",
+      "DPR": "0.61",
+      "KAST": "71.4%",
+      "Impact": "0.76",
+      "ADR": "79.6",
+      "Rating 2.0": "1.02"
+    },
+    "8": {
+      "name": "/player/8789/mir",
+      "KPR": "0.50",
+      "DPR": "0.61",
+      "KAST": "67.9%",
+      "Impact": "0.78",
+      "ADR": "69.6",
+      "Rating 2.0": "0.95"
+    },
+    "9": {
+      "name": "/player/18317/magixx",
+      "KPR": "0.32",
+      "DPR": "0.79",
+      "KAST": "57.1%",
+      "Impact": "0.69",
+      "ADR": "41.2",
+      "Rating 2.0": "0.63"
+    },
+    "mapStatsid": 123465,
+    "name1": "Spirit",
+    "name2": "Heroic",
+    "result": {
+      "team1": 16,
+      "team2": 12
+    }
+  },
+  "57": {
+    "0": {
+      "name": "/player/12018/teses",
+      "KPR": "0.86",
+      "DPR": "0.52",
+      "KAST": "72.4%",
+      "Impact": "1.27",
+      "ADR": "82.3",
+      "Rating 2.0": "1.29"
+    },
+    "1": {
+      "name": "/player/14148/sjuush",
+      "KPR": "0.66",
+      "DPR": "0.76",
+      "KAST": "65.5%",
+      "Impact": "1.18",
+      "ADR": "81.2",
+      "Rating 2.0": "1.03"
+    },
+    "2": {
+      "name": "/player/10610/refrezh",
+      "KPR": "0.72",
+      "DPR": "0.69",
+      "KAST": "65.5%",
+      "Impact": "1.09",
+      "ADR": "71.0",
+      "Rating 2.0": "1.03"
+    },
+    "3": {
+      "name": "/player/7964/cadian",
+      "KPR": "0.59",
+      "DPR": "0.66",
+      "KAST": "79.3%",
+      "Impact": "0.77",
+      "ADR": "65.0",
+      "Rating 2.0": "1.02"
+    },
+    "4": {
+      "name": "/player/10994/stavn",
+      "KPR": "0.55",
+      "DPR": "0.72",
+      "KAST": "75.9%",
+      "Impact": "0.74",
+      "ADR": "76.0",
+      "Rating 2.0": "0.96"
+    },
+    "5": {
+      "name": "/player/8789/mir",
+      "KPR": "0.83",
+      "DPR": "0.69",
+      "KAST": "69.0%",
+      "Impact": "1.30",
+      "ADR": "86.4",
+      "Rating 2.0": "1.21"
+    },
+    "6": {
+      "name": "/player/12731/sdy",
+      "KPR": "0.66",
+      "DPR": "0.83",
+      "KAST": "69.0%",
+      "Impact": "1.47",
+      "ADR": "85.4",
+      "Rating 2.0": "1.15"
+    },
+    "7": {
+      "name": "/player/17306/degster",
+      "KPR": "0.79",
+      "DPR": "0.52",
+      "KAST": "72.4%",
+      "Impact": "1.05",
+      "ADR": "55.2",
+      "Rating 2.0": "1.09"
+    },
+    "8": {
+      "name": "/player/7716/chopper",
+      "KPR": "0.59",
+      "DPR": "0.62",
+      "KAST": "72.4%",
+      "Impact": "0.46",
+      "ADR": "66.6",
+      "Rating 2.0": "0.90"
+    },
+    "9": {
+      "name": "/player/18317/magixx",
+      "KPR": "0.48",
+      "DPR": "0.76",
+      "KAST": "65.5%",
+      "Impact": "0.63",
+      "ADR": "66.6",
+      "Rating 2.0": "0.80"
+    },
+    "mapStatsid": 123462,
+    "name1": "Heroic",
+    "name2": "Spirit",
+    "result": {
+      "team1": 16,
+      "team2": 13
+    }
+  },
+  "58": {
+    "0": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.83",
+      "DPR": "0.66",
+      "KAST": "74.5%",
+      "Impact": "1.16",
+      "ADR": "80.7",
+      "Rating 2.0": "1.20"
+    },
+    "1": {
+      "name": "/player/9032/magisk",
+      "KPR": "0.77",
+      "DPR": "0.70",
+      "KAST": "70.2%",
+      "Impact": "1.02",
+      "ADR": "82.1",
+      "Rating 2.0": "1.09"
+    },
+    "2": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.68",
+      "DPR": "0.68",
+      "KAST": "72.3%",
+      "Impact": "0.98",
+      "ADR": "81.0",
+      "Rating 2.0": "1.08"
+    },
+    "3": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.64",
+      "DPR": "0.68",
+      "KAST": "74.5%",
+      "Impact": "0.66",
+      "ADR": "73.4",
+      "Rating 2.0": "0.98"
+    },
+    "4": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "0.64",
+      "DPR": "0.66",
+      "KAST": "66.0%",
+      "Impact": "0.87",
+      "ADR": "71.3",
+      "Rating 2.0": "0.98"
+    },
+    "5": {
+      "name": "/player/18053/broky",
+      "KPR": "0.74",
+      "DPR": "0.66",
+      "KAST": "76.6%",
+      "Impact": "1.26",
+      "ADR": "75.1",
+      "Rating 2.0": "1.15"
+    },
+    "6": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.81",
+      "DPR": "0.72",
+      "KAST": "70.2%",
+      "Impact": "1.27",
+      "ADR": "83.4",
+      "Rating 2.0": "1.14"
+    },
+    "7": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.72",
+      "DPR": "0.66",
+      "KAST": "63.8%",
+      "Impact": "1.15",
+      "ADR": "69.1",
+      "Rating 2.0": "1.03"
+    },
+    "8": {
+      "name": "/player/8183/rain",
+      "KPR": "0.60",
+      "DPR": "0.72",
+      "KAST": "70.2%",
+      "Impact": "0.98",
+      "ADR": "72.2",
+      "Rating 2.0": "0.98"
+    },
+    "9": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.51",
+      "DPR": "0.79",
+      "KAST": "66.0%",
+      "Impact": "1.02",
+      "ADR": "64.9",
+      "Rating 2.0": "0.89"
+    },
+    "mapStatsid": 123467,
+    "name1": "FaZe",
+    "name2": "Astralis",
+    "result": {
+      "team1": 22,
+      "team2": 25
+    }
+  },
+  "59": {
+    "0": {
+      "name": "/player/9032/magisk",
+      "KPR": "0.90",
+      "DPR": "0.52",
+      "KAST": "79.3%",
+      "Impact": "1.77",
+      "ADR": "87.3",
+      "Rating 2.0": "1.46"
+    },
+    "1": {
+      "name": "/player/7412/gla1ve",
+      "KPR": "0.86",
+      "DPR": "0.62",
+      "KAST": "79.3%",
+      "Impact": "1.18",
+      "ADR": "88.2",
+      "Rating 2.0": "1.29"
+    },
+    "2": {
+      "name": "/player/4954/xyp9x",
+      "KPR": "0.69",
+      "DPR": "0.59",
+      "KAST": "79.3%",
+      "Impact": "0.96",
+      "ADR": "84.9",
+      "Rating 2.0": "1.21"
+    },
+    "3": {
+      "name": "/player/9612/bubzkji",
+      "KPR": "0.52",
+      "DPR": "0.69",
+      "KAST": "72.4%",
+      "Impact": "0.85",
+      "ADR": "70.1",
+      "Rating 2.0": "0.95"
+    },
+    "4": {
+      "name": "/player/7398/dupreeh",
+      "KPR": "0.59",
+      "DPR": "0.48",
+      "KAST": "65.5%",
+      "Impact": "0.64",
+      "ADR": "57.4",
+      "Rating 2.0": "0.94"
+    },
+    "5": {
+      "name": "/player/10394/twistzz",
+      "KPR": "0.90",
+      "DPR": "0.62",
+      "KAST": "79.3%",
+      "Impact": "1.37",
+      "ADR": "104.6",
+      "Rating 2.0": "1.45"
+    },
+    "6": {
+      "name": "/player/885/olofmeister",
+      "KPR": "0.62",
+      "DPR": "0.72",
+      "KAST": "62.1%",
+      "Impact": "0.79",
+      "ADR": "60.3",
+      "Rating 2.0": "0.86"
+    },
+    "7": {
+      "name": "/player/18053/broky",
+      "KPR": "0.45",
+      "DPR": "0.72",
+      "KAST": "72.4%",
+      "Impact": "0.77",
+      "ADR": "53.7",
+      "Rating 2.0": "0.84"
+    },
+    "8": {
+      "name": "/player/8183/rain",
+      "KPR": "0.48",
+      "DPR": "0.76",
+      "KAST": "62.1%",
+      "Impact": "0.58",
+      "ADR": "60.9",
+      "Rating 2.0": "0.75"
+    },
+    "9": {
+      "name": "/player/429/karrigan",
+      "KPR": "0.45",
+      "DPR": "0.79",
+      "KAST": "62.1%",
+      "Impact": "0.79",
+      "ADR": "51.8",
+      "Rating 2.0": "0.72"
+    },
+    "mapStatsid": 123461,
+    "name1": "Astralis",
+    "name2": "FaZe",
+    "result": {
+      "team1": 16,
+      "team2": 13
+    }
+  },
+  "60": {
+    "0": {
+      "name": "/player/7998/s1mple",
+      "KPR": "1.55",
+      "DPR": "0.50",
+      "KAST": "80.0%",
+      "Impact": "2.75",
+      "ADR": "140.2",
+      "Rating 2.0": "2.28"
+    },
+    "1": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.85",
+      "DPR": "0.40",
+      "KAST": "90.0%",
+      "Impact": "1.37",
+      "ADR": "101.5",
+      "Rating 2.0": "1.65"
+    },
+    "2": {
+      "name": "/player/18987/b1t",
+      "KPR": "0.75",
+      "DPR": "0.50",
+      "KAST": "85.0%",
+      "Impact": "0.77",
+      "ADR": "88.0",
+      "Rating 2.0": "1.32"
+    },
+    "3": {
+      "name": "/player/8918/electronic",
+      "KPR": "0.70",
+      "DPR": "0.70",
+      "KAST": "70.0%",
+      "Impact": "1.20",
+      "ADR": "69.1",
+      "Rating 2.0": "1.05"
+    },
+    "4": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.55",
+      "DPR": "0.60",
+      "KAST": "70.0%",
+      "Impact": "0.87",
+      "ADR": "61.1",
+      "Rating 2.0": "1.01"
+    },
+    "5": {
+      "name": "/player/11139/alistair",
+      "KPR": "0.60",
+      "DPR": "0.85",
+      "KAST": "60.0%",
+      "Impact": "0.91",
+      "ADR": "64.6",
+      "Rating 2.0": "0.77"
+    },
+    "6": {
+      "name": "/player/11140/ins",
+      "KPR": "0.55",
+      "DPR": "0.95",
+      "KAST": "50.0%",
+      "Impact": "0.98",
+      "ADR": "70.7",
+      "Rating 2.0": "0.71"
+    },
+    "7": {
+      "name": "/player/11162/hatz",
+      "KPR": "0.60",
+      "DPR": "0.85",
+      "KAST": "55.0%",
+      "Impact": "0.76",
+      "ADR": "57.2",
+      "Rating 2.0": "0.67"
+    },
+    "8": {
+      "name": "/player/11485/malta",
+      "KPR": "0.50",
+      "DPR": "0.90",
+      "KAST": "65.0%",
+      "Impact": "0.11",
+      "ADR": "67.0",
+      "Rating 2.0": "0.54"
+    },
+    "9": {
+      "name": "/player/9102/sico",
+      "KPR": "0.40",
+      "DPR": "0.85",
+      "KAST": "55.0%",
+      "Impact": "0.33",
+      "ADR": "58.2",
+      "Rating 2.0": "0.54"
+    },
+    "mapStatsid": 123445,
+    "name1": "Renegades",
+    "name2": "Natus Vincere",
+    "result": {
+      "team1": 4,
+      "team2": 16
+    }
+  },
+  "61": {
+    "0": {
+      "name": "/player/8918/electronic",
+      "KPR": "1.14",
+      "DPR": "0.41",
+      "KAST": "86.4%",
+      "Impact": "2.52",
+      "ADR": "118.3",
+      "Rating 2.0": "2.08"
+    },
+    "1": {
+      "name": "/player/7998/s1mple",
+      "KPR": "1.00",
+      "DPR": "0.45",
+      "KAST": "77.3%",
+      "Impact": "2.01",
+      "ADR": "92.2",
+      "Rating 2.0": "1.65"
+    },
+    "2": {
+      "name": "/player/18987/b1t",
+      "KPR": "0.82",
+      "DPR": "0.55",
+      "KAST": "86.4%",
+      "Impact": "1.09",
+      "ADR": "95.0",
+      "Rating 2.0": "1.47"
+    },
+    "3": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.50",
+      "DPR": "0.50",
+      "KAST": "81.8%",
+      "Impact": "0.76",
+      "ADR": "80.9",
+      "Rating 2.0": "1.17"
+    },
+    "4": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.41",
+      "DPR": "0.50",
+      "KAST": "77.3%",
+      "Impact": "0.37",
+      "ADR": "34.7",
+      "Rating 2.0": "0.88"
+    },
+    "5": {
+      "name": "/player/11139/alistair",
+      "KPR": "0.68",
+      "DPR": "0.68",
+      "KAST": "63.6%",
+      "Impact": "1.17",
+      "ADR": "66.2",
+      "Rating 2.0": "0.95"
+    },
+    "6": {
+      "name": "/player/11485/malta",
+      "KPR": "0.59",
+      "DPR": "0.82",
+      "KAST": "68.2%",
+      "Impact": "0.81",
+      "ADR": "70.4",
+      "Rating 2.0": "0.86"
+    },
+    "7": {
+      "name": "/player/9102/sico",
+      "KPR": "0.59",
+      "DPR": "0.77",
+      "KAST": "59.1%",
+      "Impact": "0.51",
+      "ADR": "74.0",
+      "Rating 2.0": "0.76"
+    },
+    "8": {
+      "name": "/player/11140/ins",
+      "KPR": "0.32",
+      "DPR": "0.68",
+      "KAST": "59.1%",
+      "Impact": "0.45",
+      "ADR": "49.1",
+      "Rating 2.0": "0.64"
+    },
+    "9": {
+      "name": "/player/11162/hatz",
+      "KPR": "0.23",
+      "DPR": "0.91",
+      "KAST": "50.0%",
+      "Impact": "0.24",
+      "ADR": "30.9",
+      "Rating 2.0": "0.34"
+    },
+    "mapStatsid": 123443,
+    "name1": "Renegades",
+    "name2": "Natus Vincere",
+    "result": {
+      "team1": 6,
+      "team2": 16
+    }
+  },
+  "62": {
+    "0": {
+      "name": "/player/7998/s1mple",
+      "KPR": "0.88",
+      "DPR": "0.58",
+      "KAST": "73.1%",
+      "Impact": "1.54",
+      "ADR": "74.7",
+      "Rating 2.0": "1.29"
+    },
+    "1": {
+      "name": "/player/8918/electronic",
+      "KPR": "0.81",
+      "DPR": "0.73",
+      "KAST": "80.8%",
+      "Impact": "0.96",
+      "ADR": "95.9",
+      "Rating 2.0": "1.18"
+    },
+    "2": {
+      "name": "/player/11840/boombl4",
+      "KPR": "0.54",
+      "DPR": "0.65",
+      "KAST": "53.8%",
+      "Impact": "0.99",
+      "ADR": "80.7",
+      "Rating 2.0": "0.90"
+    },
+    "3": {
+      "name": "/player/16947/perfecto",
+      "KPR": "0.38",
+      "DPR": "0.58",
+      "KAST": "73.1%",
+      "Impact": "0.46",
+      "ADR": "46.6",
+      "Rating 2.0": "0.79"
+    },
+    "4": {
+      "name": "/player/18987/b1t",
+      "KPR": "0.31",
+      "DPR": "0.77",
+      "KAST": "61.5%",
+      "Impact": "0.50",
+      "ADR": "43.7",
+      "Rating 2.0": "0.63"
+    },
+    "5": {
+      "name": "/player/11139/alistair",
+      "KPR": "0.88",
+      "DPR": "0.62",
+      "KAST": "76.9%",
+      "Impact": "1.76",
+      "ADR": "81.4",
+      "Rating 2.0": "1.44"
+    },
+    "6": {
+      "name": "/player/11140/ins",
+      "KPR": "0.73",
+      "DPR": "0.62",
+      "KAST": "76.9%",
+      "Impact": "1.31",
+      "ADR": "81.8",
+      "Rating 2.0": "1.23"
+    },
+    "7": {
+      "name": "/player/11485/malta",
+      "KPR": "0.58",
+      "DPR": "0.54",
+      "KAST": "76.9%",
+      "Impact": "0.64",
+      "ADR": "75.0",
+      "Rating 2.0": "1.05"
+    },
+    "8": {
+      "name": "/player/9102/sico",
+      "KPR": "0.69",
+      "DPR": "0.62",
+      "KAST": "61.5%",
+      "Impact": "1.09",
+      "ADR": "68.1",
+      "Rating 2.0": "1.04"
+    },
+    "9": {
+      "name": "/player/11162/hatz",
+      "KPR": "0.42",
+      "DPR": "0.54",
+      "KAST": "65.4%",
+      "Impact": "0.56",
+      "ADR": "60.1",
+      "Rating 2.0": "0.85"
+    },
+    "mapStatsid": 123440,
+    "name1": "Natus Vincere",
+    "name2": "Renegades",
+    "result": {
+      "team1": 10,
+      "team2": 16
+    }
+  },
+  "63": {
+    "0": {
+      "name": "/player/15631/kscerato",
+      "KPR": "0.83",
+      "DPR": "0.67",
+      "KAST": "76.7%",
+      "Impact": "1.00",
+      "ADR": "98.8",
+      "Rating 2.0": "1.25"
+    },
+    "1": {
+      "name": "/player/12822/vini",
+      "KPR": "0.73",
+      "DPR": "0.60",
+      "KAST": "66.7%",
+      "Impact": "1.10",
+      "ADR": "78.6",
+      "Rating 2.0": "1.14"
+    },
+    "2": {
+      "name": "/player/12553/yuurih",
+      "KPR": "0.73",
+      "DPR": "0.63",
+      "KAST": "66.7%",
+      "Impact": "0.67",
+      "ADR": "85.4",
+      "Rating 2.0": "1.05"
+    },
+    "3": {
+      "name": "/player/12521/art",
+      "KPR": "0.63",
+      "DPR": "0.70",
+      "KAST": "53.3%",
+      "Impact": "1.36",
+      "ADR": "61.9",
+      "Rating 2.0": "0.94"
+    },
+    "4": {
+      "name": "/player/20378/honda",
+      "KPR": "0.20",
+      "DPR": "0.70",
+      "KAST": "56.7%",
+      "Impact": "0.30",
+      "ADR": "35.3",
+      "Rating 2.0": "0.49"
+    },
+    "5": {
+      "name": "/player/14176/misutaaa",
+      "KPR": "0.73",
+      "DPR": "0.60",
+      "KAST": "63.3%",
+      "Impact": "1.43",
+      "ADR": "71.5",
+      "Rating 2.0": "1.18"
+    },
+    "6": {
+      "name": "/player/1225/shox",
+      "KPR": "0.63",
+      "DPR": "0.63",
+      "KAST": "66.7%",
+      "Impact": "1.17",
+      "ADR": "67.0",
+      "Rating 2.0": "1.03"
+    },
+    "7": {
+      "name": "/player/19672/kyojin",
+      "KPR": "0.67",
+      "DPR": "0.67",
+      "KAST": "60.0%",
+      "Impact": "1.23",
+      "ADR": "71.1",
+      "Rating 2.0": "1.03"
+    },
+    "8": {
+      "name": "/player/11893/zywoo",
+      "KPR": "0.60",
+      "DPR": "0.60",
+      "KAST": "66.7%",
+      "Impact": "0.80",
+      "ADR": "64.6",
+      "Rating 2.0": "0.96"
+    },
+    "9": {
+      "name": "/player/7322/apex",
+      "KPR": "0.60",
+      "DPR": "0.67",
+      "KAST": "63.3%",
+      "Impact": "0.68",
+      "ADR": "70.9",
+      "Rating 2.0": "0.88"
+    },
+    "mapStatsid": 123441,
+    "name1": "Vitality",
+    "name2": "FURIA",
+    "result": {
+      "team1": 16,
+      "team2": 14
+    }
+  },
+  "64": {
+    "0": {
+      "name": "/player/15631/kscerato",
+      "KPR": "0.69",
+      "DPR": "0.62",
+      "KAST": "69.2%",
+      "Impact": "1.10",
+      "ADR": "69.2",
+      "Rating 2.0": "1.09"
+    },
+    "1": {
+      "name": "/player/12521/art",
+      "KPR": "0.73",
+      "DPR": "0.77",
+      "KAST": "65.4%",
+      "Impact": "1.09",
+      "ADR": "76.4",
+      "Rating 2.0": "1.00"
+    },
+    "2": {
+      "name": "/player/12553/yuurih",
+      "KPR": "0.73",
+      "DPR": "0.69",
+      "KAST": "69.2%",
+      "Impact": "0.80",
+      "ADR": "82.9",
+      "Rating 2.0": "0.99"
+    },
+    "3": {
+      "name": "/player/12822/vini",
+      "KPR": "0.46",
+      "DPR": "0.77",
+      "KAST": "69.2%",
+      "Impact": "0.40",
+      "ADR": "62.1",
+      "Rating 2.0": "0.74"
+    },
+    "4": {
+      "name": "/player/20378/honda",
+      "KPR": "0.42",
+      "DPR": "0.77",
+      "KAST": "42.3%",
+      "Impact": "0.72",
+      "ADR": "47.2",
+      "Rating 2.0": "0.59"
+    },
+    "5": {
+      "name": "/player/11893/zywoo",
+      "KPR": "1.00",
+      "DPR": "0.58",
+      "KAST": "76.9%",
+      "Impact": "1.46",
+      "ADR": "87.3",
+      "Rating 2.0": "1.43"
+    },
+    "6": {
+      "name": "/player/1225/shox",
+      "KPR": "0.85",
+      "DPR": "0.50",
+      "KAST": "76.9%",
+      "Impact": "1.29",
+      "ADR": "95.5",
+      "Rating 2.0": "1.43"
+    },
+    "7": {
+      "name": "/player/7322/apex",
+      "KPR": "0.69",
+      "DPR": "0.69",
+      "KAST": "73.1%",
+      "Impact": "1.01",
+      "ADR": "78.8",
+      "Rating 2.0": "1.11"
+    },
+    "8": {
+      "name": "/player/19672/kyojin",
+      "KPR": "0.65",
+      "DPR": "0.54",
+      "KAST": "73.1%",
+      "Impact": "0.82",
+      "ADR": "70.7",
+      "Rating 2.0": "1.11"
+    },
+    "9": {
+      "name": "/player/14176/misutaaa",
+      "KPR": "0.42",
+      "DPR": "0.73",
+      "KAST": "61.5%",
+      "Impact": "0.70",
+      "ADR": "63.6",
+      "Rating 2.0": "0.76"
+    },
+    "mapStatsid": 123436,
+    "name1": "FURIA",
+    "name2": "Vitality",
+    "result": {
+      "team1": 10,
+      "team2": 16
+    }
+  },
+  "65": {
+    "0": {
+      "name": "/player/13239/qikert",
+      "KPR": "0.86",
+      "DPR": "0.75",
+      "KAST": "71.4%",
+      "Impact": "1.27",
+      "ADR": "91.0",
+      "Rating 2.0": "1.20"
+    },
+    "1": {
+      "name": "/player/11942/buster",
+      "KPR": "0.61",
+      "DPR": "0.71",
+      "KAST": "60.7%",
+      "Impact": "0.87",
+      "ADR": "74.9",
+      "Rating 2.0": "0.92"
+    },
+    "2": {
+      "name": "/player/13915/yekindar",
+      "KPR": "0.46",
+      "DPR": "0.64",
+      "KAST": "71.4%",
+      "Impact": "0.78",
+      "ADR": "45.5",
+      "Rating 2.0": "0.85"
+    },
+    "3": {
+      "name": "/player/13776/jame",
+      "KPR": "0.39",
+      "DPR": "0.64",
+      "KAST": "67.9%",
+      "Impact": "0.49",
+      "ADR": "46.8",
+      "Rating 2.0": "0.75"
+    },
+    "4": {
+      "name": "/player/11716/sanji",
+      "KPR": "0.43",
+      "DPR": "0.71",
+      "KAST": "64.3%",
+      "Impact": "0.41",
+      "ADR": "60.8",
+      "Rating 2.0": "0.71"
+    },
+    "5": {
+      "name": "/player/7266/syrson",
+      "KPR": "0.86",
+      "DPR": "0.39",
+      "KAST": "82.1%",
+      "Impact": "1.07",
+      "ADR": "73.8",
+      "Rating 2.0": "1.34"
+    },
+    "6": {
+      "name": "/player/7938/xantares",
+      "KPR": "0.64",
+      "DPR": "0.61",
+      "KAST": "75.0%",
+      "Impact": "1.32",
+      "ADR": "77.9",
+      "Rating 2.0": "1.19"
+    },
+    "7": {
+      "name": "/player/5794/tabsen",
+      "KPR": "0.68",
+      "DPR": "0.61",
+      "KAST": "67.9%",
+      "Impact": "1.14",
+      "ADR": "89.5",
+      "Rating 2.0": "1.17"
+    },
+    "8": {
+      "name": "/player/12781/k1to",
+      "KPR": "0.68",
+      "DPR": "0.61",
+      "KAST": "71.4%",
+      "Impact": "1.27",
+      "ADR": "68.8",
+      "Rating 2.0": "1.13"
+    },
+    "9": {
+      "name": "/player/5796/tizian",
+      "KPR": "0.61",
+      "DPR": "0.61",
+      "KAST": "78.6%",
+      "Impact": "0.89",
+      "ADR": "63.7",
+      "Rating 2.0": "1.03"
+    },
+    "mapStatsid": 123432,
+    "name1": "BIG",
+    "name2": "Virtus.pro",
+    "result": {
+      "team1": 16,
+      "team2": 12
+    }
+  },
+  "66": {
+    "0": {
+      "name": "/player/13915/yekindar",
+      "KPR": "1.00",
+      "DPR": "0.69",
+      "KAST": "72.4%",
+      "Impact": "1.92",
+      "ADR": "114.6",
+      "Rating 2.0": "1.58"
+    },
+    "1": {
+      "name": "/player/11942/buster",
+      "KPR": "0.72",
+      "DPR": "0.62",
+      "KAST": "86.2%",
+      "Impact": "1.15",
+      "ADR": "82.6",
+      "Rating 2.0": "1.30"
+    },
+    "2": {
+      "name": "/player/13776/jame",
+      "KPR": "0.83",
+      "DPR": "0.59",
+      "KAST": "69.0%",
+      "Impact": "1.26",
+      "ADR": "68.7",
+      "Rating 2.0": "1.16"
+    },
+    "3": {
+      "name": "/player/13239/qikert",
+      "KPR": "0.55",
+      "DPR": "0.72",
+      "KAST": "62.1%",
+      "Impact": "0.81",
+      "ADR": "65.1",
+      "Rating 2.0": "0.83"
+    },
+    "4": {
+      "name": "/player/11716/sanji",
+      "KPR": "0.21",
+      "DPR": "0.69",
+      "KAST": "65.5%",
+      "Impact": "0.40",
+      "ADR": "39.8",
+      "Rating 2.0": "0.60"
+    },
+    "5": {
+      "name": "/player/5794/tabsen",
+      "KPR": "0.97",
+      "DPR": "0.76",
+      "KAST": "69.0%",
+      "Impact": "1.71",
+      "ADR": "129.3",
+      "Rating 2.0": "1.52"
+    },
+    "6": {
+      "name": "/player/12781/k1to",
+      "KPR": "0.62",
+      "DPR": "0.66",
+      "KAST": "72.4%",
+      "Impact": "0.99",
+      "ADR": "54.9",
+      "Rating 2.0": "0.97"
+    },
+    "7": {
+      "name": "/player/7266/syrson",
+      "KPR": "0.69",
+      "DPR": "0.66",
+      "KAST": "69.0%",
+      "Impact": "0.80",
+      "ADR": "63.4",
+      "Rating 2.0": "0.96"
+    },
+    "8": {
+      "name": "/player/7938/xantares",
+      "KPR": "0.59",
+      "DPR": "0.62",
+      "KAST": "69.0%",
+      "Impact": "0.79",
+      "ADR": "59.3",
+      "Rating 2.0": "0.90"
+    },
+    "9": {
+      "name": "/player/5796/tizian",
+      "KPR": "0.45",
+      "DPR": "0.66",
+      "KAST": "62.1%",
+      "Impact": "0.77",
+      "ADR": "65.4",
+      "Rating 2.0": "0.85"
+    },
+    "mapStatsid": 123429,
+    "name1": "BIG",
+    "name2": "Virtus.pro",
+    "result": {
+      "team1": 16,
+      "team2": 13
+    }
+  },
+  "67": {
+    "0": {
+      "name": "/player/3741/niko",
+      "KPR": "1.23",
+      "DPR": "0.41",
+      "KAST": "81.8%",
+      "Impact": "2.58",
+      "ADR": "100.1",
+      "Rating 2.0": "1.99"
+    },
+    "1": {
+      "name": "/player/3972/hunter",
+      "KPR": "1.00",
+      "DPR": "0.59",
+      "KAST": "77.3%",
+      "Impact": "1.55",
+      "ADR": "102.7",
+      "Rating 2.0": "1.52"
+    },
+    "2": {
+      "name": "/player/284/jackz",
+      "KPR": "0.82",
+      "DPR": "0.59",
+      "KAST": "81.8%",
+      "Impact": "1.53",
+      "ADR": "83.7",
+      "Rating 2.0": "1.39"
+    },
+    "3": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.59",
+      "DPR": "0.50",
+      "KAST": "86.4%",
+      "Impact": "1.01",
+      "ADR": "64.5",
+      "Rating 2.0": "1.26"
+    },
+    "4": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.27",
+      "DPR": "0.45",
+      "KAST": "81.8%",
+      "Impact": "0.90",
+      "ADR": "49.7",
+      "Rating 2.0": "1.08"
+    },
+    "5": {
+      "name": "/player/12126/poizon",
+      "KPR": "0.77",
+      "DPR": "0.77",
+      "KAST": "77.3%",
+      "Impact": "0.70",
+      "ADR": "75.7",
+      "Rating 2.0": "1.01"
+    },
+    "6": {
+      "name": "/player/4679/jks",
+      "KPR": "0.55",
+      "DPR": "0.77",
+      "KAST": "59.1%",
+      "Impact": "0.49",
+      "ADR": "68.4",
+      "Rating 2.0": "0.75"
+    },
+    "7": {
+      "name": "/player/9078/k0nfig",
+      "KPR": "0.55",
+      "DPR": "0.86",
+      "KAST": "63.6%",
+      "Impact": "0.54",
+      "ADR": "60.5",
+      "Rating 2.0": "0.65"
+    },
+    "8": {
+      "name": "/player/15165/blamef",
+      "KPR": "0.36",
+      "DPR": "0.73",
+      "KAST": "54.5%",
+      "Impact": "0.43",
+      "ADR": "46.8",
+      "Rating 2.0": "0.59"
+    },
+    "9": {
+      "name": "/player/7805/rush",
+      "KPR": "0.32",
+      "DPR": "0.77",
+      "KAST": "54.5%",
+      "Impact": "0.45",
+      "ADR": "49.5",
+      "Rating 2.0": "0.55"
+    },
+    "mapStatsid": 123431,
+    "name1": "Complexity",
+    "name2": "G2",
+    "result": {
+      "team1": 6,
+      "team2": 16
+    }
+  },
+  "68": {
+    "0": {
+      "name": "/player/3972/hunter",
+      "KPR": "1.00",
+      "DPR": "0.53",
+      "KAST": "76.7%",
+      "Impact": "1.49",
+      "ADR": "95.3",
+      "Rating 2.0": "1.47"
+    },
+    "1": {
+      "name": "/player/3741/niko",
+      "KPR": "0.73",
+      "DPR": "0.53",
+      "KAST": "80.0%",
+      "Impact": "1.33",
+      "ADR": "92.3",
+      "Rating 2.0": "1.36"
+    },
+    "2": {
+      "name": "/player/284/jackz",
+      "KPR": "0.80",
+      "DPR": "0.73",
+      "KAST": "70.0%",
+      "Impact": "1.39",
+      "ADR": "93.7",
+      "Rating 2.0": "1.26"
+    },
+    "3": {
+      "name": "/player/9616/amanek",
+      "KPR": "0.47",
+      "DPR": "0.63",
+      "KAST": "66.7%",
+      "Impact": "0.46",
+      "ADR": "49.0",
+      "Rating 2.0": "0.78"
+    },
+    "4": {
+      "name": "/player/9618/nexa",
+      "KPR": "0.33",
+      "DPR": "0.67",
+      "KAST": "63.3%",
+      "Impact": "0.48",
+      "ADR": "47.8",
+      "Rating 2.0": "0.69"
+    },
+    "5": {
+      "name": "/player/15165/blamef",
+      "KPR": "0.80",
+      "DPR": "0.57",
+      "KAST": "63.3%",
+      "Impact": "1.82",
+      "ADR": "83.4",
+      "Rating 2.0": "1.29"
+    },
+    "6": {
+      "name": "/player/9078/k0nfig",
+      "KPR": "0.87",
+      "DPR": "0.77",
+      "KAST": "60.0%",
+      "Impact": "1.17",
+      "ADR": "78.4",
+      "Rating 2.0": "1.04"
+    },
+    "7": {
+      "name": "/player/7805/rush",
+      "KPR": "0.53",
+      "DPR": "0.70",
+      "KAST": "76.7%",
+      "Impact": "0.71",
+      "ADR": "72.8",
+      "Rating 2.0": "0.96"
+    },
+    "8": {
+      "name": "/player/4679/jks",
+      "KPR": "0.40",
+      "DPR": "0.63",
+      "KAST": "73.3%",
+      "Impact": "0.60",
+      "ADR": "66.2",
+      "Rating 2.0": "0.89"
+    },
+    "9": {
+      "name": "/player/12126/poizon",
+      "KPR": "0.50",
+      "DPR": "0.67",
+      "KAST": "63.3%",
+      "Impact": "0.69",
+      "ADR": "59.6",
+      "Rating 2.0": "0.86"
+    },
+    "mapStatsid": 123428,
+    "name1": "Complexity",
+    "name2": "G2",
+    "result": {
+      "team1": 14,
+      "team2": 16
+    }
+  },
+  "69": {
+    "0": {
+      "name": "/player/16555/ax1le",
+      "KPR": "1.00",
+      "DPR": "0.68",
+      "KAST": "75.0%",
+      "Impact": "2.00",
+      "ADR": "97.4",
+      "Rating 2.0": "1.49"
+    },
+    "1": {
+      "name": "/player/16921/nafany",
+      "KPR": "0.93",
+      "DPR": "0.68",
+      "KAST": "78.6%",
+      "Impact": "1.56",
+      "ADR": "95.0",
+      "Rating 2.0": "1.40"
+    },
+    "2": {
+      "name": "/player/16920/sh1ro",
+      "KPR": "0.86",
+      "DPR": "0.61",
+      "KAST": "71.4%",
+      "Impact": "1.06",
+      "ADR": "81.3",
+      "Rating 2.0": "1.20"
+    },
+    "3": {
+      "name": "/player/15071/interz",
+      "KPR": "0.43",
+      "DPR": "0.68",
+      "KAST": "71.4%",
+      "Impact": "0.74",
+      "ADR": "51.3",
+      "Rating 2.0": "0.89"
+    },
+    "4": {
+      "name": "/player/8528/hobbit",
+      "KPR": "0.46",
+      "DPR": "0.71",
+      "KAST": "64.3%",
+      "Impact": "0.68",
+      "ADR": "54.4",
+      "Rating 2.0": "0.78"
+    },
+    "5": {
+      "name": "/player/9960/frozen",
+      "KPR": "0.86",
+      "DPR": "0.64",
+      "KAST": "67.9%",
+      "Impact": "1.26",
+      "ADR": "87.9",
+      "Rating 2.0": "1.25"
+    },
+    "6": {
+      "name": "/player/19015/bymas",
+      "KPR": "0.61",
+      "DPR": "0.82",
+      "KAST": "78.6%",
+      "Impact": "0.99",
+      "ADR": "78.0",
+      "Rating 2.0": "1.02"
+    },
+    "7": {
+      "name": "/player/10330/acor",
+      "KPR": "0.68",
+      "DPR": "0.68",
+      "KAST": "64.3%",
+      "Impact": "0.80",
+      "ADR": "63.8",
+      "Rating 2.0": "0.92"
+    },
+    "8": {
+      "name": "/player/11816/ropz",
+      "KPR": "0.64",
+      "DPR": "0.82",
+      "KAST": "60.7%",
+      "Impact": "1.02",
+      "ADR": "70.9",
+      "Rating 2.0": "0.89"
+    },
+    "9": {
+      "name": "/player/9115/dexter",
+      "KPR": "0.54",
+      "DPR": "0.71",
+      "KAST": "67.9%",
+      "Impact": "0.77",
+      "ADR": "61.1",
+      "Rating 2.0": "0.87"
+    },
+    "mapStatsid": 123425,
+    "name1": "MOUZ",
+    "name2": "Gambit",
+    "result": {
+      "team1": 12,
+      "team2": 16
+    }
+  },
+  "70": {
+    "0": {
+      "name": "/player/8528/hobbit",
+      "KPR": "1.26",
+      "DPR": "0.53",
+      "KAST": "78.9%",
+      "Impact": "2.10",
+      "ADR": "116.6",
+      "Rating 2.0": "1.89"
+    },
+    "1": {
+      "name": "/player/15071/interz",
+      "KPR": "0.95",
+      "DPR": "0.21",
+      "KAST": "89.5%",
+      "Impact": "2.14",
+      "ADR": "88.4",
+      "Rating 2.0": "1.86"
+    },
+    "2": {
+      "name": "/player/16555/ax1le",
+      "KPR": "0.74",
+      "DPR": "0.47",
+      "KAST": "73.7%",
+      "Impact": "1.46",
+      "ADR": "85.7",
+      "Rating 2.0": "1.38"
+    },
+    "3": {
+      "name": "/player/16921/nafany",
+      "KPR": "0.58",
+      "DPR": "0.58",
+      "KAST": "78.9%",
+      "Impact": "1.64",
+      "ADR": "80.2",
+      "Rating 2.0": "1.33"
+    },
+    "4": {
+      "name": "/player/16920/sh1ro",
+      "KPR": "0.74",
+      "DPR": "0.53",
+      "KAST": "73.7%",
+      "Impact": "1.08",
+      "ADR": "83.7",
+      "Rating 2.0": "1.31"
+    },
+    "5": {
+      "name": "/player/9960/frozen",
+      "KPR": "0.84",
+      "DPR": "0.84",
+      "KAST": "63.2%",
+      "Impact": "1.35",
+      "ADR": "95.4",
+      "Rating 2.0": "1.05"
+    },
+    "6": {
+      "name": "/player/9115/dexter",
+      "KPR": "0.47",
+      "DPR": "0.95",
+      "KAST": "52.6%",
+      "Impact": "0.52",
+      "ADR": "67.7",
+      "Rating 2.0": "0.55"
+    },
+    "7": {
+      "name": "/player/11816/ropz",
+      "KPR": "0.37",
+      "DPR": "0.79",
+      "KAST": "52.6%",
+      "Impact": "0.50",
+      "ADR": "56.7",
+      "Rating 2.0": "0.53"
+    },
+    "8": {
+      "name": "/player/19015/bymas",
+      "KPR": "0.47",
+      "DPR": "0.84",
+      "KAST": "57.9%",
+      "Impact": "0.28",
+      "ADR": "39.1",
+      "Rating 2.0": "0.47"
+    },
+    "9": {
+      "name": "/player/10330/acor",
+      "KPR": "0.16",
+      "DPR": "0.89",
+      "KAST": "42.1%",
+      "Impact": "0.14",
+      "ADR": "28.6",
+      "Rating 2.0": "0.28"
+    },
+    "mapStatsid": 123419,
+    "name1": "MOUZ",
+    "name2": "Gambit",
+    "result": {
+      "team1": 3,
+      "team2": 16
+    }
+  },
+  "71": {
+    "0": {
+      "name": "/player/16921/nafany",
+      "KPR": "0.77",
+      "DPR": "0.67",
+      "KAST": "73.3%",
+      "Impact": "1.28",
+      "ADR": "88.8",
+      "Rating 2.0": "1.21"
+    },
+    "1": {
+      "name": "/player/8528/hobbit",
+      "KPR": "0.63",
+      "DPR": "0.63",
+      "KAST": "70.0%",
+      "Impact": "1.23",
+      "ADR": "70.5",
+      "Rating 2.0": "1.07"
+    },
+    "2": {
+      "name": "/player/16920/sh1ro",
+      "KPR": "0.50",
+      "DPR": "0.63",
+      "KAST": "76.7%",
+      "Impact": "0.73",
+      "ADR": "61.1",
+      "Rating 2.0": "0.99"
+    },
+    "3": {
+      "name": "/player/16555/ax1le",
+      "KPR": "0.60",
+      "DPR": "0.57",
+      "KAST": "70.0%",
+      "Impact": "0.81",
+      "ADR": "54.5",
+      "Rating 2.0": "0.98"
+    },
+    "4": {
+      "name": "/player/15071/interz",
+      "KPR": "0.47",
+      "DPR": "0.53",
+      "KAST": "73.3%",
+      "Impact": "0.34",
+      "ADR": "63.6",
+      "Rating 2.0": "0.93"
+    },
+    "5": {
+      "name": "/player/19015/bymas",
+      "KPR": "0.80",
+      "DPR": "0.50",
+      "KAST": "83.3%",
+      "Impact": "1.16",
+      "ADR": "81.5",
+      "Rating 2.0": "1.33"
+    },
+    "6": {
+      "name": "/player/9115/dexter",
+      "KPR": "0.70",
+      "DPR": "0.47",
+      "KAST": "76.7%",
+      "Impact": "1.24",
+      "ADR": "70.8",
+      "Rating 2.0": "1.31"
+    },
+    "7": {
+      "name": "/player/11816/ropz",
+      "KPR": "0.73",
+      "DPR": "0.73",
+      "KAST": "70.0%",
+      "Impact": "1.43",
+      "ADR": "81.3",
+      "Rating 2.0": "1.14"
+    },
+    "8": {
+      "name": "/player/10330/acor",
+      "KPR": "0.43",
+      "DPR": "0.57",
+      "KAST": "70.0%",
+      "Impact": "0.72",
+      "ADR": "39.8",
+      "Rating 2.0": "0.83"
+    },
+    "9": {
+      "name": "/player/9960/frozen",
+      "KPR": "0.37",
+      "DPR": "0.73",
+      "KAST": "63.3%",
+      "Impact": "0.57",
+      "ADR": "60.6",
+      "Rating 2.0": "0.72"
+    },
+    "mapStatsid": 123415,
+    "name1": "Gambit",
+    "name2": "MOUZ",
+    "result": {
+      "team1": 14,
+      "team2": 16
+    }
+  },
+  "72": {
+    "0": {
+      "name": "/player/8738/elige",
+      "KPR": "0.56",
+      "DPR": "1.00",
+      "KAST": "50.0%",
+      "Impact": "1.00",
+      "ADR": "63.2",
+      "Rating 2.0": "0.61"
+    },
+    "1": {
+      "name": "/player/2023/fallen",
+      "KPR": "0.56",
+      "DPR": "0.89",
+      "KAST": "44.4%",
+      "Impact": "0.73",
+      "ADR": "48.1",
+      "Rating 2.0": "0.56"
+    },
+    "2": {
+      "name": "/player/8520/naf",
+      "KPR": "0.39",
+      "DPR": "0.94",
+      "KAST": "55.6%",
+      "Impact": "0.19",
+      "ADR": "69.6",
+      "Rating 2.0": "0.52"
+    },
+    "3": {
+      "name": "/player/8797/stewie2k",
+      "KPR": "0.50",
+      "DPR": "0.89",
+      "KAST": "44.4%",
+      "Impact": "0.39",
+      "ADR": "52.4",
+      "Rating 2.0": "0.46"
+    },
+    "4": {
+      "name": "/player/13578/grim",
+      "KPR": "0.33",
+      "DPR": "0.89",
+      "KAST": "44.4%",
+      "Impact": "0.43",
+      "ADR": "47.5",
+      "Rating 2.0": "0.43"
+    },
+    "5": {
+      "name": "/player/7592/device",
+      "KPR": "1.28",
+      "DPR": "0.39",
+      "KAST": "100.0%",
+      "Impact": "2.14",
+      "ADR": "120.8",
+      "Rating 2.0": "2.23"
+    },
+    "6": {
+      "name": "/player/9278/rez",
+      "KPR": "1.06",
+      "DPR": "0.56",
+      "KAST": "88.9%",
+      "Impact": "1.87",
+      "ADR": "109.7",
+      "Rating 2.0": "1.81"
+    },
+    "7": {
+      "name": "/player/14218/plopski",
+      "KPR": "1.11",
+      "DPR": "0.28",
+      "KAST": "94.4%",
+      "Impact": "1.08",
+      "ADR": "91.9",
+      "Rating 2.0": "1.76"
+    },
+    "8": {
+      "name": "/player/9766/hampus",
+      "KPR": "0.72",
+      "DPR": "0.50",
+      "KAST": "83.3%",
+      "Impact": "1.35",
+      "ADR": "81.9",
+      "Rating 2.0": "1.40"
+    },
+    "9": {
+      "name": "/player/19310/lnz",
+      "KPR": "0.44",
+      "DPR": "0.61",
+      "KAST": "72.2%",
+      "Impact": "1.10",
+      "ADR": "58.7",
+      "Rating 2.0": "1.06"
+    },
+    "mapStatsid": 123423,
+    "name1": "Liquid",
+    "name2": "Ninjas in Pyjamas",
+    "result": {
+      "team1": 2,
+      "team2": 16
+    }
+  },
+  "73": {
+    "0": {
+      "name": "/player/8738/elige",
+      "KPR": "0.64",
+      "DPR": "0.82",
+      "KAST": "68.2%",
+      "Impact": "0.57",
+      "ADR": "85.7",
+      "Rating 2.0": "0.89"
+    },
+    "1": {
+      "name": "/player/2023/fallen",
+      "KPR": "0.45",
+      "DPR": "0.73",
+      "KAST": "50.0%",
+      "Impact": "1.04",
+      "ADR": "45.6",
+      "Rating 2.0": "0.75"
+    },
+    "2": {
+      "name": "/player/8520/naf",
+      "KPR": "0.45",
+      "DPR": "0.73",
+      "KAST": "59.1%",
+      "Impact": "0.51",
+      "ADR": "49.3",
+      "Rating 2.0": "0.70"
+    },
+    "3": {
+      "name": "/player/13578/grim",
+      "KPR": "0.36",
+      "DPR": "0.77",
+      "KAST": "59.1%",
+      "Impact": "0.67",
+      "ADR": "47.6",
+      "Rating 2.0": "0.68"
+    },
+    "4": {
+      "name": "/player/8797/stewie2k",
+      "KPR": "0.27",
+      "DPR": "0.82",
+      "KAST": "50.0%",
+      "Impact": "0.31",
+      "ADR": "40.9",
+      "Rating 2.0": "0.49"
+    },
+    "5": {
+      "name": "/player/19310/lnz",
+      "KPR": "0.82",
+      "DPR": "0.27",
+      "KAST": "90.9%",
+      "Impact": "1.17",
+      "ADR": "86.6",
+      "Rating 2.0": "1.52"
+    },
+    "6": {
+      "name": "/player/9766/hampus",
+      "KPR": "1.00",
+      "DPR": "0.55",
+      "KAST": "81.8%",
+      "Impact": "1.43",
+      "ADR": "97.9",
+      "Rating 2.0": "1.49"
+    },
+    "7": {
+      "name": "/player/7592/device",
+      "KPR": "0.82",
+      "DPR": "0.41",
+      "KAST": "86.4%",
+      "Impact": "1.38",
+      "ADR": "83.1",
+      "Rating 2.0": "1.46"
+    },
+    "8": {
+      "name": "/player/9278/rez",
+      "KPR": "0.82",
+      "DPR": "0.41",
+      "KAST": "77.3%",
+      "Impact": "1.46",
+      "ADR": "96.1",
+      "Rating 2.0": "1.45"
+    },
+    "9": {
+      "name": "/player/14218/plopski",
+      "KPR": "0.41",
+      "DPR": "0.55",
+      "KAST": "68.2%",
+      "Impact": "0.51",
+      "ADR": "49.4",
+      "Rating 2.0": "0.81"
+    },
+    "mapStatsid": 123422,
+    "name1": "Ninjas in Pyjamas",
+    "name2": "Liquid",
+    "result": {
+      "team1": 16,
+      "team2": 6
+    }
+  },
+  "74": {
+    "0": {
+      "name": "/player/13578/grim",
+      "KPR": "0.97",
+      "DPR": "0.61",
+      "KAST": "69.4%",
+      "Impact": "2.01",
+      "ADR": "94.4",
+      "Rating 2.0": "1.50"
+    },
+    "1": {
+      "name": "/player/8520/naf",
+      "KPR": "0.69",
+      "DPR": "0.72",
+      "KAST": "66.7%",
+      "Impact": "1.21",
+      "ADR": "82.9",
+      "Rating 2.0": "1.10"
+    },
+    "2": {
+      "name": "/player/2023/fallen",
+      "KPR": "0.64",
+      "DPR": "0.64",
+      "KAST": "69.4%",
+      "Impact": "1.11",
+      "ADR": "68.9",
+      "Rating 2.0": "1.08"
+    },
+    "3": {
+      "name": "/player/8797/stewie2k",
+      "KPR": "0.64",
+      "DPR": "0.69",
+      "KAST": "77.8%",
+      "Impact": "0.88",
+      "ADR": "67.5",
+      "Rating 2.0": "1.00"
+    },
+    "4": {
+      "name": "/player/8738/elige",
+      "KPR": "0.53",
+      "DPR": "0.64",
+      "KAST": "63.9%",
+      "Impact": "0.86",
+      "ADR": "59.6",
+      "Rating 2.0": "0.87"
+    },
+    "5": {
+      "name": "/player/7592/device",
+      "KPR": "0.89",
+      "DPR": "0.58",
+      "KAST": "75.0%",
+      "Impact": "1.47",
+      "ADR": "87.2",
+      "Rating 2.0": "1.34"
+    },
+    "6": {
+      "name": "/player/14218/plopski",
+      "KPR": "0.75",
+      "DPR": "0.78",
+      "KAST": "69.4%",
+      "Impact": "1.15",
+      "ADR": "81.1",
+      "Rating 2.0": "1.09"
+    },
+    "7": {
+      "name": "/player/9766/hampus",
+      "KPR": "0.69",
+      "DPR": "0.72",
+      "KAST": "69.4%",
+      "Impact": "0.83",
+      "ADR": "85.2",
+      "Rating 2.0": "1.00"
+    },
+    "8": {
+      "name": "/player/9278/rez",
+      "KPR": "0.50",
+      "DPR": "0.67",
+      "KAST": "69.4%",
+      "Impact": "0.50",
+      "ADR": "50.3",
+      "Rating 2.0": "0.78"
+    },
+    "9": {
+      "name": "/player/19310/lnz",
+      "KPR": "0.47",
+      "DPR": "0.72",
+      "KAST": "58.3%",
+      "Impact": "0.74",
+      "ADR": "59.2",
+      "Rating 2.0": "0.75"
+    },
+    "mapStatsid": 123413,
+    "name1": "Liquid",
+    "name2": "Ninjas in Pyjamas",
+    "result": {
+      "team1": 19,
+      "team2": 17
+    }
+  }
+}
